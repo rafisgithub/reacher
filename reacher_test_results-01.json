@@ -1,0 +1,3552 @@
+[
+    {
+        "email": "john@gmail.com",
+        "status": "success",
+        "is_reachable": "invalid",
+        "is_deliverable": false,
+        "proxy_used": null,
+        "duration_secs": 1
+    },
+    {
+        "email": "john@yahoo.com",
+        "status": "exception",
+        "error": "HTTPConnectionPool(host='localhost', port=8080): Read timed out. (read timeout=15)"
+    },
+    {
+        "email": "john@outlook.com",
+        "status": "exception",
+        "error": "HTTPConnectionPool(host='localhost', port=8080): Read timed out. (read timeout=15)"
+    },
+    {
+        "email": "john@hotmail.com",
+        "status": "exception",
+        "error": "HTTPConnectionPool(host='localhost', port=8080): Read timed out. (read timeout=15)"
+    },
+    {
+        "email": "john@icloud.com",
+        "status": "success",
+        "is_reachable": "unknown",
+        "is_deliverable": null,
+        "proxy_used": null,
+        "duration_secs": 1
+    },
+    {
+        "email": "mary@gmail.com",
+        "status": "success",
+        "is_reachable": "invalid",
+        "is_deliverable": false,
+        "proxy_used": null,
+        "duration_secs": 1
+    },
+    {
+        "email": "mary@yahoo.com",
+        "status": "exception",
+        "error": "HTTPConnectionPool(host='localhost', port=8080): Read timed out. (read timeout=15)"
+    },
+    {
+        "email": "mary@outlook.com",
+        "status": "exception",
+        "error": "HTTPConnectionPool(host='localhost', port=8080): Read timed out. (read timeout=15)"
+    },
+    {
+        "email": "mary@hotmail.com",
+        "status": "exception",
+        "error": "HTTPConnectionPool(host='localhost', port=8080): Read timed out. (read timeout=15)"
+    },
+    {
+        "email": "mary@icloud.com",
+        "status": "success",
+        "is_reachable": "unknown",
+        "is_deliverable": null,
+        "proxy_used": null,
+        "duration_secs": 2
+    },
+    {
+        "email": "david@gmail.com",
+        "status": "success",
+        "is_reachable": "invalid",
+        "is_deliverable": false,
+        "proxy_used": null,
+        "duration_secs": 2
+    },
+    {
+        "email": "david@yahoo.com",
+        "status": "exception",
+        "error": "HTTPConnectionPool(host='localhost', port=8080): Read timed out. (read timeout=15)"
+    },
+    {
+        "email": "david@outlook.com",
+        "status": "exception",
+        "error": "HTTPConnectionPool(host='localhost', port=8080): Read timed out. (read timeout=15)"
+    },
+    {
+        "email": "david@hotmail.com",
+        "status": "exception",
+        "error": "HTTPConnectionPool(host='localhost', port=8080): Read timed out. (read timeout=15)"
+    },
+    {
+        "email": "david@icloud.com",
+        "status": "success",
+        "is_reachable": "unknown",
+        "is_deliverable": null,
+        "proxy_used": null,
+        "duration_secs": 1
+    },
+    {
+        "email": "sarah@gmail.com",
+        "status": "success",
+        "is_reachable": "invalid",
+        "is_deliverable": false,
+        "proxy_used": null,
+        "duration_secs": 1
+    },
+    {
+        "email": "sarah@yahoo.com",
+        "status": "exception",
+        "error": "HTTPConnectionPool(host='localhost', port=8080): Read timed out. (read timeout=15)"
+    },
+    {
+        "email": "sarah@outlook.com",
+        "status": "exception",
+        "error": "HTTPConnectionPool(host='localhost', port=8080): Read timed out. (read timeout=15)"
+    },
+    {
+        "email": "sarah@hotmail.com",
+        "status": "exception",
+        "error": "HTTPConnectionPool(host='localhost', port=8080): Read timed out. (read timeout=15)"
+    },
+    {
+        "email": "sarah@icloud.com",
+        "status": "success",
+        "is_reachable": "unknown",
+        "is_deliverable": null,
+        "proxy_used": null,
+        "duration_secs": 1
+    },
+    {
+        "email": "michael@gmail.com",
+        "status": "success",
+        "is_reachable": "invalid",
+        "is_deliverable": false,
+        "proxy_used": null,
+        "duration_secs": 1
+    },
+    {
+        "email": "michael@yahoo.com",
+        "status": "exception",
+        "error": "HTTPConnectionPool(host='localhost', port=8080): Read timed out. (read timeout=15)"
+    },
+    {
+        "email": "michael@outlook.com",
+        "status": "exception",
+        "error": "HTTPConnectionPool(host='localhost', port=8080): Read timed out. (read timeout=15)"
+    },
+    {
+        "email": "michael@hotmail.com",
+        "status": "exception",
+        "error": "HTTPConnectionPool(host='localhost', port=8080): Read timed out. (read timeout=15)"
+    },
+    {
+        "email": "michael@icloud.com",
+        "status": "success",
+        "is_reachable": "unknown",
+        "is_deliverable": null,
+        "proxy_used": null,
+        "duration_secs": 1
+    },
+    {
+        "email": "jessica@gmail.com",
+        "status": "success",
+        "is_reachable": "invalid",
+        "is_deliverable": false,
+        "proxy_used": null,
+        "duration_secs": 1
+    },
+    {
+        "email": "jessica@yahoo.com",
+        "status": "exception",
+        "error": "HTTPConnectionPool(host='localhost', port=8080): Read timed out. (read timeout=15)"
+    },
+    {
+        "email": "jessica@outlook.com",
+        "status": "exception",
+        "error": "HTTPConnectionPool(host='localhost', port=8080): Read timed out. (read timeout=15)"
+    },
+    {
+        "email": "jessica@hotmail.com",
+        "status": "exception",
+        "error": "HTTPConnectionPool(host='localhost', port=8080): Read timed out. (read timeout=15)"
+    },
+    {
+        "email": "jessica@icloud.com",
+        "status": "success",
+        "is_reachable": "unknown",
+        "is_deliverable": null,
+        "proxy_used": null,
+        "duration_secs": 1
+    },
+    {
+        "email": "james@gmail.com",
+        "status": "success",
+        "is_reachable": "invalid",
+        "is_deliverable": false,
+        "proxy_used": null,
+        "duration_secs": 1
+    },
+    {
+        "email": "james@yahoo.com",
+        "status": "exception",
+        "error": "HTTPConnectionPool(host='localhost', port=8080): Read timed out. (read timeout=15)"
+    },
+    {
+        "email": "james@outlook.com",
+        "status": "exception",
+        "error": "HTTPConnectionPool(host='localhost', port=8080): Read timed out. (read timeout=15)"
+    },
+    {
+        "email": "james@hotmail.com",
+        "status": "exception",
+        "error": "HTTPConnectionPool(host='localhost', port=8080): Read timed out. (read timeout=15)"
+    },
+    {
+        "email": "james@icloud.com",
+        "status": "success",
+        "is_reachable": "unknown",
+        "is_deliverable": null,
+        "proxy_used": null,
+        "duration_secs": 1
+    },
+    {
+        "email": "emily@gmail.com",
+        "status": "success",
+        "is_reachable": "invalid",
+        "is_deliverable": false,
+        "proxy_used": null,
+        "duration_secs": 2
+    },
+    {
+        "email": "emily@yahoo.com",
+        "status": "exception",
+        "error": "HTTPConnectionPool(host='localhost', port=8080): Read timed out. (read timeout=15)"
+    },
+    {
+        "email": "emily@outlook.com",
+        "status": "exception",
+        "error": "HTTPConnectionPool(host='localhost', port=8080): Read timed out. (read timeout=15)"
+    },
+    {
+        "email": "emily@hotmail.com",
+        "status": "exception",
+        "error": "HTTPConnectionPool(host='localhost', port=8080): Read timed out. (read timeout=15)"
+    },
+    {
+        "email": "emily@icloud.com",
+        "status": "success",
+        "is_reachable": "unknown",
+        "is_deliverable": null,
+        "proxy_used": null,
+        "duration_secs": 1
+    },
+    {
+        "email": "robert@gmail.com",
+        "status": "success",
+        "is_reachable": "invalid",
+        "is_deliverable": false,
+        "proxy_used": null,
+        "duration_secs": 1
+    },
+    {
+        "email": "robert@yahoo.com",
+        "status": "exception",
+        "error": "HTTPConnectionPool(host='localhost', port=8080): Read timed out. (read timeout=15)"
+    },
+    {
+        "email": "robert@outlook.com",
+        "status": "exception",
+        "error": "HTTPConnectionPool(host='localhost', port=8080): Read timed out. (read timeout=15)"
+    },
+    {
+        "email": "robert@hotmail.com",
+        "status": "exception",
+        "error": "HTTPConnectionPool(host='localhost', port=8080): Read timed out. (read timeout=15)"
+    },
+    {
+        "email": "robert@icloud.com",
+        "status": "success",
+        "is_reachable": "unknown",
+        "is_deliverable": null,
+        "proxy_used": null,
+        "duration_secs": 1
+    },
+    {
+        "email": "jennifer@gmail.com",
+        "status": "success",
+        "is_reachable": "invalid",
+        "is_deliverable": false,
+        "proxy_used": null,
+        "duration_secs": 1
+    },
+    {
+        "email": "jennifer@yahoo.com",
+        "status": "exception",
+        "error": "HTTPConnectionPool(host='localhost', port=8080): Read timed out. (read timeout=15)"
+    },
+    {
+        "email": "jennifer@outlook.com",
+        "status": "exception",
+        "error": "HTTPConnectionPool(host='localhost', port=8080): Read timed out. (read timeout=15)"
+    },
+    {
+        "email": "jennifer@hotmail.com",
+        "status": "exception",
+        "error": "HTTPConnectionPool(host='localhost', port=8080): Read timed out. (read timeout=15)"
+    },
+    {
+        "email": "jennifer@icloud.com",
+        "status": "success",
+        "is_reachable": "unknown",
+        "is_deliverable": null,
+        "proxy_used": null,
+        "duration_secs": 1
+    },
+    {
+        "email": "william@gmail.com",
+        "status": "success",
+        "is_reachable": "invalid",
+        "is_deliverable": false,
+        "proxy_used": null,
+        "duration_secs": 1
+    },
+    {
+        "email": "william@yahoo.com",
+        "status": "exception",
+        "error": "HTTPConnectionPool(host='localhost', port=8080): Read timed out. (read timeout=15)"
+    },
+    {
+        "email": "william@outlook.com",
+        "status": "exception",
+        "error": "HTTPConnectionPool(host='localhost', port=8080): Read timed out. (read timeout=15)"
+    },
+    {
+        "email": "william@hotmail.com",
+        "status": "exception",
+        "error": "HTTPConnectionPool(host='localhost', port=8080): Read timed out. (read timeout=15)"
+    },
+    {
+        "email": "william@icloud.com",
+        "status": "success",
+        "is_reachable": "unknown",
+        "is_deliverable": null,
+        "proxy_used": null,
+        "duration_secs": 1
+    },
+    {
+        "email": "elizabeth@gmail.com",
+        "status": "success",
+        "is_reachable": "invalid",
+        "is_deliverable": false,
+        "proxy_used": null,
+        "duration_secs": 1
+    },
+    {
+        "email": "elizabeth@yahoo.com",
+        "status": "exception",
+        "error": "HTTPConnectionPool(host='localhost', port=8080): Read timed out. (read timeout=15)"
+    },
+    {
+        "email": "elizabeth@outlook.com",
+        "status": "exception",
+        "error": "HTTPConnectionPool(host='localhost', port=8080): Read timed out. (read timeout=15)"
+    },
+    {
+        "email": "elizabeth@hotmail.com",
+        "status": "exception",
+        "error": "HTTPConnectionPool(host='localhost', port=8080): Read timed out. (read timeout=15)"
+    },
+    {
+        "email": "elizabeth@icloud.com",
+        "status": "success",
+        "is_reachable": "unknown",
+        "is_deliverable": null,
+        "proxy_used": null,
+        "duration_secs": 2
+    },
+    {
+        "email": "joseph@gmail.com",
+        "status": "success",
+        "is_reachable": "invalid",
+        "is_deliverable": false,
+        "proxy_used": null,
+        "duration_secs": 1
+    },
+    {
+        "email": "joseph@yahoo.com",
+        "status": "exception",
+        "error": "HTTPConnectionPool(host='localhost', port=8080): Read timed out. (read timeout=15)"
+    },
+    {
+        "email": "joseph@outlook.com",
+        "status": "exception",
+        "error": "HTTPConnectionPool(host='localhost', port=8080): Read timed out. (read timeout=15)"
+    },
+    {
+        "email": "joseph@hotmail.com",
+        "status": "exception",
+        "error": "HTTPConnectionPool(host='localhost', port=8080): Read timed out. (read timeout=15)"
+    },
+    {
+        "email": "joseph@icloud.com",
+        "status": "success",
+        "is_reachable": "unknown",
+        "is_deliverable": null,
+        "proxy_used": null,
+        "duration_secs": 1
+    },
+    {
+        "email": "linda@gmail.com",
+        "status": "success",
+        "is_reachable": "invalid",
+        "is_deliverable": false,
+        "proxy_used": null,
+        "duration_secs": 1
+    },
+    {
+        "email": "linda@yahoo.com",
+        "status": "exception",
+        "error": "HTTPConnectionPool(host='localhost', port=8080): Read timed out. (read timeout=15)"
+    },
+    {
+        "email": "linda@outlook.com",
+        "status": "exception",
+        "error": "HTTPConnectionPool(host='localhost', port=8080): Read timed out. (read timeout=15)"
+    },
+    {
+        "email": "linda@hotmail.com",
+        "status": "exception",
+        "error": "HTTPConnectionPool(host='localhost', port=8080): Read timed out. (read timeout=15)"
+    },
+    {
+        "email": "linda@icloud.com",
+        "status": "success",
+        "is_reachable": "unknown",
+        "is_deliverable": null,
+        "proxy_used": null,
+        "duration_secs": 2
+    },
+    {
+        "email": "charles@gmail.com",
+        "status": "success",
+        "is_reachable": "invalid",
+        "is_deliverable": false,
+        "proxy_used": null,
+        "duration_secs": 2
+    },
+    {
+        "email": "charles@yahoo.com",
+        "status": "exception",
+        "error": "HTTPConnectionPool(host='localhost', port=8080): Read timed out. (read timeout=15)"
+    },
+    {
+        "email": "charles@outlook.com",
+        "status": "exception",
+        "error": "HTTPConnectionPool(host='localhost', port=8080): Read timed out. (read timeout=15)"
+    },
+    {
+        "email": "charles@hotmail.com",
+        "status": "exception",
+        "error": "HTTPConnectionPool(host='localhost', port=8080): Read timed out. (read timeout=15)"
+    },
+    {
+        "email": "charles@icloud.com",
+        "status": "success",
+        "is_reachable": "unknown",
+        "is_deliverable": null,
+        "proxy_used": null,
+        "duration_secs": 2
+    },
+    {
+        "email": "susan@gmail.com",
+        "status": "success",
+        "is_reachable": "invalid",
+        "is_deliverable": false,
+        "proxy_used": null,
+        "duration_secs": 2
+    },
+    {
+        "email": "susan@yahoo.com",
+        "status": "exception",
+        "error": "HTTPConnectionPool(host='localhost', port=8080): Read timed out. (read timeout=15)"
+    },
+    {
+        "email": "susan@outlook.com",
+        "status": "exception",
+        "error": "HTTPConnectionPool(host='localhost', port=8080): Read timed out. (read timeout=15)"
+    },
+    {
+        "email": "susan@hotmail.com",
+        "status": "exception",
+        "error": "HTTPConnectionPool(host='localhost', port=8080): Read timed out. (read timeout=15)"
+    },
+    {
+        "email": "susan@icloud.com",
+        "status": "success",
+        "is_reachable": "unknown",
+        "is_deliverable": null,
+        "proxy_used": null,
+        "duration_secs": 2
+    },
+    {
+        "email": "thomas@gmail.com",
+        "status": "success",
+        "is_reachable": "invalid",
+        "is_deliverable": false,
+        "proxy_used": null,
+        "duration_secs": 2
+    },
+    {
+        "email": "thomas@yahoo.com",
+        "status": "exception",
+        "error": "HTTPConnectionPool(host='localhost', port=8080): Read timed out. (read timeout=15)"
+    },
+    {
+        "email": "thomas@outlook.com",
+        "status": "exception",
+        "error": "HTTPConnectionPool(host='localhost', port=8080): Read timed out. (read timeout=15)"
+    },
+    {
+        "email": "thomas@hotmail.com",
+        "status": "exception",
+        "error": "HTTPConnectionPool(host='localhost', port=8080): Read timed out. (read timeout=15)"
+    },
+    {
+        "email": "thomas@icloud.com",
+        "status": "success",
+        "is_reachable": "unknown",
+        "is_deliverable": null,
+        "proxy_used": null,
+        "duration_secs": 2
+    },
+    {
+        "email": "margaret@gmail.com",
+        "status": "success",
+        "is_reachable": "invalid",
+        "is_deliverable": false,
+        "proxy_used": null,
+        "duration_secs": 1
+    },
+    {
+        "email": "margaret@yahoo.com",
+        "status": "exception",
+        "error": "HTTPConnectionPool(host='localhost', port=8080): Read timed out. (read timeout=15)"
+    },
+    {
+        "email": "margaret@outlook.com",
+        "status": "exception",
+        "error": "HTTPConnectionPool(host='localhost', port=8080): Read timed out. (read timeout=15)"
+    },
+    {
+        "email": "margaret@hotmail.com",
+        "status": "exception",
+        "error": "HTTPConnectionPool(host='localhost', port=8080): Read timed out. (read timeout=15)"
+    },
+    {
+        "email": "margaret@icloud.com",
+        "status": "success",
+        "is_reachable": "unknown",
+        "is_deliverable": null,
+        "proxy_used": null,
+        "duration_secs": 2
+    },
+    {
+        "email": "christopher@gmail.com",
+        "status": "success",
+        "is_reachable": "invalid",
+        "is_deliverable": false,
+        "proxy_used": null,
+        "duration_secs": 1
+    },
+    {
+        "email": "christopher@yahoo.com",
+        "status": "exception",
+        "error": "HTTPConnectionPool(host='localhost', port=8080): Read timed out. (read timeout=15)"
+    },
+    {
+        "email": "christopher@outlook.com",
+        "status": "exception",
+        "error": "HTTPConnectionPool(host='localhost', port=8080): Read timed out. (read timeout=15)"
+    },
+    {
+        "email": "christopher@hotmail.com",
+        "status": "exception",
+        "error": "HTTPConnectionPool(host='localhost', port=8080): Read timed out. (read timeout=15)"
+    },
+    {
+        "email": "christopher@icloud.com",
+        "status": "success",
+        "is_reachable": "unknown",
+        "is_deliverable": null,
+        "proxy_used": null,
+        "duration_secs": 1
+    },
+    {
+        "email": "lisa@gmail.com",
+        "status": "success",
+        "is_reachable": "invalid",
+        "is_deliverable": false,
+        "proxy_used": null,
+        "duration_secs": 1
+    },
+    {
+        "email": "lisa@yahoo.com",
+        "status": "exception",
+        "error": "HTTPConnectionPool(host='localhost', port=8080): Read timed out. (read timeout=15)"
+    },
+    {
+        "email": "lisa@outlook.com",
+        "status": "exception",
+        "error": "HTTPConnectionPool(host='localhost', port=8080): Read timed out. (read timeout=15)"
+    },
+    {
+        "email": "lisa@hotmail.com",
+        "status": "exception",
+        "error": "HTTPConnectionPool(host='localhost', port=8080): Read timed out. (read timeout=15)"
+    },
+    {
+        "email": "lisa@icloud.com",
+        "status": "success",
+        "is_reachable": "unknown",
+        "is_deliverable": null,
+        "proxy_used": null,
+        "duration_secs": 1
+    },
+    {
+        "email": "daniel@gmail.com",
+        "status": "success",
+        "is_reachable": "invalid",
+        "is_deliverable": false,
+        "proxy_used": null,
+        "duration_secs": 1
+    },
+    {
+        "email": "daniel@yahoo.com",
+        "status": "exception",
+        "error": "HTTPConnectionPool(host='localhost', port=8080): Read timed out. (read timeout=15)"
+    },
+    {
+        "email": "daniel@outlook.com",
+        "status": "exception",
+        "error": "HTTPConnectionPool(host='localhost', port=8080): Read timed out. (read timeout=15)"
+    },
+    {
+        "email": "daniel@hotmail.com",
+        "status": "exception",
+        "error": "HTTPConnectionPool(host='localhost', port=8080): Read timed out. (read timeout=15)"
+    },
+    {
+        "email": "daniel@icloud.com",
+        "status": "success",
+        "is_reachable": "unknown",
+        "is_deliverable": null,
+        "proxy_used": null,
+        "duration_secs": 1
+    },
+    {
+        "email": "karen@gmail.com",
+        "status": "success",
+        "is_reachable": "invalid",
+        "is_deliverable": false,
+        "proxy_used": null,
+        "duration_secs": 1
+    },
+    {
+        "email": "karen@yahoo.com",
+        "status": "exception",
+        "error": "HTTPConnectionPool(host='localhost', port=8080): Read timed out. (read timeout=15)"
+    },
+    {
+        "email": "karen@outlook.com",
+        "status": "exception",
+        "error": "HTTPConnectionPool(host='localhost', port=8080): Read timed out. (read timeout=15)"
+    },
+    {
+        "email": "karen@hotmail.com",
+        "status": "exception",
+        "error": "HTTPConnectionPool(host='localhost', port=8080): Read timed out. (read timeout=15)"
+    },
+    {
+        "email": "karen@icloud.com",
+        "status": "success",
+        "is_reachable": "unknown",
+        "is_deliverable": null,
+        "proxy_used": null,
+        "duration_secs": 1
+    },
+    {
+        "email": "paul@gmail.com",
+        "status": "success",
+        "is_reachable": "invalid",
+        "is_deliverable": false,
+        "proxy_used": null,
+        "duration_secs": 1
+    },
+    {
+        "email": "paul@yahoo.com",
+        "status": "exception",
+        "error": "HTTPConnectionPool(host='localhost', port=8080): Read timed out. (read timeout=15)"
+    },
+    {
+        "email": "paul@outlook.com",
+        "status": "exception",
+        "error": "HTTPConnectionPool(host='localhost', port=8080): Read timed out. (read timeout=15)"
+    },
+    {
+        "email": "paul@hotmail.com",
+        "status": "exception",
+        "error": "HTTPConnectionPool(host='localhost', port=8080): Read timed out. (read timeout=15)"
+    },
+    {
+        "email": "paul@icloud.com",
+        "status": "success",
+        "is_reachable": "unknown",
+        "is_deliverable": null,
+        "proxy_used": null,
+        "duration_secs": 1
+    },
+    {
+        "email": "nancy@gmail.com",
+        "status": "success",
+        "is_reachable": "invalid",
+        "is_deliverable": false,
+        "proxy_used": null,
+        "duration_secs": 1
+    },
+    {
+        "email": "nancy@yahoo.com",
+        "status": "exception",
+        "error": "HTTPConnectionPool(host='localhost', port=8080): Read timed out. (read timeout=15)"
+    },
+    {
+        "email": "nancy@outlook.com",
+        "status": "exception",
+        "error": "HTTPConnectionPool(host='localhost', port=8080): Read timed out. (read timeout=15)"
+    },
+    {
+        "email": "nancy@hotmail.com",
+        "status": "exception",
+        "error": "HTTPConnectionPool(host='localhost', port=8080): Read timed out. (read timeout=15)"
+    },
+    {
+        "email": "nancy@icloud.com",
+        "status": "success",
+        "is_reachable": "unknown",
+        "is_deliverable": null,
+        "proxy_used": null,
+        "duration_secs": 1
+    },
+    {
+        "email": "mark@gmail.com",
+        "status": "success",
+        "is_reachable": "invalid",
+        "is_deliverable": false,
+        "proxy_used": null,
+        "duration_secs": 1
+    },
+    {
+        "email": "mark@yahoo.com",
+        "status": "exception",
+        "error": "HTTPConnectionPool(host='localhost', port=8080): Read timed out. (read timeout=15)"
+    },
+    {
+        "email": "mark@outlook.com",
+        "status": "exception",
+        "error": "HTTPConnectionPool(host='localhost', port=8080): Read timed out. (read timeout=15)"
+    },
+    {
+        "email": "mark@hotmail.com",
+        "status": "exception",
+        "error": "HTTPConnectionPool(host='localhost', port=8080): Read timed out. (read timeout=15)"
+    },
+    {
+        "email": "mark@icloud.com",
+        "status": "success",
+        "is_reachable": "unknown",
+        "is_deliverable": null,
+        "proxy_used": null,
+        "duration_secs": 2
+    },
+    {
+        "email": "betty@gmail.com",
+        "status": "success",
+        "is_reachable": "invalid",
+        "is_deliverable": false,
+        "proxy_used": null,
+        "duration_secs": 1
+    },
+    {
+        "email": "betty@yahoo.com",
+        "status": "exception",
+        "error": "HTTPConnectionPool(host='localhost', port=8080): Read timed out. (read timeout=15)"
+    },
+    {
+        "email": "betty@outlook.com",
+        "status": "exception",
+        "error": "HTTPConnectionPool(host='localhost', port=8080): Read timed out. (read timeout=15)"
+    },
+    {
+        "email": "betty@hotmail.com",
+        "status": "exception",
+        "error": "HTTPConnectionPool(host='localhost', port=8080): Read timed out. (read timeout=15)"
+    },
+    {
+        "email": "betty@icloud.com",
+        "status": "success",
+        "is_reachable": "unknown",
+        "is_deliverable": null,
+        "proxy_used": null,
+        "duration_secs": 2
+    },
+    {
+        "email": "donald@gmail.com",
+        "status": "success",
+        "is_reachable": "invalid",
+        "is_deliverable": false,
+        "proxy_used": null,
+        "duration_secs": 1
+    },
+    {
+        "email": "donald@yahoo.com",
+        "status": "exception",
+        "error": "HTTPConnectionPool(host='localhost', port=8080): Read timed out. (read timeout=15)"
+    },
+    {
+        "email": "donald@outlook.com",
+        "status": "exception",
+        "error": "HTTPConnectionPool(host='localhost', port=8080): Read timed out. (read timeout=15)"
+    },
+    {
+        "email": "donald@hotmail.com",
+        "status": "exception",
+        "error": "HTTPConnectionPool(host='localhost', port=8080): Read timed out. (read timeout=15)"
+    },
+    {
+        "email": "donald@icloud.com",
+        "status": "success",
+        "is_reachable": "unknown",
+        "is_deliverable": null,
+        "proxy_used": null,
+        "duration_secs": 1
+    },
+    {
+        "email": "sanders@gmail.com",
+        "status": "success",
+        "is_reachable": "invalid",
+        "is_deliverable": false,
+        "proxy_used": null,
+        "duration_secs": 2
+    },
+    {
+        "email": "sanders@yahoo.com",
+        "status": "exception",
+        "error": "HTTPConnectionPool(host='localhost', port=8080): Read timed out. (read timeout=15)"
+    },
+    {
+        "email": "sanders@outlook.com",
+        "status": "exception",
+        "error": "HTTPConnectionPool(host='localhost', port=8080): Read timed out. (read timeout=15)"
+    },
+    {
+        "email": "sanders@hotmail.com",
+        "status": "exception",
+        "error": "HTTPConnectionPool(host='localhost', port=8080): Read timed out. (read timeout=15)"
+    },
+    {
+        "email": "sanders@icloud.com",
+        "status": "success",
+        "is_reachable": "unknown",
+        "is_deliverable": null,
+        "proxy_used": null,
+        "duration_secs": 2
+    },
+    {
+        "email": "george@gmail.com",
+        "status": "success",
+        "is_reachable": "invalid",
+        "is_deliverable": false,
+        "proxy_used": null,
+        "duration_secs": 1
+    },
+    {
+        "email": "george@yahoo.com",
+        "status": "exception",
+        "error": "HTTPConnectionPool(host='localhost', port=8080): Read timed out. (read timeout=15)"
+    },
+    {
+        "email": "george@outlook.com",
+        "status": "exception",
+        "error": "HTTPConnectionPool(host='localhost', port=8080): Read timed out. (read timeout=15)"
+    },
+    {
+        "email": "george@hotmail.com",
+        "status": "exception",
+        "error": "HTTPConnectionPool(host='localhost', port=8080): Read timed out. (read timeout=15)"
+    },
+    {
+        "email": "george@icloud.com",
+        "status": "success",
+        "is_reachable": "unknown",
+        "is_deliverable": null,
+        "proxy_used": null,
+        "duration_secs": 1
+    },
+    {
+        "email": "ashley@gmail.com",
+        "status": "success",
+        "is_reachable": "invalid",
+        "is_deliverable": false,
+        "proxy_used": null,
+        "duration_secs": 1
+    },
+    {
+        "email": "ashley@yahoo.com",
+        "status": "exception",
+        "error": "HTTPConnectionPool(host='localhost', port=8080): Read timed out. (read timeout=15)"
+    },
+    {
+        "email": "ashley@outlook.com",
+        "status": "exception",
+        "error": "HTTPConnectionPool(host='localhost', port=8080): Read timed out. (read timeout=15)"
+    },
+    {
+        "email": "ashley@hotmail.com",
+        "status": "exception",
+        "error": "HTTPConnectionPool(host='localhost', port=8080): Read timed out. (read timeout=15)"
+    },
+    {
+        "email": "ashley@icloud.com",
+        "status": "success",
+        "is_reachable": "unknown",
+        "is_deliverable": null,
+        "proxy_used": null,
+        "duration_secs": 2
+    },
+    {
+        "email": "kenneth@gmail.com",
+        "status": "success",
+        "is_reachable": "invalid",
+        "is_deliverable": false,
+        "proxy_used": null,
+        "duration_secs": 1
+    },
+    {
+        "email": "kenneth@yahoo.com",
+        "status": "exception",
+        "error": "HTTPConnectionPool(host='localhost', port=8080): Read timed out. (read timeout=15)"
+    },
+    {
+        "email": "kenneth@outlook.com",
+        "status": "exception",
+        "error": "HTTPConnectionPool(host='localhost', port=8080): Read timed out. (read timeout=15)"
+    },
+    {
+        "email": "kenneth@hotmail.com",
+        "status": "exception",
+        "error": "HTTPConnectionPool(host='localhost', port=8080): Read timed out. (read timeout=15)"
+    },
+    {
+        "email": "kenneth@icloud.com",
+        "status": "success",
+        "is_reachable": "unknown",
+        "is_deliverable": null,
+        "proxy_used": null,
+        "duration_secs": 1
+    },
+    {
+        "email": "kimberly@gmail.com",
+        "status": "success",
+        "is_reachable": "invalid",
+        "is_deliverable": false,
+        "proxy_used": null,
+        "duration_secs": 1
+    },
+    {
+        "email": "kimberly@yahoo.com",
+        "status": "exception",
+        "error": "HTTPConnectionPool(host='localhost', port=8080): Read timed out. (read timeout=15)"
+    },
+    {
+        "email": "kimberly@outlook.com",
+        "status": "exception",
+        "error": "HTTPConnectionPool(host='localhost', port=8080): Read timed out. (read timeout=15)"
+    },
+    {
+        "email": "kimberly@hotmail.com",
+        "status": "exception",
+        "error": "HTTPConnectionPool(host='localhost', port=8080): Read timed out. (read timeout=15)"
+    },
+    {
+        "email": "kimberly@icloud.com",
+        "status": "success",
+        "is_reachable": "unknown",
+        "is_deliverable": null,
+        "proxy_used": null,
+        "duration_secs": 1
+    },
+    {
+        "email": "steven@gmail.com",
+        "status": "success",
+        "is_reachable": "invalid",
+        "is_deliverable": false,
+        "proxy_used": null,
+        "duration_secs": 2
+    },
+    {
+        "email": "steven@yahoo.com",
+        "status": "exception",
+        "error": "HTTPConnectionPool(host='localhost', port=8080): Read timed out. (read timeout=15)"
+    },
+    {
+        "email": "steven@outlook.com",
+        "status": "exception",
+        "error": "HTTPConnectionPool(host='localhost', port=8080): Read timed out. (read timeout=15)"
+    },
+    {
+        "email": "steven@hotmail.com",
+        "status": "exception",
+        "error": "HTTPConnectionPool(host='localhost', port=8080): Read timed out. (read timeout=15)"
+    },
+    {
+        "email": "steven@icloud.com",
+        "status": "success",
+        "is_reachable": "unknown",
+        "is_deliverable": null,
+        "proxy_used": null,
+        "duration_secs": 1
+    },
+    {
+        "email": "donna@gmail.com",
+        "status": "success",
+        "is_reachable": "invalid",
+        "is_deliverable": false,
+        "proxy_used": null,
+        "duration_secs": 1
+    },
+    {
+        "email": "donna@yahoo.com",
+        "status": "exception",
+        "error": "HTTPConnectionPool(host='localhost', port=8080): Read timed out. (read timeout=15)"
+    },
+    {
+        "email": "donna@outlook.com",
+        "status": "exception",
+        "error": "HTTPConnectionPool(host='localhost', port=8080): Read timed out. (read timeout=15)"
+    },
+    {
+        "email": "donna@hotmail.com",
+        "status": "exception",
+        "error": "HTTPConnectionPool(host='localhost', port=8080): Read timed out. (read timeout=15)"
+    },
+    {
+        "email": "donna@icloud.com",
+        "status": "success",
+        "is_reachable": "unknown",
+        "is_deliverable": null,
+        "proxy_used": null,
+        "duration_secs": 2
+    },
+    {
+        "email": "edward@gmail.com",
+        "status": "success",
+        "is_reachable": "invalid",
+        "is_deliverable": false,
+        "proxy_used": null,
+        "duration_secs": 1
+    },
+    {
+        "email": "edward@yahoo.com",
+        "status": "exception",
+        "error": "HTTPConnectionPool(host='localhost', port=8080): Read timed out. (read timeout=15)"
+    },
+    {
+        "email": "edward@outlook.com",
+        "status": "exception",
+        "error": "HTTPConnectionPool(host='localhost', port=8080): Read timed out. (read timeout=15)"
+    },
+    {
+        "email": "edward@hotmail.com",
+        "status": "exception",
+        "error": "HTTPConnectionPool(host='localhost', port=8080): Read timed out. (read timeout=15)"
+    },
+    {
+        "email": "edward@icloud.com",
+        "status": "success",
+        "is_reachable": "unknown",
+        "is_deliverable": null,
+        "proxy_used": null,
+        "duration_secs": 1
+    },
+    {
+        "email": "carol@gmail.com",
+        "status": "success",
+        "is_reachable": "invalid",
+        "is_deliverable": false,
+        "proxy_used": null,
+        "duration_secs": 1
+    },
+    {
+        "email": "carol@yahoo.com",
+        "status": "exception",
+        "error": "HTTPConnectionPool(host='localhost', port=8080): Read timed out. (read timeout=15)"
+    },
+    {
+        "email": "carol@outlook.com",
+        "status": "exception",
+        "error": "HTTPConnectionPool(host='localhost', port=8080): Read timed out. (read timeout=15)"
+    },
+    {
+        "email": "carol@hotmail.com",
+        "status": "exception",
+        "error": "HTTPConnectionPool(host='localhost', port=8080): Read timed out. (read timeout=15)"
+    },
+    {
+        "email": "carol@icloud.com",
+        "status": "success",
+        "is_reachable": "unknown",
+        "is_deliverable": null,
+        "proxy_used": null,
+        "duration_secs": 1
+    },
+    {
+        "email": "brian@gmail.com",
+        "status": "success",
+        "is_reachable": "invalid",
+        "is_deliverable": false,
+        "proxy_used": null,
+        "duration_secs": 3
+    },
+    {
+        "email": "brian@yahoo.com",
+        "status": "exception",
+        "error": "HTTPConnectionPool(host='localhost', port=8080): Read timed out. (read timeout=15)"
+    },
+    {
+        "email": "brian@outlook.com",
+        "status": "exception",
+        "error": "HTTPConnectionPool(host='localhost', port=8080): Read timed out. (read timeout=15)"
+    },
+    {
+        "email": "brian@hotmail.com",
+        "status": "exception",
+        "error": "HTTPConnectionPool(host='localhost', port=8080): Read timed out. (read timeout=15)"
+    },
+    {
+        "email": "brian@icloud.com",
+        "status": "success",
+        "is_reachable": "unknown",
+        "is_deliverable": null,
+        "proxy_used": null,
+        "duration_secs": 3
+    },
+    {
+        "email": "ruth@gmail.com",
+        "status": "success",
+        "is_reachable": "invalid",
+        "is_deliverable": false,
+        "proxy_used": null,
+        "duration_secs": 1
+    },
+    {
+        "email": "ruth@yahoo.com",
+        "status": "exception",
+        "error": "HTTPConnectionPool(host='localhost', port=8080): Read timed out. (read timeout=15)"
+    },
+    {
+        "email": "ruth@outlook.com",
+        "status": "exception",
+        "error": "HTTPConnectionPool(host='localhost', port=8080): Read timed out. (read timeout=15)"
+    },
+    {
+        "email": "ruth@hotmail.com",
+        "status": "exception",
+        "error": "HTTPConnectionPool(host='localhost', port=8080): Read timed out. (read timeout=15)"
+    },
+    {
+        "email": "ruth@icloud.com",
+        "status": "success",
+        "is_reachable": "unknown",
+        "is_deliverable": null,
+        "proxy_used": null,
+        "duration_secs": 1
+    },
+    {
+        "email": "ronald@gmail.com",
+        "status": "success",
+        "is_reachable": "invalid",
+        "is_deliverable": false,
+        "proxy_used": null,
+        "duration_secs": 1
+    },
+    {
+        "email": "ronald@yahoo.com",
+        "status": "exception",
+        "error": "HTTPConnectionPool(host='localhost', port=8080): Read timed out. (read timeout=15)"
+    },
+    {
+        "email": "ronald@outlook.com",
+        "status": "exception",
+        "error": "HTTPConnectionPool(host='localhost', port=8080): Read timed out. (read timeout=15)"
+    },
+    {
+        "email": "ronald@hotmail.com",
+        "status": "exception",
+        "error": "HTTPConnectionPool(host='localhost', port=8080): Read timed out. (read timeout=15)"
+    },
+    {
+        "email": "ronald@icloud.com",
+        "status": "success",
+        "is_reachable": "unknown",
+        "is_deliverable": null,
+        "proxy_used": null,
+        "duration_secs": 1
+    },
+    {
+        "email": "sharon@gmail.com",
+        "status": "success",
+        "is_reachable": "invalid",
+        "is_deliverable": false,
+        "proxy_used": null,
+        "duration_secs": 1
+    },
+    {
+        "email": "sharon@yahoo.com",
+        "status": "exception",
+        "error": "HTTPConnectionPool(host='localhost', port=8080): Read timed out. (read timeout=15)"
+    },
+    {
+        "email": "sharon@outlook.com",
+        "status": "exception",
+        "error": "HTTPConnectionPool(host='localhost', port=8080): Read timed out. (read timeout=15)"
+    },
+    {
+        "email": "sharon@hotmail.com",
+        "status": "exception",
+        "error": "HTTPConnectionPool(host='localhost', port=8080): Read timed out. (read timeout=15)"
+    },
+    {
+        "email": "sharon@icloud.com",
+        "status": "success",
+        "is_reachable": "unknown",
+        "is_deliverable": null,
+        "proxy_used": null,
+        "duration_secs": 3
+    },
+    {
+        "email": "anthony@gmail.com",
+        "status": "success",
+        "is_reachable": "invalid",
+        "is_deliverable": false,
+        "proxy_used": null,
+        "duration_secs": 1
+    },
+    {
+        "email": "anthony@yahoo.com",
+        "status": "exception",
+        "error": "HTTPConnectionPool(host='localhost', port=8080): Read timed out. (read timeout=15)"
+    },
+    {
+        "email": "anthony@outlook.com",
+        "status": "exception",
+        "error": "HTTPConnectionPool(host='localhost', port=8080): Read timed out. (read timeout=15)"
+    },
+    {
+        "email": "anthony@hotmail.com",
+        "status": "exception",
+        "error": "HTTPConnectionPool(host='localhost', port=8080): Read timed out. (read timeout=15)"
+    },
+    {
+        "email": "anthony@icloud.com",
+        "status": "success",
+        "is_reachable": "unknown",
+        "is_deliverable": null,
+        "proxy_used": null,
+        "duration_secs": 2
+    },
+    {
+        "email": "michelle@gmail.com",
+        "status": "success",
+        "is_reachable": "safe",
+        "is_deliverable": true,
+        "proxy_used": null,
+        "duration_secs": 2
+    },
+    {
+        "email": "michelle@yahoo.com",
+        "status": "exception",
+        "error": "HTTPConnectionPool(host='localhost', port=8080): Read timed out. (read timeout=15)"
+    },
+    {
+        "email": "michelle@outlook.com",
+        "status": "exception",
+        "error": "HTTPConnectionPool(host='localhost', port=8080): Read timed out. (read timeout=15)"
+    },
+    {
+        "email": "michelle@hotmail.com",
+        "status": "exception",
+        "error": "HTTPConnectionPool(host='localhost', port=8080): Read timed out. (read timeout=15)"
+    },
+    {
+        "email": "michelle@icloud.com",
+        "status": "success",
+        "is_reachable": "unknown",
+        "is_deliverable": null,
+        "proxy_used": null,
+        "duration_secs": 1
+    },
+    {
+        "email": "kevin@gmail.com",
+        "status": "success",
+        "is_reachable": "invalid",
+        "is_deliverable": false,
+        "proxy_used": null,
+        "duration_secs": 1
+    },
+    {
+        "email": "kevin@yahoo.com",
+        "status": "exception",
+        "error": "HTTPConnectionPool(host='localhost', port=8080): Read timed out. (read timeout=15)"
+    },
+    {
+        "email": "kevin@outlook.com",
+        "status": "exception",
+        "error": "HTTPConnectionPool(host='localhost', port=8080): Read timed out. (read timeout=15)"
+    },
+    {
+        "email": "kevin@hotmail.com",
+        "status": "exception",
+        "error": "HTTPConnectionPool(host='localhost', port=8080): Read timed out. (read timeout=15)"
+    },
+    {
+        "email": "kevin@icloud.com",
+        "status": "success",
+        "is_reachable": "unknown",
+        "is_deliverable": null,
+        "proxy_used": null,
+        "duration_secs": 1
+    },
+    {
+        "email": "laura@gmail.com",
+        "status": "success",
+        "is_reachable": "invalid",
+        "is_deliverable": false,
+        "proxy_used": null,
+        "duration_secs": 1
+    },
+    {
+        "email": "laura@yahoo.com",
+        "status": "exception",
+        "error": "HTTPConnectionPool(host='localhost', port=8080): Read timed out. (read timeout=15)"
+    },
+    {
+        "email": "laura@outlook.com",
+        "status": "exception",
+        "error": "HTTPConnectionPool(host='localhost', port=8080): Read timed out. (read timeout=15)"
+    },
+    {
+        "email": "laura@hotmail.com",
+        "status": "exception",
+        "error": "HTTPConnectionPool(host='localhost', port=8080): Read timed out. (read timeout=15)"
+    },
+    {
+        "email": "laura@icloud.com",
+        "status": "success",
+        "is_reachable": "unknown",
+        "is_deliverable": null,
+        "proxy_used": null,
+        "duration_secs": 2
+    },
+    {
+        "email": "jason@gmail.com",
+        "status": "success",
+        "is_reachable": "invalid",
+        "is_deliverable": false,
+        "proxy_used": null,
+        "duration_secs": 2
+    },
+    {
+        "email": "jason@yahoo.com",
+        "status": "exception",
+        "error": "HTTPConnectionPool(host='localhost', port=8080): Read timed out. (read timeout=15)"
+    },
+    {
+        "email": "jason@outlook.com",
+        "status": "exception",
+        "error": "HTTPConnectionPool(host='localhost', port=8080): Read timed out. (read timeout=15)"
+    },
+    {
+        "email": "jason@hotmail.com",
+        "status": "exception",
+        "error": "HTTPConnectionPool(host='localhost', port=8080): Read timed out. (read timeout=15)"
+    },
+    {
+        "email": "jason@icloud.com",
+        "status": "success",
+        "is_reachable": "unknown",
+        "is_deliverable": null,
+        "proxy_used": null,
+        "duration_secs": 1
+    },
+    {
+        "email": "sarah@gmail.com",
+        "status": "success",
+        "is_reachable": "invalid",
+        "is_deliverable": false,
+        "proxy_used": null,
+        "duration_secs": 1
+    },
+    {
+        "email": "sarah@yahoo.com",
+        "status": "exception",
+        "error": "HTTPConnectionPool(host='localhost', port=8080): Read timed out. (read timeout=15)"
+    },
+    {
+        "email": "sarah@outlook.com",
+        "status": "exception",
+        "error": "HTTPConnectionPool(host='localhost', port=8080): Read timed out. (read timeout=15)"
+    },
+    {
+        "email": "sarah@hotmail.com",
+        "status": "exception",
+        "error": "HTTPConnectionPool(host='localhost', port=8080): Read timed out. (read timeout=15)"
+    },
+    {
+        "email": "sarah@icloud.com",
+        "status": "success",
+        "is_reachable": "unknown",
+        "is_deliverable": null,
+        "proxy_used": null,
+        "duration_secs": 1
+    },
+    {
+        "email": "matthew@gmail.com",
+        "status": "success",
+        "is_reachable": "invalid",
+        "is_deliverable": false,
+        "proxy_used": null,
+        "duration_secs": 2
+    },
+    {
+        "email": "matthew@yahoo.com",
+        "status": "exception",
+        "error": "HTTPConnectionPool(host='localhost', port=8080): Read timed out. (read timeout=15)"
+    },
+    {
+        "email": "matthew@outlook.com",
+        "status": "exception",
+        "error": "HTTPConnectionPool(host='localhost', port=8080): Read timed out. (read timeout=15)"
+    },
+    {
+        "email": "matthew@hotmail.com",
+        "status": "exception",
+        "error": "HTTPConnectionPool(host='localhost', port=8080): Read timed out. (read timeout=15)"
+    },
+    {
+        "email": "matthew@icloud.com",
+        "status": "success",
+        "is_reachable": "unknown",
+        "is_deliverable": null,
+        "proxy_used": null,
+        "duration_secs": 5
+    },
+    {
+        "email": "kim@gmail.com",
+        "status": "success",
+        "is_reachable": "invalid",
+        "is_deliverable": false,
+        "proxy_used": null,
+        "duration_secs": 0
+    },
+    {
+        "email": "kim@yahoo.com",
+        "status": "success",
+        "is_reachable": "invalid",
+        "is_deliverable": false,
+        "proxy_used": null,
+        "duration_secs": 0
+    },
+    {
+        "email": "kim@outlook.com",
+        "status": "success",
+        "is_reachable": "invalid",
+        "is_deliverable": false,
+        "proxy_used": null,
+        "duration_secs": 0
+    },
+    {
+        "email": "kim@hotmail.com",
+        "status": "success",
+        "is_reachable": "invalid",
+        "is_deliverable": false,
+        "proxy_used": null,
+        "duration_secs": 0
+    },
+    {
+        "email": "kim@icloud.com",
+        "status": "success",
+        "is_reachable": "invalid",
+        "is_deliverable": false,
+        "proxy_used": null,
+        "duration_secs": 0
+    },
+    {
+        "email": "gary@gmail.com",
+        "status": "success",
+        "is_reachable": "invalid",
+        "is_deliverable": false,
+        "proxy_used": null,
+        "duration_secs": 0
+    },
+    {
+        "email": "gary@yahoo.com",
+        "status": "success",
+        "is_reachable": "invalid",
+        "is_deliverable": false,
+        "proxy_used": null,
+        "duration_secs": 0
+    },
+    {
+        "email": "gary@outlook.com",
+        "status": "success",
+        "is_reachable": "invalid",
+        "is_deliverable": false,
+        "proxy_used": null,
+        "duration_secs": 0
+    },
+    {
+        "email": "gary@hotmail.com",
+        "status": "success",
+        "is_reachable": "invalid",
+        "is_deliverable": false,
+        "proxy_used": null,
+        "duration_secs": 0
+    },
+    {
+        "email": "gary@icloud.com",
+        "status": "success",
+        "is_reachable": "invalid",
+        "is_deliverable": false,
+        "proxy_used": null,
+        "duration_secs": 0
+    },
+    {
+        "email": "deborah@gmail.com",
+        "status": "exception",
+        "error": "HTTPConnectionPool(host='localhost', port=8080): Read timed out. (read timeout=15)"
+    },
+    {
+        "email": "deborah@yahoo.com",
+        "status": "success",
+        "is_reachable": "invalid",
+        "is_deliverable": false,
+        "proxy_used": null,
+        "duration_secs": 0
+    },
+    {
+        "email": "deborah@outlook.com",
+        "status": "success",
+        "is_reachable": "invalid",
+        "is_deliverable": false,
+        "proxy_used": null,
+        "duration_secs": 0
+    },
+    {
+        "email": "deborah@hotmail.com",
+        "status": "success",
+        "is_reachable": "invalid",
+        "is_deliverable": false,
+        "proxy_used": null,
+        "duration_secs": 0
+    },
+    {
+        "email": "deborah@icloud.com",
+        "status": "success",
+        "is_reachable": "invalid",
+        "is_deliverable": false,
+        "proxy_used": null,
+        "duration_secs": 0
+    },
+    {
+        "email": "info@google.com",
+        "status": "success",
+        "is_reachable": "invalid",
+        "is_deliverable": false,
+        "proxy_used": null,
+        "duration_secs": 0
+    },
+    {
+        "email": "info@microsoft.com",
+        "status": "success",
+        "is_reachable": "invalid",
+        "is_deliverable": false,
+        "proxy_used": null,
+        "duration_secs": 0
+    },
+    {
+        "email": "info@apple.com",
+        "status": "success",
+        "is_reachable": "invalid",
+        "is_deliverable": false,
+        "proxy_used": null,
+        "duration_secs": 0
+    },
+    {
+        "email": "info@amazon.com",
+        "status": "success",
+        "is_reachable": "invalid",
+        "is_deliverable": false,
+        "proxy_used": null,
+        "duration_secs": 0
+    },
+    {
+        "email": "info@meta.com",
+        "status": "success",
+        "is_reachable": "invalid",
+        "is_deliverable": false,
+        "proxy_used": null,
+        "duration_secs": 0
+    },
+    {
+        "email": "info@netflix.com",
+        "status": "success",
+        "is_reachable": "invalid",
+        "is_deliverable": false,
+        "proxy_used": null,
+        "duration_secs": 0
+    },
+    {
+        "email": "info@github.com",
+        "status": "success",
+        "is_reachable": "invalid",
+        "is_deliverable": false,
+        "proxy_used": null,
+        "duration_secs": 0
+    },
+    {
+        "email": "info@ibm.com",
+        "status": "success",
+        "is_reachable": "invalid",
+        "is_deliverable": false,
+        "proxy_used": null,
+        "duration_secs": 0
+    },
+    {
+        "email": "info@oracle.com",
+        "status": "success",
+        "is_reachable": "invalid",
+        "is_deliverable": false,
+        "proxy_used": null,
+        "duration_secs": 0
+    },
+    {
+        "email": "info@intel.com",
+        "status": "success",
+        "is_reachable": "invalid",
+        "is_deliverable": false,
+        "proxy_used": null,
+        "duration_secs": 0
+    },
+    {
+        "email": "info@cisco.com",
+        "status": "success",
+        "is_reachable": "invalid",
+        "is_deliverable": false,
+        "proxy_used": null,
+        "duration_secs": 0
+    },
+    {
+        "email": "info@hp.com",
+        "status": "success",
+        "is_reachable": "invalid",
+        "is_deliverable": false,
+        "proxy_used": null,
+        "duration_secs": 0
+    },
+    {
+        "email": "info@dell.com",
+        "status": "success",
+        "is_reachable": "invalid",
+        "is_deliverable": false,
+        "proxy_used": null,
+        "duration_secs": 0
+    },
+    {
+        "email": "info@salesforce.com",
+        "status": "success",
+        "is_reachable": "invalid",
+        "is_deliverable": false,
+        "proxy_used": null,
+        "duration_secs": 0
+    },
+    {
+        "email": "info@adobe.com",
+        "status": "success",
+        "is_reachable": "invalid",
+        "is_deliverable": false,
+        "proxy_used": null,
+        "duration_secs": 0
+    },
+    {
+        "email": "info@stripe.com",
+        "status": "success",
+        "is_reachable": "invalid",
+        "is_deliverable": false,
+        "proxy_used": null,
+        "duration_secs": 0
+    },
+    {
+        "email": "info@paypal.com",
+        "status": "exception",
+        "error": "HTTPConnectionPool(host='localhost', port=8080): Read timed out. (read timeout=15)"
+    },
+    {
+        "email": "info@airbnb.com",
+        "status": "success",
+        "is_reachable": "invalid",
+        "is_deliverable": false,
+        "proxy_used": null,
+        "duration_secs": 0
+    },
+    {
+        "email": "info@uber.com",
+        "status": "success",
+        "is_reachable": "invalid",
+        "is_deliverable": false,
+        "proxy_used": null,
+        "duration_secs": 0
+    },
+    {
+        "email": "info@tesla.com",
+        "status": "success",
+        "is_reachable": "invalid",
+        "is_deliverable": false,
+        "proxy_used": null,
+        "duration_secs": 0
+    },
+    {
+        "email": "info@spotify.com",
+        "status": "success",
+        "is_reachable": "invalid",
+        "is_deliverable": false,
+        "proxy_used": null,
+        "duration_secs": 0
+    },
+    {
+        "email": "info@visa.com",
+        "status": "success",
+        "is_reachable": "invalid",
+        "is_deliverable": false,
+        "proxy_used": null,
+        "duration_secs": 0
+    },
+    {
+        "email": "info@mastercard.com",
+        "status": "success",
+        "is_reachable": "invalid",
+        "is_deliverable": false,
+        "proxy_used": null,
+        "duration_secs": 0
+    },
+    {
+        "email": "info@disney.com",
+        "status": "success",
+        "is_reachable": "invalid",
+        "is_deliverable": false,
+        "proxy_used": null,
+        "duration_secs": 0
+    },
+    {
+        "email": "info@nike.com",
+        "status": "exception",
+        "error": "HTTPConnectionPool(host='localhost', port=8080): Read timed out. (read timeout=15)"
+    },
+    {
+        "email": "support@google.com",
+        "status": "success",
+        "is_reachable": "invalid",
+        "is_deliverable": false,
+        "proxy_used": null,
+        "duration_secs": 0
+    },
+    {
+        "email": "support@microsoft.com",
+        "status": "success",
+        "is_reachable": "invalid",
+        "is_deliverable": false,
+        "proxy_used": null,
+        "duration_secs": 0
+    },
+    {
+        "email": "support@apple.com",
+        "status": "success",
+        "is_reachable": "invalid",
+        "is_deliverable": false,
+        "proxy_used": null,
+        "duration_secs": 0
+    },
+    {
+        "email": "support@amazon.com",
+        "status": "success",
+        "is_reachable": "invalid",
+        "is_deliverable": false,
+        "proxy_used": null,
+        "duration_secs": 0
+    },
+    {
+        "email": "support@meta.com",
+        "status": "success",
+        "is_reachable": "invalid",
+        "is_deliverable": false,
+        "proxy_used": null,
+        "duration_secs": 0
+    },
+    {
+        "email": "support@netflix.com",
+        "status": "success",
+        "is_reachable": "invalid",
+        "is_deliverable": false,
+        "proxy_used": null,
+        "duration_secs": 0
+    },
+    {
+        "email": "support@github.com",
+        "status": "success",
+        "is_reachable": "invalid",
+        "is_deliverable": false,
+        "proxy_used": null,
+        "duration_secs": 0
+    },
+    {
+        "email": "support@ibm.com",
+        "status": "success",
+        "is_reachable": "invalid",
+        "is_deliverable": false,
+        "proxy_used": null,
+        "duration_secs": 0
+    },
+    {
+        "email": "support@oracle.com",
+        "status": "success",
+        "is_reachable": "invalid",
+        "is_deliverable": false,
+        "proxy_used": null,
+        "duration_secs": 0
+    },
+    {
+        "email": "support@intel.com",
+        "status": "exception",
+        "error": "HTTPConnectionPool(host='localhost', port=8080): Read timed out. (read timeout=15)"
+    },
+    {
+        "email": "support@cisco.com",
+        "status": "success",
+        "is_reachable": "invalid",
+        "is_deliverable": false,
+        "proxy_used": null,
+        "duration_secs": 0
+    },
+    {
+        "email": "support@hp.com",
+        "status": "success",
+        "is_reachable": "invalid",
+        "is_deliverable": false,
+        "proxy_used": null,
+        "duration_secs": 0
+    },
+    {
+        "email": "support@dell.com",
+        "status": "success",
+        "is_reachable": "invalid",
+        "is_deliverable": false,
+        "proxy_used": null,
+        "duration_secs": 0
+    },
+    {
+        "email": "support@salesforce.com",
+        "status": "success",
+        "is_reachable": "invalid",
+        "is_deliverable": false,
+        "proxy_used": null,
+        "duration_secs": 0
+    },
+    {
+        "email": "support@adobe.com",
+        "status": "success",
+        "is_reachable": "invalid",
+        "is_deliverable": false,
+        "proxy_used": null,
+        "duration_secs": 0
+    },
+    {
+        "email": "support@stripe.com",
+        "status": "success",
+        "is_reachable": "invalid",
+        "is_deliverable": false,
+        "proxy_used": null,
+        "duration_secs": 0
+    },
+    {
+        "email": "support@paypal.com",
+        "status": "exception",
+        "error": "HTTPConnectionPool(host='localhost', port=8080): Read timed out. (read timeout=15)"
+    },
+    {
+        "email": "support@airbnb.com",
+        "status": "exception",
+        "error": "HTTPConnectionPool(host='localhost', port=8080): Read timed out. (read timeout=15)"
+    },
+    {
+        "email": "support@uber.com",
+        "status": "success",
+        "is_reachable": "invalid",
+        "is_deliverable": false,
+        "proxy_used": null,
+        "duration_secs": 0
+    },
+    {
+        "email": "support@tesla.com",
+        "status": "success",
+        "is_reachable": "invalid",
+        "is_deliverable": false,
+        "proxy_used": null,
+        "duration_secs": 0
+    },
+    {
+        "email": "support@spotify.com",
+        "status": "success",
+        "is_reachable": "invalid",
+        "is_deliverable": false,
+        "proxy_used": null,
+        "duration_secs": 0
+    },
+    {
+        "email": "support@visa.com",
+        "status": "success",
+        "is_reachable": "invalid",
+        "is_deliverable": false,
+        "proxy_used": null,
+        "duration_secs": 0
+    },
+    {
+        "email": "support@mastercard.com",
+        "status": "success",
+        "is_reachable": "invalid",
+        "is_deliverable": false,
+        "proxy_used": null,
+        "duration_secs": 0
+    },
+    {
+        "email": "support@disney.com",
+        "status": "success",
+        "is_reachable": "invalid",
+        "is_deliverable": false,
+        "proxy_used": null,
+        "duration_secs": 0
+    },
+    {
+        "email": "support@nike.com",
+        "status": "success",
+        "is_reachable": "invalid",
+        "is_deliverable": false,
+        "proxy_used": null,
+        "duration_secs": 0
+    },
+    {
+        "email": "sales@google.com",
+        "status": "exception",
+        "error": "HTTPConnectionPool(host='localhost', port=8080): Read timed out. (read timeout=15)"
+    },
+    {
+        "email": "sales@microsoft.com",
+        "status": "exception",
+        "error": "HTTPConnectionPool(host='localhost', port=8080): Read timed out. (read timeout=15)"
+    },
+    {
+        "email": "sales@apple.com",
+        "status": "success",
+        "is_reachable": "unknown",
+        "is_deliverable": null,
+        "proxy_used": null,
+        "duration_secs": 1
+    },
+    {
+        "email": "sales@amazon.com",
+        "status": "success",
+        "is_reachable": "unknown",
+        "is_deliverable": null,
+        "proxy_used": null,
+        "duration_secs": 0
+    },
+    {
+        "email": "sales@meta.com",
+        "status": "success",
+        "is_reachable": "risky",
+        "is_deliverable": true,
+        "proxy_used": null,
+        "duration_secs": 2
+    },
+    {
+        "email": "sales@netflix.com",
+        "status": "success",
+        "is_reachable": "risky",
+        "is_deliverable": true,
+        "proxy_used": null,
+        "duration_secs": 1
+    },
+    {
+        "email": "sales@github.com",
+        "status": "success",
+        "is_reachable": "risky",
+        "is_deliverable": false,
+        "proxy_used": null,
+        "duration_secs": 2
+    },
+    {
+        "email": "sales@ibm.com",
+        "status": "success",
+        "is_reachable": "risky",
+        "is_deliverable": true,
+        "proxy_used": null,
+        "duration_secs": 2
+    },
+    {
+        "email": "sales@oracle.com",
+        "status": "success",
+        "is_reachable": "risky",
+        "is_deliverable": false,
+        "proxy_used": null,
+        "duration_secs": 2
+    },
+    {
+        "email": "sales@intel.com",
+        "status": "success",
+        "is_reachable": "risky",
+        "is_deliverable": true,
+        "proxy_used": null,
+        "duration_secs": 2
+    },
+    {
+        "email": "sales@cisco.com",
+        "status": "success",
+        "is_reachable": "risky",
+        "is_deliverable": true,
+        "proxy_used": null,
+        "duration_secs": 1
+    },
+    {
+        "email": "sales@hp.com",
+        "status": "success",
+        "is_reachable": "unknown",
+        "is_deliverable": null,
+        "proxy_used": null,
+        "duration_secs": 1
+    },
+    {
+        "email": "sales@dell.com",
+        "status": "success",
+        "is_reachable": "risky",
+        "is_deliverable": true,
+        "proxy_used": null,
+        "duration_secs": 2
+    },
+    {
+        "email": "sales@salesforce.com",
+        "status": "success",
+        "is_reachable": "risky",
+        "is_deliverable": false,
+        "proxy_used": null,
+        "duration_secs": 2
+    },
+    {
+        "email": "sales@adobe.com",
+        "status": "success",
+        "is_reachable": "risky",
+        "is_deliverable": false,
+        "proxy_used": null,
+        "duration_secs": 2
+    },
+    {
+        "email": "sales@stripe.com",
+        "status": "success",
+        "is_reachable": "risky",
+        "is_deliverable": true,
+        "proxy_used": null,
+        "duration_secs": 1
+    },
+    {
+        "email": "sales@paypal.com",
+        "status": "success",
+        "is_reachable": "risky",
+        "is_deliverable": true,
+        "proxy_used": null,
+        "duration_secs": 2
+    },
+    {
+        "email": "sales@airbnb.com",
+        "status": "success",
+        "is_reachable": "risky",
+        "is_deliverable": true,
+        "proxy_used": null,
+        "duration_secs": 1
+    },
+    {
+        "email": "sales@uber.com",
+        "status": "success",
+        "is_reachable": "risky",
+        "is_deliverable": true,
+        "proxy_used": null,
+        "duration_secs": 1
+    },
+    {
+        "email": "sales@tesla.com",
+        "status": "success",
+        "is_reachable": "risky",
+        "is_deliverable": false,
+        "proxy_used": null,
+        "duration_secs": 2
+    },
+    {
+        "email": "sales@spotify.com",
+        "status": "success",
+        "is_reachable": "risky",
+        "is_deliverable": true,
+        "proxy_used": null,
+        "duration_secs": 1
+    },
+    {
+        "email": "sales@visa.com",
+        "status": "success",
+        "is_reachable": "risky",
+        "is_deliverable": true,
+        "proxy_used": null,
+        "duration_secs": 2
+    },
+    {
+        "email": "sales@mastercard.com",
+        "status": "success",
+        "is_reachable": "risky",
+        "is_deliverable": true,
+        "proxy_used": null,
+        "duration_secs": 2
+    },
+    {
+        "email": "sales@disney.com",
+        "status": "success",
+        "is_reachable": "risky",
+        "is_deliverable": false,
+        "proxy_used": null,
+        "duration_secs": 1
+    },
+    {
+        "email": "sales@nike.com",
+        "status": "success",
+        "is_reachable": "risky",
+        "is_deliverable": false,
+        "proxy_used": null,
+        "duration_secs": 2
+    },
+    {
+        "email": "contact@google.com",
+        "status": "success",
+        "is_reachable": "risky",
+        "is_deliverable": true,
+        "proxy_used": null,
+        "duration_secs": 1
+    },
+    {
+        "email": "contact@microsoft.com",
+        "status": "success",
+        "is_reachable": "risky",
+        "is_deliverable": false,
+        "proxy_used": null,
+        "duration_secs": 1
+    },
+    {
+        "email": "contact@apple.com",
+        "status": "success",
+        "is_reachable": "unknown",
+        "is_deliverable": null,
+        "proxy_used": null,
+        "duration_secs": 0
+    },
+    {
+        "email": "contact@amazon.com",
+        "status": "success",
+        "is_reachable": "unknown",
+        "is_deliverable": null,
+        "proxy_used": null,
+        "duration_secs": 0
+    },
+    {
+        "email": "contact@meta.com",
+        "status": "success",
+        "is_reachable": "risky",
+        "is_deliverable": true,
+        "proxy_used": null,
+        "duration_secs": 1
+    },
+    {
+        "email": "contact@netflix.com",
+        "status": "success",
+        "is_reachable": "risky",
+        "is_deliverable": true,
+        "proxy_used": null,
+        "duration_secs": 1
+    },
+    {
+        "email": "contact@github.com",
+        "status": "success",
+        "is_reachable": "risky",
+        "is_deliverable": false,
+        "proxy_used": null,
+        "duration_secs": 1
+    },
+    {
+        "email": "contact@ibm.com",
+        "status": "success",
+        "is_reachable": "risky",
+        "is_deliverable": true,
+        "proxy_used": null,
+        "duration_secs": 1
+    },
+    {
+        "email": "contact@oracle.com",
+        "status": "success",
+        "is_reachable": "risky",
+        "is_deliverable": true,
+        "proxy_used": null,
+        "duration_secs": 2
+    },
+    {
+        "email": "contact@intel.com",
+        "status": "success",
+        "is_reachable": "risky",
+        "is_deliverable": true,
+        "proxy_used": null,
+        "duration_secs": 1
+    },
+    {
+        "email": "contact@cisco.com",
+        "status": "success",
+        "is_reachable": "risky",
+        "is_deliverable": true,
+        "proxy_used": null,
+        "duration_secs": 1
+    },
+    {
+        "email": "contact@hp.com",
+        "status": "success",
+        "is_reachable": "unknown",
+        "is_deliverable": null,
+        "proxy_used": null,
+        "duration_secs": 1
+    },
+    {
+        "email": "contact@dell.com",
+        "status": "success",
+        "is_reachable": "risky",
+        "is_deliverable": true,
+        "proxy_used": null,
+        "duration_secs": 1
+    },
+    {
+        "email": "contact@salesforce.com",
+        "status": "success",
+        "is_reachable": "risky",
+        "is_deliverable": false,
+        "proxy_used": null,
+        "duration_secs": 2
+    },
+    {
+        "email": "contact@adobe.com",
+        "status": "success",
+        "is_reachable": "risky",
+        "is_deliverable": false,
+        "proxy_used": null,
+        "duration_secs": 1
+    },
+    {
+        "email": "contact@stripe.com",
+        "status": "success",
+        "is_reachable": "risky",
+        "is_deliverable": true,
+        "proxy_used": null,
+        "duration_secs": 1
+    },
+    {
+        "email": "contact@paypal.com",
+        "status": "success",
+        "is_reachable": "risky",
+        "is_deliverable": true,
+        "proxy_used": null,
+        "duration_secs": 1
+    },
+    {
+        "email": "contact@airbnb.com",
+        "status": "success",
+        "is_reachable": "risky",
+        "is_deliverable": true,
+        "proxy_used": null,
+        "duration_secs": 1
+    },
+    {
+        "email": "contact@uber.com",
+        "status": "success",
+        "is_reachable": "risky",
+        "is_deliverable": true,
+        "proxy_used": null,
+        "duration_secs": 1
+    },
+    {
+        "email": "contact@tesla.com",
+        "status": "success",
+        "is_reachable": "risky",
+        "is_deliverable": true,
+        "proxy_used": null,
+        "duration_secs": 2
+    },
+    {
+        "email": "contact@spotify.com",
+        "status": "success",
+        "is_reachable": "risky",
+        "is_deliverable": true,
+        "proxy_used": null,
+        "duration_secs": 1
+    },
+    {
+        "email": "contact@visa.com",
+        "status": "success",
+        "is_reachable": "risky",
+        "is_deliverable": true,
+        "proxy_used": null,
+        "duration_secs": 2
+    },
+    {
+        "email": "contact@mastercard.com",
+        "status": "success",
+        "is_reachable": "risky",
+        "is_deliverable": true,
+        "proxy_used": null,
+        "duration_secs": 2
+    },
+    {
+        "email": "contact@disney.com",
+        "status": "success",
+        "is_reachable": "risky",
+        "is_deliverable": false,
+        "proxy_used": null,
+        "duration_secs": 2
+    },
+    {
+        "email": "contact@nike.com",
+        "status": "success",
+        "is_reachable": "risky",
+        "is_deliverable": true,
+        "proxy_used": null,
+        "duration_secs": 2
+    },
+    {
+        "email": "privacy@google.com",
+        "status": "success",
+        "is_reachable": "risky",
+        "is_deliverable": true,
+        "proxy_used": null,
+        "duration_secs": 1
+    },
+    {
+        "email": "privacy@microsoft.com",
+        "status": "success",
+        "is_reachable": "risky",
+        "is_deliverable": false,
+        "proxy_used": null,
+        "duration_secs": 1
+    },
+    {
+        "email": "privacy@apple.com",
+        "status": "success",
+        "is_reachable": "unknown",
+        "is_deliverable": null,
+        "proxy_used": null,
+        "duration_secs": 0
+    },
+    {
+        "email": "privacy@amazon.com",
+        "status": "success",
+        "is_reachable": "unknown",
+        "is_deliverable": null,
+        "proxy_used": null,
+        "duration_secs": 0
+    },
+    {
+        "email": "privacy@meta.com",
+        "status": "success",
+        "is_reachable": "risky",
+        "is_deliverable": true,
+        "proxy_used": null,
+        "duration_secs": 1
+    },
+    {
+        "email": "privacy@netflix.com",
+        "status": "success",
+        "is_reachable": "risky",
+        "is_deliverable": true,
+        "proxy_used": null,
+        "duration_secs": 1
+    },
+    {
+        "email": "privacy@github.com",
+        "status": "success",
+        "is_reachable": "risky",
+        "is_deliverable": true,
+        "proxy_used": null,
+        "duration_secs": 2
+    },
+    {
+        "email": "privacy@ibm.com",
+        "status": "success",
+        "is_reachable": "risky",
+        "is_deliverable": true,
+        "proxy_used": null,
+        "duration_secs": 1
+    },
+    {
+        "email": "privacy@oracle.com",
+        "status": "success",
+        "is_reachable": "risky",
+        "is_deliverable": false,
+        "proxy_used": null,
+        "duration_secs": 2
+    },
+    {
+        "email": "privacy@intel.com",
+        "status": "success",
+        "is_reachable": "risky",
+        "is_deliverable": true,
+        "proxy_used": null,
+        "duration_secs": 1
+    },
+    {
+        "email": "privacy@cisco.com",
+        "status": "success",
+        "is_reachable": "risky",
+        "is_deliverable": true,
+        "proxy_used": null,
+        "duration_secs": 1
+    },
+    {
+        "email": "privacy@hp.com",
+        "status": "success",
+        "is_reachable": "unknown",
+        "is_deliverable": null,
+        "proxy_used": null,
+        "duration_secs": 1
+    },
+    {
+        "email": "privacy@dell.com",
+        "status": "success",
+        "is_reachable": "risky",
+        "is_deliverable": true,
+        "proxy_used": null,
+        "duration_secs": 1
+    },
+    {
+        "email": "privacy@salesforce.com",
+        "status": "success",
+        "is_reachable": "risky",
+        "is_deliverable": true,
+        "proxy_used": null,
+        "duration_secs": 1
+    },
+    {
+        "email": "privacy@adobe.com",
+        "status": "success",
+        "is_reachable": "risky",
+        "is_deliverable": false,
+        "proxy_used": null,
+        "duration_secs": 1
+    },
+    {
+        "email": "privacy@stripe.com",
+        "status": "success",
+        "is_reachable": "risky",
+        "is_deliverable": true,
+        "proxy_used": null,
+        "duration_secs": 1
+    },
+    {
+        "email": "privacy@paypal.com",
+        "status": "success",
+        "is_reachable": "risky",
+        "is_deliverable": true,
+        "proxy_used": null,
+        "duration_secs": 1
+    },
+    {
+        "email": "privacy@airbnb.com",
+        "status": "success",
+        "is_reachable": "risky",
+        "is_deliverable": true,
+        "proxy_used": null,
+        "duration_secs": 1
+    },
+    {
+        "email": "privacy@uber.com",
+        "status": "success",
+        "is_reachable": "risky",
+        "is_deliverable": true,
+        "proxy_used": null,
+        "duration_secs": 1
+    },
+    {
+        "email": "privacy@tesla.com",
+        "status": "success",
+        "is_reachable": "risky",
+        "is_deliverable": false,
+        "proxy_used": null,
+        "duration_secs": 2
+    },
+    {
+        "email": "privacy@spotify.com",
+        "status": "success",
+        "is_reachable": "risky",
+        "is_deliverable": true,
+        "proxy_used": null,
+        "duration_secs": 1
+    },
+    {
+        "email": "privacy@visa.com",
+        "status": "success",
+        "is_reachable": "risky",
+        "is_deliverable": true,
+        "proxy_used": null,
+        "duration_secs": 2
+    },
+    {
+        "email": "privacy@mastercard.com",
+        "status": "success",
+        "is_reachable": "risky",
+        "is_deliverable": false,
+        "proxy_used": null,
+        "duration_secs": 2
+    },
+    {
+        "email": "privacy@disney.com",
+        "status": "success",
+        "is_reachable": "risky",
+        "is_deliverable": false,
+        "proxy_used": null,
+        "duration_secs": 1
+    },
+    {
+        "email": "privacy@nike.com",
+        "status": "success",
+        "is_reachable": "risky",
+        "is_deliverable": true,
+        "proxy_used": null,
+        "duration_secs": 2
+    },
+    {
+        "email": "security@google.com",
+        "status": "success",
+        "is_reachable": "risky",
+        "is_deliverable": true,
+        "proxy_used": null,
+        "duration_secs": 1
+    },
+    {
+        "email": "security@microsoft.com",
+        "status": "success",
+        "is_reachable": "risky",
+        "is_deliverable": false,
+        "proxy_used": null,
+        "duration_secs": 1
+    },
+    {
+        "email": "security@apple.com",
+        "status": "success",
+        "is_reachable": "unknown",
+        "is_deliverable": null,
+        "proxy_used": null,
+        "duration_secs": 0
+    },
+    {
+        "email": "security@amazon.com",
+        "status": "success",
+        "is_reachable": "unknown",
+        "is_deliverable": null,
+        "proxy_used": null,
+        "duration_secs": 0
+    },
+    {
+        "email": "security@meta.com",
+        "status": "success",
+        "is_reachable": "risky",
+        "is_deliverable": true,
+        "proxy_used": null,
+        "duration_secs": 1
+    },
+    {
+        "email": "security@netflix.com",
+        "status": "success",
+        "is_reachable": "risky",
+        "is_deliverable": true,
+        "proxy_used": null,
+        "duration_secs": 1
+    },
+    {
+        "email": "security@github.com",
+        "status": "success",
+        "is_reachable": "risky",
+        "is_deliverable": true,
+        "proxy_used": null,
+        "duration_secs": 1
+    },
+    {
+        "email": "security@ibm.com",
+        "status": "success",
+        "is_reachable": "risky",
+        "is_deliverable": true,
+        "proxy_used": null,
+        "duration_secs": 1
+    },
+    {
+        "email": "security@oracle.com",
+        "status": "success",
+        "is_reachable": "risky",
+        "is_deliverable": true,
+        "proxy_used": null,
+        "duration_secs": 2
+    },
+    {
+        "email": "security@intel.com",
+        "status": "success",
+        "is_reachable": "risky",
+        "is_deliverable": true,
+        "proxy_used": null,
+        "duration_secs": 2
+    },
+    {
+        "email": "security@cisco.com",
+        "status": "success",
+        "is_reachable": "risky",
+        "is_deliverable": true,
+        "proxy_used": null,
+        "duration_secs": 1
+    },
+    {
+        "email": "security@hp.com",
+        "status": "success",
+        "is_reachable": "unknown",
+        "is_deliverable": null,
+        "proxy_used": null,
+        "duration_secs": 1
+    },
+    {
+        "email": "security@dell.com",
+        "status": "success",
+        "is_reachable": "risky",
+        "is_deliverable": true,
+        "proxy_used": null,
+        "duration_secs": 1
+    },
+    {
+        "email": "security@salesforce.com",
+        "status": "success",
+        "is_reachable": "risky",
+        "is_deliverable": true,
+        "proxy_used": null,
+        "duration_secs": 2
+    },
+    {
+        "email": "security@adobe.com",
+        "status": "success",
+        "is_reachable": "risky",
+        "is_deliverable": false,
+        "proxy_used": null,
+        "duration_secs": 2
+    },
+    {
+        "email": "security@stripe.com",
+        "status": "success",
+        "is_reachable": "risky",
+        "is_deliverable": true,
+        "proxy_used": null,
+        "duration_secs": 1
+    },
+    {
+        "email": "security@paypal.com",
+        "status": "success",
+        "is_reachable": "risky",
+        "is_deliverable": true,
+        "proxy_used": null,
+        "duration_secs": 1
+    },
+    {
+        "email": "security@airbnb.com",
+        "status": "success",
+        "is_reachable": "risky",
+        "is_deliverable": true,
+        "proxy_used": null,
+        "duration_secs": 1
+    },
+    {
+        "email": "security@uber.com",
+        "status": "success",
+        "is_reachable": "risky",
+        "is_deliverable": true,
+        "proxy_used": null,
+        "duration_secs": 1
+    },
+    {
+        "email": "security@tesla.com",
+        "status": "success",
+        "is_reachable": "risky",
+        "is_deliverable": false,
+        "proxy_used": null,
+        "duration_secs": 2
+    },
+    {
+        "email": "security@spotify.com",
+        "status": "success",
+        "is_reachable": "risky",
+        "is_deliverable": true,
+        "proxy_used": null,
+        "duration_secs": 1
+    },
+    {
+        "email": "security@visa.com",
+        "status": "success",
+        "is_reachable": "risky",
+        "is_deliverable": true,
+        "proxy_used": null,
+        "duration_secs": 1
+    },
+    {
+        "email": "security@mastercard.com",
+        "status": "success",
+        "is_reachable": "risky",
+        "is_deliverable": true,
+        "proxy_used": null,
+        "duration_secs": 2
+    },
+    {
+        "email": "security@disney.com",
+        "status": "success",
+        "is_reachable": "risky",
+        "is_deliverable": false,
+        "proxy_used": null,
+        "duration_secs": 2
+    },
+    {
+        "email": "security@nike.com",
+        "status": "success",
+        "is_reachable": "risky",
+        "is_deliverable": true,
+        "proxy_used": null,
+        "duration_secs": 1
+    },
+    {
+        "email": "press@google.com",
+        "status": "success",
+        "is_reachable": "risky",
+        "is_deliverable": true,
+        "proxy_used": null,
+        "duration_secs": 2
+    },
+    {
+        "email": "press@microsoft.com",
+        "status": "success",
+        "is_reachable": "risky",
+        "is_deliverable": false,
+        "proxy_used": null,
+        "duration_secs": 2
+    },
+    {
+        "email": "press@apple.com",
+        "status": "success",
+        "is_reachable": "unknown",
+        "is_deliverable": null,
+        "proxy_used": null,
+        "duration_secs": 3
+    },
+    {
+        "email": "press@amazon.com",
+        "status": "success",
+        "is_reachable": "unknown",
+        "is_deliverable": null,
+        "proxy_used": null,
+        "duration_secs": 0
+    },
+    {
+        "email": "press@meta.com",
+        "status": "success",
+        "is_reachable": "risky",
+        "is_deliverable": true,
+        "proxy_used": null,
+        "duration_secs": 1
+    },
+    {
+        "email": "press@netflix.com",
+        "status": "success",
+        "is_reachable": "risky",
+        "is_deliverable": true,
+        "proxy_used": null,
+        "duration_secs": 1
+    },
+    {
+        "email": "press@github.com",
+        "status": "success",
+        "is_reachable": "risky",
+        "is_deliverable": true,
+        "proxy_used": null,
+        "duration_secs": 1
+    },
+    {
+        "email": "press@ibm.com",
+        "status": "success",
+        "is_reachable": "risky",
+        "is_deliverable": true,
+        "proxy_used": null,
+        "duration_secs": 1
+    },
+    {
+        "email": "press@oracle.com",
+        "status": "success",
+        "is_reachable": "risky",
+        "is_deliverable": false,
+        "proxy_used": null,
+        "duration_secs": 2
+    },
+    {
+        "email": "press@intel.com",
+        "status": "success",
+        "is_reachable": "risky",
+        "is_deliverable": true,
+        "proxy_used": null,
+        "duration_secs": 2
+    },
+    {
+        "email": "press@cisco.com",
+        "status": "success",
+        "is_reachable": "risky",
+        "is_deliverable": true,
+        "proxy_used": null,
+        "duration_secs": 1
+    },
+    {
+        "email": "press@hp.com",
+        "status": "success",
+        "is_reachable": "unknown",
+        "is_deliverable": null,
+        "proxy_used": null,
+        "duration_secs": 1
+    },
+    {
+        "email": "press@dell.com",
+        "status": "success",
+        "is_reachable": "risky",
+        "is_deliverable": true,
+        "proxy_used": null,
+        "duration_secs": 1
+    },
+    {
+        "email": "press@salesforce.com",
+        "status": "success",
+        "is_reachable": "risky",
+        "is_deliverable": false,
+        "proxy_used": null,
+        "duration_secs": 2
+    },
+    {
+        "email": "press@adobe.com",
+        "status": "success",
+        "is_reachable": "risky",
+        "is_deliverable": false,
+        "proxy_used": null,
+        "duration_secs": 2
+    },
+    {
+        "email": "press@stripe.com",
+        "status": "success",
+        "is_reachable": "risky",
+        "is_deliverable": true,
+        "proxy_used": null,
+        "duration_secs": 1
+    },
+    {
+        "email": "press@paypal.com",
+        "status": "success",
+        "is_reachable": "risky",
+        "is_deliverable": true,
+        "proxy_used": null,
+        "duration_secs": 1
+    },
+    {
+        "email": "press@airbnb.com",
+        "status": "success",
+        "is_reachable": "risky",
+        "is_deliverable": true,
+        "proxy_used": null,
+        "duration_secs": 1
+    },
+    {
+        "email": "press@uber.com",
+        "status": "success",
+        "is_reachable": "risky",
+        "is_deliverable": true,
+        "proxy_used": null,
+        "duration_secs": 1
+    },
+    {
+        "email": "press@tesla.com",
+        "status": "success",
+        "is_reachable": "risky",
+        "is_deliverable": false,
+        "proxy_used": null,
+        "duration_secs": 2
+    },
+    {
+        "email": "press@spotify.com",
+        "status": "success",
+        "is_reachable": "risky",
+        "is_deliverable": true,
+        "proxy_used": null,
+        "duration_secs": 1
+    },
+    {
+        "email": "press@visa.com",
+        "status": "success",
+        "is_reachable": "risky",
+        "is_deliverable": true,
+        "proxy_used": null,
+        "duration_secs": 2
+    },
+    {
+        "email": "press@mastercard.com",
+        "status": "success",
+        "is_reachable": "risky",
+        "is_deliverable": false,
+        "proxy_used": null,
+        "duration_secs": 2
+    },
+    {
+        "email": "press@disney.com",
+        "status": "success",
+        "is_reachable": "risky",
+        "is_deliverable": false,
+        "proxy_used": null,
+        "duration_secs": 2
+    },
+    {
+        "email": "press@nike.com",
+        "status": "success",
+        "is_reachable": "risky",
+        "is_deliverable": false,
+        "proxy_used": null,
+        "duration_secs": 2
+    },
+    {
+        "email": "careers@google.com",
+        "status": "success",
+        "is_reachable": "risky",
+        "is_deliverable": true,
+        "proxy_used": null,
+        "duration_secs": 1
+    },
+    {
+        "email": "careers@microsoft.com",
+        "status": "success",
+        "is_reachable": "risky",
+        "is_deliverable": false,
+        "proxy_used": null,
+        "duration_secs": 2
+    },
+    {
+        "email": "careers@apple.com",
+        "status": "success",
+        "is_reachable": "unknown",
+        "is_deliverable": null,
+        "proxy_used": null,
+        "duration_secs": 0
+    },
+    {
+        "email": "careers@amazon.com",
+        "status": "success",
+        "is_reachable": "unknown",
+        "is_deliverable": null,
+        "proxy_used": null,
+        "duration_secs": 0
+    },
+    {
+        "email": "careers@meta.com",
+        "status": "success",
+        "is_reachable": "risky",
+        "is_deliverable": true,
+        "proxy_used": null,
+        "duration_secs": 2
+    },
+    {
+        "email": "careers@netflix.com",
+        "status": "success",
+        "is_reachable": "risky",
+        "is_deliverable": true,
+        "proxy_used": null,
+        "duration_secs": 1
+    },
+    {
+        "email": "careers@github.com",
+        "status": "success",
+        "is_reachable": "risky",
+        "is_deliverable": false,
+        "proxy_used": null,
+        "duration_secs": 1
+    },
+    {
+        "email": "careers@ibm.com",
+        "status": "success",
+        "is_reachable": "risky",
+        "is_deliverable": true,
+        "proxy_used": null,
+        "duration_secs": 1
+    },
+    {
+        "email": "careers@oracle.com",
+        "status": "success",
+        "is_reachable": "risky",
+        "is_deliverable": false,
+        "proxy_used": null,
+        "duration_secs": 1
+    },
+    {
+        "email": "careers@intel.com",
+        "status": "success",
+        "is_reachable": "risky",
+        "is_deliverable": true,
+        "proxy_used": null,
+        "duration_secs": 1
+    },
+    {
+        "email": "careers@cisco.com",
+        "status": "success",
+        "is_reachable": "risky",
+        "is_deliverable": true,
+        "proxy_used": null,
+        "duration_secs": 1
+    },
+    {
+        "email": "careers@hp.com",
+        "status": "success",
+        "is_reachable": "unknown",
+        "is_deliverable": null,
+        "proxy_used": null,
+        "duration_secs": 1
+    },
+    {
+        "email": "careers@dell.com",
+        "status": "success",
+        "is_reachable": "risky",
+        "is_deliverable": true,
+        "proxy_used": null,
+        "duration_secs": 1
+    },
+    {
+        "email": "careers@salesforce.com",
+        "status": "success",
+        "is_reachable": "risky",
+        "is_deliverable": true,
+        "proxy_used": null,
+        "duration_secs": 2
+    },
+    {
+        "email": "careers@adobe.com",
+        "status": "success",
+        "is_reachable": "risky",
+        "is_deliverable": false,
+        "proxy_used": null,
+        "duration_secs": 2
+    },
+    {
+        "email": "careers@stripe.com",
+        "status": "success",
+        "is_reachable": "risky",
+        "is_deliverable": true,
+        "proxy_used": null,
+        "duration_secs": 1
+    },
+    {
+        "email": "careers@paypal.com",
+        "status": "success",
+        "is_reachable": "risky",
+        "is_deliverable": true,
+        "proxy_used": null,
+        "duration_secs": 1
+    },
+    {
+        "email": "careers@airbnb.com",
+        "status": "success",
+        "is_reachable": "risky",
+        "is_deliverable": true,
+        "proxy_used": null,
+        "duration_secs": 1
+    },
+    {
+        "email": "careers@uber.com",
+        "status": "success",
+        "is_reachable": "risky",
+        "is_deliverable": true,
+        "proxy_used": null,
+        "duration_secs": 1
+    },
+    {
+        "email": "careers@tesla.com",
+        "status": "success",
+        "is_reachable": "risky",
+        "is_deliverable": false,
+        "proxy_used": null,
+        "duration_secs": 2
+    },
+    {
+        "email": "careers@spotify.com",
+        "status": "success",
+        "is_reachable": "risky",
+        "is_deliverable": true,
+        "proxy_used": null,
+        "duration_secs": 1
+    },
+    {
+        "email": "careers@visa.com",
+        "status": "success",
+        "is_reachable": "risky",
+        "is_deliverable": true,
+        "proxy_used": null,
+        "duration_secs": 1
+    },
+    {
+        "email": "careers@mastercard.com",
+        "status": "success",
+        "is_reachable": "risky",
+        "is_deliverable": true,
+        "proxy_used": null,
+        "duration_secs": 1
+    },
+    {
+        "email": "careers@disney.com",
+        "status": "success",
+        "is_reachable": "risky",
+        "is_deliverable": false,
+        "proxy_used": null,
+        "duration_secs": 1
+    },
+    {
+        "email": "careers@nike.com",
+        "status": "success",
+        "is_reachable": "risky",
+        "is_deliverable": false,
+        "proxy_used": null,
+        "duration_secs": 2
+    },
+    {
+        "email": "admin@google.com",
+        "status": "success",
+        "is_reachable": "risky",
+        "is_deliverable": true,
+        "proxy_used": null,
+        "duration_secs": 1
+    },
+    {
+        "email": "admin@microsoft.com",
+        "status": "success",
+        "is_reachable": "risky",
+        "is_deliverable": false,
+        "proxy_used": null,
+        "duration_secs": 1
+    },
+    {
+        "email": "admin@apple.com",
+        "status": "success",
+        "is_reachable": "unknown",
+        "is_deliverable": null,
+        "proxy_used": null,
+        "duration_secs": 0
+    },
+    {
+        "email": "admin@amazon.com",
+        "status": "success",
+        "is_reachable": "unknown",
+        "is_deliverable": null,
+        "proxy_used": null,
+        "duration_secs": 0
+    },
+    {
+        "email": "admin@meta.com",
+        "status": "success",
+        "is_reachable": "risky",
+        "is_deliverable": true,
+        "proxy_used": null,
+        "duration_secs": 1
+    },
+    {
+        "email": "admin@netflix.com",
+        "status": "success",
+        "is_reachable": "risky",
+        "is_deliverable": true,
+        "proxy_used": null,
+        "duration_secs": 1
+    },
+    {
+        "email": "admin@github.com",
+        "status": "success",
+        "is_reachable": "risky",
+        "is_deliverable": false,
+        "proxy_used": null,
+        "duration_secs": 1
+    },
+    {
+        "email": "admin@ibm.com",
+        "status": "success",
+        "is_reachable": "risky",
+        "is_deliverable": true,
+        "proxy_used": null,
+        "duration_secs": 1
+    },
+    {
+        "email": "admin@oracle.com",
+        "status": "success",
+        "is_reachable": "risky",
+        "is_deliverable": false,
+        "proxy_used": null,
+        "duration_secs": 1
+    },
+    {
+        "email": "admin@intel.com",
+        "status": "exception",
+        "error": "HTTPConnectionPool(host='localhost', port=8080): Read timed out. (read timeout=15)"
+    },
+    {
+        "email": "admin@cisco.com",
+        "status": "success",
+        "is_reachable": "risky",
+        "is_deliverable": true,
+        "proxy_used": null,
+        "duration_secs": 1
+    },
+    {
+        "email": "admin@hp.com",
+        "status": "success",
+        "is_reachable": "unknown",
+        "is_deliverable": null,
+        "proxy_used": null,
+        "duration_secs": 1
+    },
+    {
+        "email": "admin@dell.com",
+        "status": "success",
+        "is_reachable": "risky",
+        "is_deliverable": true,
+        "proxy_used": null,
+        "duration_secs": 1
+    },
+    {
+        "email": "admin@salesforce.com",
+        "status": "success",
+        "is_reachable": "risky",
+        "is_deliverable": false,
+        "proxy_used": null,
+        "duration_secs": 2
+    },
+    {
+        "email": "admin@adobe.com",
+        "status": "success",
+        "is_reachable": "risky",
+        "is_deliverable": false,
+        "proxy_used": null,
+        "duration_secs": 1
+    },
+    {
+        "email": "admin@stripe.com",
+        "status": "success",
+        "is_reachable": "risky",
+        "is_deliverable": true,
+        "proxy_used": null,
+        "duration_secs": 1
+    },
+    {
+        "email": "admin@paypal.com",
+        "status": "success",
+        "is_reachable": "risky",
+        "is_deliverable": true,
+        "proxy_used": null,
+        "duration_secs": 1
+    },
+    {
+        "email": "admin@airbnb.com",
+        "status": "success",
+        "is_reachable": "risky",
+        "is_deliverable": true,
+        "proxy_used": null,
+        "duration_secs": 1
+    },
+    {
+        "email": "admin@uber.com",
+        "status": "success",
+        "is_reachable": "risky",
+        "is_deliverable": true,
+        "proxy_used": null,
+        "duration_secs": 1
+    },
+    {
+        "email": "admin@tesla.com",
+        "status": "success",
+        "is_reachable": "risky",
+        "is_deliverable": false,
+        "proxy_used": null,
+        "duration_secs": 1
+    },
+    {
+        "email": "admin@spotify.com",
+        "status": "success",
+        "is_reachable": "risky",
+        "is_deliverable": true,
+        "proxy_used": null,
+        "duration_secs": 1
+    },
+    {
+        "email": "admin@visa.com",
+        "status": "success",
+        "is_reachable": "risky",
+        "is_deliverable": true,
+        "proxy_used": null,
+        "duration_secs": 1
+    },
+    {
+        "email": "admin@mastercard.com",
+        "status": "success",
+        "is_reachable": "risky",
+        "is_deliverable": true,
+        "proxy_used": null,
+        "duration_secs": 1
+    },
+    {
+        "email": "admin@disney.com",
+        "status": "success",
+        "is_reachable": "risky",
+        "is_deliverable": false,
+        "proxy_used": null,
+        "duration_secs": 2
+    },
+    {
+        "email": "admin@nike.com",
+        "status": "success",
+        "is_reachable": "risky",
+        "is_deliverable": true,
+        "proxy_used": null,
+        "duration_secs": 2
+    },
+    {
+        "email": "marketing@google.com",
+        "status": "success",
+        "is_reachable": "risky",
+        "is_deliverable": true,
+        "proxy_used": null,
+        "duration_secs": 1
+    },
+    {
+        "email": "marketing@microsoft.com",
+        "status": "success",
+        "is_reachable": "risky",
+        "is_deliverable": false,
+        "proxy_used": null,
+        "duration_secs": 2
+    },
+    {
+        "email": "marketing@apple.com",
+        "status": "success",
+        "is_reachable": "unknown",
+        "is_deliverable": null,
+        "proxy_used": null,
+        "duration_secs": 1
+    },
+    {
+        "email": "marketing@amazon.com",
+        "status": "success",
+        "is_reachable": "unknown",
+        "is_deliverable": null,
+        "proxy_used": null,
+        "duration_secs": 0
+    },
+    {
+        "email": "marketing@meta.com",
+        "status": "success",
+        "is_reachable": "risky",
+        "is_deliverable": true,
+        "proxy_used": null,
+        "duration_secs": 1
+    },
+    {
+        "email": "marketing@netflix.com",
+        "status": "success",
+        "is_reachable": "risky",
+        "is_deliverable": true,
+        "proxy_used": null,
+        "duration_secs": 1
+    },
+    {
+        "email": "marketing@github.com",
+        "status": "success",
+        "is_reachable": "risky",
+        "is_deliverable": false,
+        "proxy_used": null,
+        "duration_secs": 2
+    },
+    {
+        "email": "marketing@ibm.com",
+        "status": "success",
+        "is_reachable": "risky",
+        "is_deliverable": true,
+        "proxy_used": null,
+        "duration_secs": 1
+    },
+    {
+        "email": "marketing@oracle.com",
+        "status": "success",
+        "is_reachable": "risky",
+        "is_deliverable": false,
+        "proxy_used": null,
+        "duration_secs": 2
+    },
+    {
+        "email": "marketing@intel.com",
+        "status": "success",
+        "is_reachable": "risky",
+        "is_deliverable": true,
+        "proxy_used": null,
+        "duration_secs": 2
+    },
+    {
+        "email": "marketing@cisco.com",
+        "status": "success",
+        "is_reachable": "risky",
+        "is_deliverable": true,
+        "proxy_used": null,
+        "duration_secs": 1
+    },
+    {
+        "email": "marketing@hp.com",
+        "status": "success",
+        "is_reachable": "unknown",
+        "is_deliverable": null,
+        "proxy_used": null,
+        "duration_secs": 1
+    },
+    {
+        "email": "marketing@dell.com",
+        "status": "success",
+        "is_reachable": "risky",
+        "is_deliverable": true,
+        "proxy_used": null,
+        "duration_secs": 2
+    },
+    {
+        "email": "marketing@salesforce.com",
+        "status": "success",
+        "is_reachable": "risky",
+        "is_deliverable": true,
+        "proxy_used": null,
+        "duration_secs": 2
+    },
+    {
+        "email": "marketing@adobe.com",
+        "status": "success",
+        "is_reachable": "risky",
+        "is_deliverable": false,
+        "proxy_used": null,
+        "duration_secs": 1
+    },
+    {
+        "email": "marketing@stripe.com",
+        "status": "success",
+        "is_reachable": "risky",
+        "is_deliverable": true,
+        "proxy_used": null,
+        "duration_secs": 1
+    },
+    {
+        "email": "marketing@paypal.com",
+        "status": "success",
+        "is_reachable": "risky",
+        "is_deliverable": true,
+        "proxy_used": null,
+        "duration_secs": 1
+    },
+    {
+        "email": "marketing@airbnb.com",
+        "status": "success",
+        "is_reachable": "risky",
+        "is_deliverable": true,
+        "proxy_used": null,
+        "duration_secs": 1
+    },
+    {
+        "email": "marketing@uber.com",
+        "status": "success",
+        "is_reachable": "risky",
+        "is_deliverable": true,
+        "proxy_used": null,
+        "duration_secs": 1
+    },
+    {
+        "email": "marketing@tesla.com",
+        "status": "success",
+        "is_reachable": "risky",
+        "is_deliverable": false,
+        "proxy_used": null,
+        "duration_secs": 1
+    },
+    {
+        "email": "marketing@spotify.com",
+        "status": "success",
+        "is_reachable": "risky",
+        "is_deliverable": true,
+        "proxy_used": null,
+        "duration_secs": 1
+    },
+    {
+        "email": "marketing@visa.com",
+        "status": "success",
+        "is_reachable": "risky",
+        "is_deliverable": true,
+        "proxy_used": null,
+        "duration_secs": 3
+    },
+    {
+        "email": "marketing@mastercard.com",
+        "status": "success",
+        "is_reachable": "risky",
+        "is_deliverable": true,
+        "proxy_used": null,
+        "duration_secs": 2
+    },
+    {
+        "email": "marketing@disney.com",
+        "status": "success",
+        "is_reachable": "risky",
+        "is_deliverable": false,
+        "proxy_used": null,
+        "duration_secs": 1
+    },
+    {
+        "email": "marketing@nike.com",
+        "status": "success",
+        "is_reachable": "risky",
+        "is_deliverable": false,
+        "proxy_used": null,
+        "duration_secs": 2
+    }
+]
