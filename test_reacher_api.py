@@ -6,43 +6,18 @@ from concurrent.futures import ThreadPoolExecutor
 # API Endpoint
 API_URL = "http://localhost:8080/v1/check_email"
 
-# Generate 500 test emails: 250 personal and 250 company emails.
-# We use common first names for personal domains and role addresses for company domains.
+import os
 
-personal_names = [
-    "john", "mary", "david", "sarah", "michael", "jessica", "james", "emily",
-    "robert", "jennifer", "william", "elizabeth", "joseph", "linda", "charles",
-    "susan", "thomas", "margaret", "christopher", "lisa", "daniel", "karen",
-    "paul", "nancy", "mark", "betty", "donald", "sanders", "george", "ashley",
-    "kenneth", "kimberly", "steven", "donna", "edward", "carol", "brian", "ruth",
-    "ronald", "sharon", "anthony", "michelle", "kevin", "laura", "jason", "sarah",
-    "matthew", "kim", "gary", "deborah"
-]
-personal_domains = ["gmail.com", "yahoo.com", "outlook.com", "hotmail.com", "icloud.com"]
-
-company_roles = [
-    "info", "support", "sales", "contact", "privacy", "security", "press", 
-    "careers", "admin", "marketing"
-]
-company_domains = [
-    "google.com", "microsoft.com", "apple.com", "amazon.com", "meta.com",
-    "netflix.com", "github.com", "ibm.com", "oracle.com", "intel.com",
-    "cisco.com", "hp.com", "dell.com", "salesforce.com", "adobe.com",
-    "stripe.com", "paypal.com", "airbnb.com", "uber.com", "tesla.com",
-    "spotify.com", "visa.com", "mastercard.com", "disney.com", "nike.com"
-]
-
+# Load emails directly from the extracted_emails.txt file
 emails_to_test = []
+extracted_file_path = "extracted_emails.txt"
 
-# Add 250 personal emails (50 names * 5 domains)
-for name in personal_names[:50]:
-    for domain in personal_domains[:5]:
-        emails_to_test.append(f"{name}@{domain}")
-
-# Add 250 company emails (10 roles * 25 domains)
-for role in company_roles[:10]:
-    for domain in company_domains[:25]:
-        emails_to_test.append(f"{role}@{domain}")
+if os.path.exists(extracted_file_path):
+    with open(extracted_file_path, "r", encoding="utf-8") as f:
+        emails_to_test = [line.strip() for line in f if line.strip()]
+    print(f"Loaded {len(emails_to_test)} emails from {extracted_file_path}.")
+else:
+    print(f"File {extracted_file_path} not found.")
 
 def check_email(email):
     """
