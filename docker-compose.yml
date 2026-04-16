@@ -1,0 +1,12 @@
+services:
+  reacher:
+    image: reacherhq/backend:latest
+    container_name: reacher_local
+    restart: always
+    ports:
+      - "8080:8080"
+    environment:
+      REACHER_SMTP_PROXY_HOST: r1.proxy4smtp.com
+      REACHER_SMTP_PROXY_PORT: 1081
+      REACHER_SMTP_PROXY_USERNAME: ${SMTP_PROXY_USERNAME}
+      REACHER_SMTP_PROXY_PASSWORD: ${SMTP_PROXY_PASSWORD}
