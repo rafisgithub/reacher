@@ -5,7 +5,7 @@
         "is_reachable": "safe",
         "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 4
+        "duration_secs": 6
     },
     {
         "email": "dsouthwell@teknorapex.com",
@@ -13,7 +13,7 @@
         "is_reachable": "risky",
         "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 4
+        "duration_secs": 6
     },
     {
         "email": "thad@evolving.com",
@@ -21,7 +21,7 @@
         "is_reachable": "risky",
         "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 4
+        "duration_secs": 6
     },
     {
         "email": "kbeal@wje.com",
@@ -29,7 +29,7 @@
         "is_reachable": "safe",
         "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 6
+        "duration_secs": 9
     },
     {
         "email": "cbenek@qespavements.com",
@@ -37,7 +37,7 @@
         "is_reachable": "safe",
         "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 5
+        "duration_secs": 7
     },
     {
         "email": "wayne.pekar@univarsolutions.com",
@@ -45,7 +45,7 @@
         "is_reachable": "safe",
         "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 5
+        "duration_secs": 6
     },
     {
         "email": "tammy.richardson@kohler.com",
@@ -53,7 +53,7 @@
         "is_reachable": "risky",
         "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 5
+        "duration_secs": 6
     },
     {
         "email": "sflanery@spencerfane.com",
@@ -69,7 +69,7 @@
         "is_reachable": "safe",
         "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 6
+        "duration_secs": 7
     },
     {
         "email": "tpastor@blackstonepc.com",
@@ -77,7 +77,7 @@
         "is_reachable": "safe",
         "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 5
+        "duration_secs": 7
     },
     {
         "email": "rob.king@andritz.com",
@@ -93,7 +93,7 @@
         "is_reachable": "safe",
         "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 5
+        "duration_secs": 6
     },
     {
         "email": "amy.cortes@pacificoffice.com",
@@ -101,7 +101,7 @@
         "is_reachable": "safe",
         "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 6
+        "duration_secs": 5
     },
     {
         "email": "jordan@sjhamill.com",
@@ -141,7 +141,7 @@
         "is_reachable": "risky",
         "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 4
+        "duration_secs": 6
     },
     {
         "email": "ashanti.jones@celanese.com",
@@ -149,7 +149,7 @@
         "is_reachable": "risky",
         "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 3
+        "duration_secs": 5
     },
     {
         "email": "mayank.makkar@rivi.co",
@@ -157,7 +157,7 @@
         "is_reachable": "safe",
         "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 3
+        "duration_secs": 5
     },
     {
         "email": "shaweta.pandey@nouryon.com",
@@ -165,7 +165,7 @@
         "is_reachable": "risky",
         "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 3
+        "duration_secs": 4
     },
     {
         "email": "sharon.wilkins@simplot.com",
@@ -173,7 +173,7 @@
         "is_reachable": "risky",
         "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 3
+        "duration_secs": 6
     },
     {
         "email": "tmerchant@ridefox.com",
@@ -181,7 +181,7 @@
         "is_reachable": "safe",
         "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 3
+        "duration_secs": 5
     },
     {
         "email": "lbarlow@sager.com",
@@ -189,7 +189,7 @@
         "is_reachable": "safe",
         "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 8
+        "duration_secs": 9
     },
     {
         "email": "ray.melissa@melissadata.com",
@@ -197,7 +197,7 @@
         "is_reachable": "safe",
         "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 8
+        "duration_secs": 9
     },
     {
         "email": "karlynne.dennis@relativity.com",
@@ -205,7 +205,7 @@
         "is_reachable": "safe",
         "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 4
+        "duration_secs": 5
     },
     {
         "email": "faisal.husain@synechron.com",
@@ -213,7 +213,7 @@
         "is_reachable": "risky",
         "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 6
+        "duration_secs": 5
     },
     {
         "email": "aduczynski@a-zcorp.com",
@@ -221,7 +221,7 @@
         "is_reachable": "safe",
         "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 9
+        "duration_secs": 6
     },
     {
         "email": "katie.lepper@celanese.com",
@@ -229,7 +229,7 @@
         "is_reachable": "risky",
         "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 3
+        "duration_secs": 4
     },
     {
         "email": "dayna.babb@prysmian.com",
@@ -237,7 +237,7 @@
         "is_reachable": "risky",
         "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 5
+        "duration_secs": 3
     },
     {
         "email": "mariam.faisal@first-tek.com",
@@ -245,7 +245,7 @@
         "is_reachable": "safe",
         "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 6
+        "duration_secs": 4
     },
     {
         "email": "jeromee@bollingershipyards.com",
@@ -277,7 +277,7 @@
         "is_reachable": "risky",
         "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 5
+        "duration_secs": 6
     },
     {
         "email": "adrian.sullivan@worthingtonindustries.com",
@@ -285,7 +285,7 @@
         "is_reachable": "risky",
         "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 4
+        "duration_secs": 6
     },
     {
         "email": "vijay.pullur@wavemaker.com",
@@ -293,7 +293,7 @@
         "is_reachable": "safe",
         "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 3
+        "duration_secs": 5
     },
     {
         "email": "myeley@murdochs.com",
@@ -301,7 +301,7 @@
         "is_reachable": "safe",
         "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 4
+        "duration_secs": 7
     },
     {
         "email": "matthew-s@novami.com",
@@ -309,7 +309,7 @@
         "is_reachable": "safe",
         "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 3
+        "duration_secs": 4
     },
     {
         "email": "stephanie@newyorklife.com",
@@ -333,7 +333,7 @@
         "is_reachable": "safe",
         "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 6
+        "duration_secs": 5
     },
     {
         "email": "dennis@slatelaw.com",
@@ -341,7 +341,7 @@
         "is_reachable": "safe",
         "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 5
+        "duration_secs": 4
     },
     {
         "email": "andrew.davies@syniverse.com",
@@ -349,7 +349,7 @@
         "is_reachable": "risky",
         "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 5
+        "duration_secs": 4
     },
     {
         "email": "staceym@firstam.com",
@@ -357,7 +357,7 @@
         "is_reachable": "safe",
         "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 3
+        "duration_secs": 5
     },
     {
         "email": "tracy.simmons@vectorcsp.com",
@@ -381,7 +381,7 @@
         "is_reachable": "safe",
         "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 4
+        "duration_secs": 5
     },
     {
         "email": "john.hayes@ihsmarkit.com",
@@ -389,7 +389,7 @@
         "is_reachable": "risky",
         "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 3
+        "duration_secs": 4
     },
     {
         "email": "jstowe@sjhamill.com",
@@ -405,7 +405,7 @@
         "is_reachable": "safe",
         "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 3
+        "duration_secs": 5
     },
     {
         "email": "rgallatin@pourstrip0.com",
@@ -421,7 +421,7 @@
         "is_reachable": "risky",
         "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 3
+        "duration_secs": 4
     },
     {
         "email": "amanda@tiffany.com",
@@ -437,7 +437,7 @@
         "is_reachable": "safe",
         "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 4
+        "duration_secs": 5
     },
     {
         "email": "utsav@gmetri.com",
@@ -445,7 +445,7 @@
         "is_reachable": "safe",
         "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 4
+        "duration_secs": 5
     },
     {
         "email": "blackk@hughes.com",
@@ -481,8 +481,11 @@
     },
     {
         "email": "kim.eggen@seakr.com",
-        "status": "exception",
-        "error": "HTTPConnectionPool(host='localhost', port=8080): Read timed out. (read timeout=15)"
+        "status": "success",
+        "is_reachable": "risky",
+        "is_deliverable": true,
+        "proxy_used": "default",
+        "duration_secs": 4
     },
     {
         "email": "lryan@rti-inc.com",
@@ -490,7 +493,7 @@
         "is_reachable": "safe",
         "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 4
+        "duration_secs": 5
     },
     {
         "email": "bfodor@intren.com",
@@ -506,7 +509,7 @@
         "is_reachable": "risky",
         "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 3
+        "duration_secs": 4
     },
     {
         "email": "tbrown@allensworthlaw.com",
@@ -514,7 +517,7 @@
         "is_reachable": "safe",
         "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 3
+        "duration_secs": 5
     },
     {
         "email": "jonesj@thyssenkrupp.com",
@@ -538,7 +541,7 @@
         "is_reachable": "risky",
         "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 3
+        "duration_secs": 5
     },
     {
         "email": "julie.venti@simplot.com",
@@ -546,7 +549,7 @@
         "is_reachable": "risky",
         "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 3
+        "duration_secs": 6
     },
     {
         "email": "klaurent@proenergyservices.com",
@@ -554,7 +557,7 @@
         "is_reachable": "safe",
         "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 5
+        "duration_secs": 6
     },
     {
         "email": "jessicahopkins@winn-marion.com",
@@ -562,7 +565,7 @@
         "is_reachable": "safe",
         "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 6
+        "duration_secs": 8
     },
     {
         "email": "delaney@newyorklife.com",
@@ -578,7 +581,7 @@
         "is_reachable": "safe",
         "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 6
+        "duration_secs": 7
     },
     {
         "email": "ewall@outsetmedical.com",
@@ -594,7 +597,7 @@
         "is_reachable": "safe",
         "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 4
+        "duration_secs": 5
     },
     {
         "email": "tina.livingston@simplot.com",
@@ -602,7 +605,7 @@
         "is_reachable": "risky",
         "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 3
+        "duration_secs": 5
     },
     {
         "email": "cspille@accelevationllc.com",
@@ -610,7 +613,7 @@
         "is_reachable": "safe",
         "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 4
+        "duration_secs": 5
     },
     {
         "email": "rmcgrath@textron.com",
@@ -618,7 +621,7 @@
         "is_reachable": "safe",
         "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 4
+        "duration_secs": 5
     },
     {
         "email": "fcoelho@proenergyservices.com",
@@ -626,7 +629,7 @@
         "is_reachable": "safe",
         "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 4
+        "duration_secs": 5
     },
     {
         "email": "milind@smartkargo.com",
@@ -634,7 +637,7 @@
         "is_reachable": "safe",
         "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 4
+        "duration_secs": 5
     },
     {
         "email": "mryan@allensworthlaw.com",
@@ -642,7 +645,7 @@
         "is_reachable": "safe",
         "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 3
+        "duration_secs": 4
     },
     {
         "email": "nadav@bzigo.com",
@@ -658,7 +661,7 @@
         "is_reachable": "risky",
         "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 3
+        "duration_secs": 5
     },
     {
         "email": "angela.jackson@hornblower.com",
@@ -666,15 +669,15 @@
         "is_reachable": "safe",
         "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 4
+        "duration_secs": 6
     },
     {
         "email": "alyons@qualcomm.com",
         "status": "success",
-        "is_reachable": "risky",
-        "is_deliverable": true,
+        "is_reachable": "unknown",
+        "is_deliverable": null,
         "proxy_used": "default",
-        "duration_secs": 3
+        "duration_secs": 2
     },
     {
         "email": "granthamt@wilsonelser.com",
@@ -682,7 +685,7 @@
         "is_reachable": "risky",
         "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 4
+        "duration_secs": 5
     },
     {
         "email": "lpatterson@astrion.us",
@@ -690,7 +693,7 @@
         "is_reachable": "safe",
         "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 4
+        "duration_secs": 6
     },
     {
         "email": "cjohnson@shakeshack.com",
@@ -698,7 +701,7 @@
         "is_reachable": "safe",
         "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 4
+        "duration_secs": 5
     },
     {
         "email": "dfisher@czarnowski.com",
@@ -714,7 +717,7 @@
         "is_reachable": "safe",
         "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 3
+        "duration_secs": 5
     },
     {
         "email": "eheyden@ssasecurity.com",
@@ -722,7 +725,7 @@
         "is_reachable": "risky",
         "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 3
+        "duration_secs": 5
     },
     {
         "email": "dstuder@solenis.com",
@@ -730,7 +733,7 @@
         "is_reachable": "risky",
         "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 3
+        "duration_secs": 4
     },
     {
         "email": "gjohnson@neci.com",
@@ -738,7 +741,7 @@
         "is_reachable": "safe",
         "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 6
+        "duration_secs": 5
     },
     {
         "email": "michael.findley@nov.com",
@@ -746,7 +749,7 @@
         "is_reachable": "safe",
         "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 7
+        "duration_secs": 6
     },
     {
         "email": "olivier.padiou@valtech.com",
@@ -762,7 +765,7 @@
         "is_reachable": "safe",
         "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 6
+        "duration_secs": 5
     },
     {
         "email": "natashia.stephens@celanese.com",
@@ -770,7 +773,7 @@
         "is_reachable": "risky",
         "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 6
+        "duration_secs": 5
     },
     {
         "email": "jprpich@hunatotem.com",
@@ -778,7 +781,7 @@
         "is_reachable": "safe",
         "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 6
+        "duration_secs": 5
     },
     {
         "email": "shane@fieldinglawgroup.com",
@@ -786,7 +789,7 @@
         "is_reachable": "safe",
         "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 7
+        "duration_secs": 6
     },
     {
         "email": "myles.wojtasiak@ga-asi.com",
@@ -794,7 +797,7 @@
         "is_reachable": "risky",
         "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 6
+        "duration_secs": 5
     },
     {
         "email": "suchit@unilogcorp.com",
@@ -802,7 +805,7 @@
         "is_reachable": "safe",
         "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 7
+        "duration_secs": 6
     },
     {
         "email": "courtl@stifel.com",
@@ -810,7 +813,7 @@
         "is_reachable": "safe",
         "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 7
+        "duration_secs": 8
     },
     {
         "email": "brooke@fieldinglawgroup.com",
@@ -818,7 +821,7 @@
         "is_reachable": "safe",
         "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 4
+        "duration_secs": 5
     },
     {
         "email": "peter.burkevics@ga-asi.com",
@@ -826,7 +829,7 @@
         "is_reachable": "risky",
         "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 3
+        "duration_secs": 6
     },
     {
         "email": "yvonne.valdes@nellc.com",
@@ -834,7 +837,7 @@
         "is_reachable": "safe",
         "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 5
+        "duration_secs": 6
     },
     {
         "email": "avs@nimblework.com",
@@ -858,7 +861,7 @@
         "is_reachable": "risky",
         "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 13
+        "duration_secs": 14
     },
     {
         "email": "caroline.click@lubrizol.com",
@@ -866,7 +869,7 @@
         "is_reachable": "safe",
         "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 4
+        "duration_secs": 5
     },
     {
         "email": "april@acuityinc.com",
@@ -874,7 +877,7 @@
         "is_reachable": "risky",
         "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 3
+        "duration_secs": 5
     },
     {
         "email": "alyssa.williams@se.com",
@@ -890,7 +893,7 @@
         "is_reachable": "risky",
         "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 3
+        "duration_secs": 5
     },
     {
         "email": "slin@ntscapital.com",
@@ -898,7 +901,7 @@
         "is_reachable": "risky",
         "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 3
+        "duration_secs": 4
     },
     {
         "email": "craigg@wgohman.com",
@@ -938,15 +941,15 @@
         "is_reachable": "safe",
         "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 6
+        "duration_secs": 3
     },
     {
         "email": "lisa.johnson@utsouthwestern.edu",
         "status": "success",
-        "is_reachable": "unknown",
-        "is_deliverable": null,
+        "is_reachable": "safe",
+        "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 1
+        "duration_secs": 3
     },
     {
         "email": "taol@corning.com",
@@ -954,7 +957,7 @@
         "is_reachable": "safe",
         "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 4
+        "duration_secs": 3
     },
     {
         "email": "karen.hossfeld@perfectionservo.com",
@@ -970,7 +973,7 @@
         "is_reachable": "risky",
         "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 4
+        "duration_secs": 3
     },
     {
         "email": "dylanc@oesolarnm.com",
@@ -986,7 +989,7 @@
         "is_reachable": "safe",
         "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 4
+        "duration_secs": 5
     },
     {
         "email": "ryan.cadorette@lubrizol.com",
@@ -1002,7 +1005,7 @@
         "is_reachable": "safe",
         "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 4
+        "duration_secs": 3
     },
     {
         "email": "atishe@doodleblue.com",
@@ -1026,7 +1029,7 @@
         "is_reachable": "safe",
         "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 4
+        "duration_secs": 3
     },
     {
         "email": "aheredia@scsengineers.com",
@@ -1034,7 +1037,7 @@
         "is_reachable": "safe",
         "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 4
+        "duration_secs": 3
     },
     {
         "email": "kgermana@suremechanical.com",
@@ -1050,7 +1053,7 @@
         "is_reachable": "safe",
         "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 5
+        "duration_secs": 4
     },
     {
         "email": "baldockl@stifel.com",
@@ -1058,7 +1061,7 @@
         "is_reachable": "safe",
         "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 3
+        "duration_secs": 4
     },
     {
         "email": "cliff.murphy@sc.edu",
@@ -1075,8 +1078,11 @@
     },
     {
         "email": "vhhall@pacific-ind.com",
-        "status": "exception",
-        "error": "HTTPConnectionPool(host='localhost', port=8080): Read timed out. (read timeout=15)"
+        "status": "success",
+        "is_reachable": "safe",
+        "is_deliverable": true,
+        "proxy_used": "default",
+        "duration_secs": 4
     },
     {
         "email": "satish@shiftleft.ventures",
@@ -1084,7 +1090,7 @@
         "is_reachable": "risky",
         "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 3
+        "duration_secs": 2
     },
     {
         "email": "psullivan@qespavements.com",
@@ -1108,15 +1114,15 @@
         "is_reachable": "safe",
         "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 3
+        "duration_secs": 4
     },
     {
         "email": "sharon.burns@acuityinc.com",
         "status": "success",
-        "is_reachable": "risky",
-        "is_deliverable": true,
+        "is_reachable": "unknown",
+        "is_deliverable": null,
         "proxy_used": "default",
-        "duration_secs": 4
+        "duration_secs": 1
     },
     {
         "email": "jicutaia@bechtel.com",
@@ -1124,7 +1130,7 @@
         "is_reachable": "safe",
         "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 5
+        "duration_secs": 3
     },
     {
         "email": "jonathan.palm@stratusteam.com",
@@ -1132,12 +1138,15 @@
         "is_reachable": "safe",
         "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 4
+        "duration_secs": 3
     },
     {
         "email": "nsaini@distroscale.com",
-        "status": "exception",
-        "error": "HTTPConnectionPool(host='localhost', port=8080): Read timed out. (read timeout=15)"
+        "status": "success",
+        "is_reachable": "safe",
+        "is_deliverable": true,
+        "proxy_used": "default",
+        "duration_secs": 3
     },
     {
         "email": "jquental@neci.com",
@@ -1145,7 +1154,7 @@
         "is_reachable": "safe",
         "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 8
+        "duration_secs": 3
     },
     {
         "email": "aevans@scires.com",
@@ -1161,7 +1170,7 @@
         "is_reachable": "safe",
         "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 3
+        "duration_secs": 2
     },
     {
         "email": "samantha.burby@pacificoffice.com",
@@ -1169,7 +1178,7 @@
         "is_reachable": "safe",
         "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 4
+        "duration_secs": 3
     },
     {
         "email": "ricaye.harris@milliken.com",
@@ -1209,7 +1218,7 @@
         "is_reachable": "safe",
         "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 4
+        "duration_secs": 9
     },
     {
         "email": "elyse.ohlinger@forvia.com",
@@ -1225,7 +1234,7 @@
         "is_reachable": "safe",
         "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 6
+        "duration_secs": 3
     },
     {
         "email": "rcenteno@csklegal.com",
@@ -1233,7 +1242,7 @@
         "is_reachable": "safe",
         "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 6
+        "duration_secs": 4
     },
     {
         "email": "tara.hegge@hillmangroup.com",
@@ -1241,7 +1250,7 @@
         "is_reachable": "safe",
         "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 5
+        "duration_secs": 3
     },
     {
         "email": "dr@shermco.com",
@@ -1249,7 +1258,7 @@
         "is_reachable": "risky",
         "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 5
+        "duration_secs": 3
     },
     {
         "email": "marion.milan@tiffany.com",
@@ -1257,7 +1266,7 @@
         "is_reachable": "risky",
         "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 5
+        "duration_secs": 2
     },
     {
         "email": "keri.ames@gevernova.com",
@@ -1265,7 +1274,7 @@
         "is_reachable": "safe",
         "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 6
+        "duration_secs": 3
     },
     {
         "email": "kamos@stratusteam.com",
@@ -1273,15 +1282,15 @@
         "is_reachable": "safe",
         "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 5
+        "duration_secs": 3
     },
     {
         "email": "murali.tirupati@vaultedge.com",
         "status": "success",
-        "is_reachable": "safe",
-        "is_deliverable": true,
+        "is_reachable": "unknown",
+        "is_deliverable": null,
         "proxy_used": "default",
-        "duration_secs": 5
+        "duration_secs": 1
     },
     {
         "email": "kiana.coste@cornerstone-bb.com",
@@ -1289,7 +1298,7 @@
         "is_reachable": "risky",
         "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 8
+        "duration_secs": 3
     },
     {
         "email": "kdwilliams@mdwcg.com",
@@ -1297,7 +1306,7 @@
         "is_reachable": "safe",
         "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 7
+        "duration_secs": 3
     },
     {
         "email": "nicole@firstam.com",
@@ -1305,7 +1314,7 @@
         "is_reachable": "safe",
         "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 4
+        "duration_secs": 3
     },
     {
         "email": "ndoughty@asite.com",
@@ -1313,15 +1322,15 @@
         "is_reachable": "safe",
         "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 4
+        "duration_secs": 2
     },
     {
         "email": "lleda@lordabbett.com",
         "status": "success",
-        "is_reachable": "risky",
-        "is_deliverable": true,
+        "is_reachable": "unknown",
+        "is_deliverable": null,
         "proxy_used": "default",
-        "duration_secs": 5
+        "duration_secs": 1
     },
     {
         "email": "amerrill@outsetmedical.com",
@@ -1329,7 +1338,7 @@
         "is_reachable": "safe",
         "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 5
+        "duration_secs": 3
     },
     {
         "email": "yolanda.pippin@acuityinc.com",
@@ -1337,7 +1346,7 @@
         "is_reachable": "risky",
         "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 4
+        "duration_secs": 3
     },
     {
         "email": "james.pierson@pacificoffice.com",
@@ -1345,7 +1354,7 @@
         "is_reachable": "safe",
         "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 6
+        "duration_secs": 4
     },
     {
         "email": "orville.trout@hallmark.com",
@@ -1353,7 +1362,7 @@
         "is_reachable": "risky",
         "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 6
+        "duration_secs": 2
     },
     {
         "email": "anuj.shah@legal.io",
@@ -1369,7 +1378,7 @@
         "is_reachable": "safe",
         "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 6
+        "duration_secs": 3
     },
     {
         "email": "karmesh@osto.one",
@@ -1377,7 +1386,7 @@
         "is_reachable": "safe",
         "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 3
+        "duration_secs": 2
     },
     {
         "email": "austin.michelsen@journaltech.com",
@@ -1385,7 +1394,7 @@
         "is_reachable": "safe",
         "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 6
+        "duration_secs": 3
     },
     {
         "email": "jovon.james@weatherford.com",
@@ -1393,7 +1402,7 @@
         "is_reachable": "safe",
         "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 5
+        "duration_secs": 3
     },
     {
         "email": "hannah.hergenrother@se.com",
@@ -1401,7 +1410,7 @@
         "is_reachable": "safe",
         "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 5
+        "duration_secs": 3
     },
     {
         "email": "anna.obert@bodycote.com",
@@ -1409,7 +1418,7 @@
         "is_reachable": "safe",
         "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 5
+        "duration_secs": 4
     },
     {
         "email": "thomas.colvin@gevernova.com",
@@ -1417,7 +1426,7 @@
         "is_reachable": "safe",
         "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 5
+        "duration_secs": 3
     },
     {
         "email": "nkarbarz@intren.com",
@@ -1425,7 +1434,7 @@
         "is_reachable": "risky",
         "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 4
+        "duration_secs": 3
     },
     {
         "email": "mtaylor@pactiv.com",
@@ -1433,7 +1442,7 @@
         "is_reachable": "safe",
         "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 6
+        "duration_secs": 3
     },
     {
         "email": "elyse.gallo@pcg.com",
@@ -1441,7 +1450,7 @@
         "is_reachable": "risky",
         "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 4
+        "duration_secs": 3
     },
     {
         "email": "harri.emari@unitedecm.com",
@@ -1449,7 +1458,7 @@
         "is_reachable": "safe",
         "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 6
+        "duration_secs": 3
     },
     {
         "email": "mwestwood@rkk.com",
@@ -1457,7 +1466,7 @@
         "is_reachable": "risky",
         "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 5
+        "duration_secs": 3
     },
     {
         "email": "amallick@techno-eng.com",
@@ -1465,7 +1474,7 @@
         "is_reachable": "safe",
         "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 5
+        "duration_secs": 3
     },
     {
         "email": "acarmean@intren.com",
@@ -1473,13 +1482,13 @@
         "is_reachable": "risky",
         "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 4
+        "duration_secs": 2
     },
     {
         "email": "jbisio@solventum.com",
         "status": "success",
-        "is_reachable": "unknown",
-        "is_deliverable": null,
+        "is_reachable": "safe",
+        "is_deliverable": true,
         "proxy_used": "default",
         "duration_secs": 3
     },
@@ -1497,7 +1506,7 @@
         "is_reachable": "safe",
         "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 4
+        "duration_secs": 3
     },
     {
         "email": "wwagner@pettitkohn.com",
@@ -1505,7 +1514,7 @@
         "is_reachable": "safe",
         "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 5
+        "duration_secs": 3
     },
     {
         "email": "geena.gamble@worthingtonindustries.com",
@@ -1513,7 +1522,7 @@
         "is_reachable": "risky",
         "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 4
+        "duration_secs": 3
     },
     {
         "email": "mrivera@wjcs.com",
@@ -1569,7 +1578,7 @@
         "is_reachable": "safe",
         "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 4
+        "duration_secs": 5
     },
     {
         "email": "aemerson@allensworthlaw.com",
@@ -1593,15 +1602,15 @@
         "is_reachable": "safe",
         "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 15
+        "duration_secs": 3
     },
     {
         "email": "christina@aosmith.com",
         "status": "success",
-        "is_reachable": "risky",
-        "is_deliverable": true,
+        "is_reachable": "unknown",
+        "is_deliverable": null,
         "proxy_used": "default",
-        "duration_secs": 3
+        "duration_secs": 1
     },
     {
         "email": "daniel.rhine@arconic.com",
@@ -1625,7 +1634,7 @@
         "is_reachable": "safe",
         "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 3
+        "duration_secs": 5
     },
     {
         "email": "aimee.boettcher@conteches.com",
@@ -1633,7 +1642,7 @@
         "is_reachable": "safe",
         "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 4
+        "duration_secs": 3
     },
     {
         "email": "rajkishore.una@gyansys.com",
@@ -1641,7 +1650,7 @@
         "is_reachable": "safe",
         "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 5
+        "duration_secs": 4
     },
     {
         "email": "kkeifer@qespavements.com",
@@ -1665,7 +1674,7 @@
         "is_reachable": "safe",
         "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 4
+        "duration_secs": 3
     },
     {
         "email": "slocsin@winthrop.com",
@@ -1673,7 +1682,7 @@
         "is_reachable": "safe",
         "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 6
+        "duration_secs": 5
     },
     {
         "email": "priscillafoskey@corning.com",
@@ -1681,7 +1690,7 @@
         "is_reachable": "safe",
         "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 5
+        "duration_secs": 3
     },
     {
         "email": "stacy_sheppard@keysight.com",
@@ -1689,7 +1698,7 @@
         "is_reachable": "risky",
         "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 5
+        "duration_secs": 3
     },
     {
         "email": "delaneym@zentech.com",
@@ -1697,7 +1706,7 @@
         "is_reachable": "safe",
         "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 5
+        "duration_secs": 3
     },
     {
         "email": "michele.frauson@acuityinc.com",
@@ -1705,7 +1714,7 @@
         "is_reachable": "risky",
         "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 4
+        "duration_secs": 2
     },
     {
         "email": "tonya.bolton@linde.com",
@@ -1713,7 +1722,7 @@
         "is_reachable": "safe",
         "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 3
+        "duration_secs": 2
     },
     {
         "email": "dave.markovich@rxfunction.com",
@@ -1721,7 +1730,7 @@
         "is_reachable": "safe",
         "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 4
+        "duration_secs": 3
     },
     {
         "email": "vbushell@smalltubeproducts.com",
@@ -1741,11 +1750,8 @@
     },
     {
         "email": "kelly.hooker@kelleyconstruction.com",
-        "status": "success",
-        "is_reachable": "safe",
-        "is_deliverable": true,
-        "proxy_used": "default",
-        "duration_secs": 7
+        "status": "exception",
+        "error": "HTTPConnectionPool(host='localhost', port=8080): Read timed out. (read timeout=15)"
     },
     {
         "email": "j@se.com",
@@ -1753,7 +1759,7 @@
         "is_reachable": "safe",
         "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 7
+        "duration_secs": 3
     },
     {
         "email": "elizabeth.hess@wilsonelser.com",
@@ -1761,7 +1767,7 @@
         "is_reachable": "risky",
         "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 5
+        "duration_secs": 3
     },
     {
         "email": "layna.santikian@forvia.com",
@@ -1769,7 +1775,7 @@
         "is_reachable": "safe",
         "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 4
+        "duration_secs": 2
     },
     {
         "email": "ystackhouse@rkk.com",
@@ -1777,7 +1783,7 @@
         "is_reachable": "risky",
         "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 5
+        "duration_secs": 3
     },
     {
         "email": "alana.withers@celanese.com",
@@ -1785,7 +1791,7 @@
         "is_reachable": "risky",
         "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 4
+        "duration_secs": 3
     },
     {
         "email": "ashley.courtney@shermco.com",
@@ -1793,7 +1799,7 @@
         "is_reachable": "risky",
         "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 6
+        "duration_secs": 3
     },
     {
         "email": "molly.donaldson@mendes.com",
@@ -1801,7 +1807,7 @@
         "is_reachable": "safe",
         "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 6
+        "duration_secs": 4
     },
     {
         "email": "bfogg@outsetmedical.com",
@@ -1809,7 +1815,7 @@
         "is_reachable": "safe",
         "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 6
+        "duration_secs": 3
     },
     {
         "email": "ronak.patel@thesunflowerlab.com",
@@ -1817,7 +1823,7 @@
         "is_reachable": "safe",
         "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 5
+        "duration_secs": 3
     },
     {
         "email": "sherry.jones@offitkurman.com",
@@ -1825,7 +1831,7 @@
         "is_reachable": "safe",
         "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 5
+        "duration_secs": 4
     },
     {
         "email": "camilla.crenshaw@hlcompany.com",
@@ -1833,7 +1839,7 @@
         "is_reachable": "risky",
         "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 5
+        "duration_secs": 4
     },
     {
         "email": "sgerome@statestreet.com",
@@ -1841,7 +1847,7 @@
         "is_reachable": "risky",
         "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 5
+        "duration_secs": 3
     },
     {
         "email": "nparwate@nimblework.com",
@@ -1857,7 +1863,7 @@
         "is_reachable": "risky",
         "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 4
+        "duration_secs": 3
     },
     {
         "email": "bantony@bloomenergy.com",
@@ -1865,7 +1871,7 @@
         "is_reachable": "risky",
         "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 4
+        "duration_secs": 3
     },
     {
         "email": "lisa.parsley@meillc.com",
@@ -1873,15 +1879,15 @@
         "is_reachable": "safe",
         "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 5
+        "duration_secs": 3
     },
     {
         "email": "aadams@olsson.com",
         "status": "success",
-        "is_reachable": "risky",
-        "is_deliverable": true,
+        "is_reachable": "unknown",
+        "is_deliverable": null,
         "proxy_used": "default",
-        "duration_secs": 5
+        "duration_secs": 1
     },
     {
         "email": "kathy@streamline.ai",
@@ -1889,15 +1895,15 @@
         "is_reachable": "risky",
         "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 4
+        "duration_secs": 2
     },
     {
         "email": "eswar@fissionlabs.com",
         "status": "success",
-        "is_reachable": "safe",
-        "is_deliverable": true,
+        "is_reachable": "unknown",
+        "is_deliverable": null,
         "proxy_used": "default",
-        "duration_secs": 4
+        "duration_secs": 1
     },
     {
         "email": "tatkins@murdochs.com",
@@ -1905,7 +1911,7 @@
         "is_reachable": "safe",
         "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 4
+        "duration_secs": 3
     },
     {
         "email": "melanie.edleston@kodiakgas.com",
@@ -1913,7 +1919,7 @@
         "is_reachable": "safe",
         "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 5
+        "duration_secs": 4
     },
     {
         "email": "dvettori@sager.com",
@@ -1921,7 +1927,7 @@
         "is_reachable": "safe",
         "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 7
+        "duration_secs": 4
     },
     {
         "email": "naomi.bolling@univarsolutions.com",
@@ -1929,7 +1935,7 @@
         "is_reachable": "safe",
         "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 4
+        "duration_secs": 3
     },
     {
         "email": "thyken@wje.com",
@@ -1937,7 +1943,7 @@
         "is_reachable": "safe",
         "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 11
+        "duration_secs": 4
     },
     {
         "email": "matthew.linkous@celanese.com",
@@ -1953,7 +1959,7 @@
         "is_reachable": "risky",
         "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 4
+        "duration_secs": 3
     },
     {
         "email": "rdolor@cwc.com",
@@ -1965,11 +1971,8 @@
     },
     {
         "email": "ahibbs@kelleyconstruction.com",
-        "status": "success",
-        "is_reachable": "unknown",
-        "is_deliverable": null,
-        "proxy_used": "default",
-        "duration_secs": 2
+        "status": "exception",
+        "error": "HTTPConnectionPool(host='localhost', port=8080): Read timed out. (read timeout=15)"
     },
     {
         "email": "michelle.rivard@tennantco.com",
@@ -1993,7 +1996,7 @@
         "is_reachable": "risky",
         "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 2
+        "duration_secs": 3
     },
     {
         "email": "arun@getrapl.com",
@@ -2001,7 +2004,7 @@
         "is_reachable": "safe",
         "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 3
+        "duration_secs": 2
     },
     {
         "email": "jim.mathews@tennantco.com",
@@ -2017,7 +2020,7 @@
         "is_reachable": "safe",
         "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 2
+        "duration_secs": 3
     },
     {
         "email": "jeff@rkk.com",
@@ -2030,18 +2033,18 @@
     {
         "email": "alexandria.shully@kohler.com",
         "status": "success",
-        "is_reachable": "unknown",
-        "is_deliverable": null,
-        "proxy_used": "default",
-        "duration_secs": 1
-    },
-    {
-        "email": "risaacs@olsson.com",
-        "status": "success",
         "is_reachable": "risky",
         "is_deliverable": true,
         "proxy_used": "default",
         "duration_secs": 2
+    },
+    {
+        "email": "risaacs@olsson.com",
+        "status": "success",
+        "is_reachable": "unknown",
+        "is_deliverable": null,
+        "proxy_used": "default",
+        "duration_secs": 1
     },
     {
         "email": "oren@flockfreight.com",
@@ -2097,7 +2100,7 @@
         "is_reachable": "safe",
         "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 4
+        "duration_secs": 3
     },
     {
         "email": "a@se.com",
@@ -2105,7 +2108,7 @@
         "is_reachable": "safe",
         "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 7
+        "duration_secs": 3
     },
     {
         "email": "kerrie@honeywell.com",
@@ -2129,7 +2132,7 @@
         "is_reachable": "safe",
         "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 5
+        "duration_secs": 6
     },
     {
         "email": "lauren.stokley@lubrizol.com",
@@ -2137,7 +2140,7 @@
         "is_reachable": "safe",
         "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 2
+        "duration_secs": 3
     },
     {
         "email": "michelle@firstam.com",
@@ -2145,7 +2148,7 @@
         "is_reachable": "safe",
         "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 2
+        "duration_secs": 3
     },
     {
         "email": "nkrauter@ntscapital.com",
@@ -2153,7 +2156,7 @@
         "is_reachable": "risky",
         "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 2
+        "duration_secs": 3
     },
     {
         "email": "amanda.kitzberger@hillmangroup.com",
@@ -2161,7 +2164,7 @@
         "is_reachable": "safe",
         "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 3
+        "duration_secs": 4
     },
     {
         "email": "vsam@fingent.com",
@@ -2177,7 +2180,7 @@
         "is_reachable": "risky",
         "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 2
+        "duration_secs": 3
     },
     {
         "email": "biruk.hailu@nouryon.com",
@@ -2185,7 +2188,7 @@
         "is_reachable": "risky",
         "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 2
+        "duration_secs": 6
     },
     {
         "email": "shandyside@a-zcorp.com",
@@ -2193,7 +2196,7 @@
         "is_reachable": "safe",
         "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 3
+        "duration_secs": 8
     },
     {
         "email": "jodi.varon@pseg.com",
@@ -2201,7 +2204,7 @@
         "is_reachable": "risky",
         "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 2
+        "duration_secs": 7
     },
     {
         "email": "debbie.prior@bbklaw.com",
@@ -2209,7 +2212,7 @@
         "is_reachable": "safe",
         "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 3
+        "duration_secs": 8
     },
     {
         "email": "leslea.bjornsen@dogwoodindustries.com",
@@ -2217,7 +2220,7 @@
         "is_reachable": "safe",
         "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 3
+        "duration_secs": 8
     },
     {
         "email": "md@sc.edu",
@@ -2225,7 +2228,7 @@
         "is_reachable": "risky",
         "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 2
+        "duration_secs": 7
     },
     {
         "email": "cwertz@rkk.com",
@@ -2233,7 +2236,7 @@
         "is_reachable": "risky",
         "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 2
+        "duration_secs": 6
     },
     {
         "email": "mdierdorff@winter-construction.com",
@@ -2241,12 +2244,15 @@
         "is_reachable": "safe",
         "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 2
+        "duration_secs": 7
     },
     {
         "email": "jerod.pauley@y12nsc.doe.gov",
-        "status": "exception",
-        "error": "HTTPConnectionPool(host='localhost', port=8080): Read timed out. (read timeout=15)"
+        "status": "success",
+        "is_reachable": "unknown",
+        "is_deliverable": null,
+        "proxy_used": "default",
+        "duration_secs": 2
     },
     {
         "email": "leann.scales@forvia.com",
@@ -2254,7 +2260,7 @@
         "is_reachable": "safe",
         "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 2
+        "duration_secs": 4
     },
     {
         "email": "zmallick@techno-eng.com",
@@ -2262,7 +2268,7 @@
         "is_reachable": "safe",
         "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 3
+        "duration_secs": 5
     },
     {
         "email": "sara@sitesbysara.com",
@@ -2270,7 +2276,7 @@
         "is_reachable": "safe",
         "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 2
+        "duration_secs": 4
     },
     {
         "email": "nnatarajan@wje.com",
@@ -2278,7 +2284,7 @@
         "is_reachable": "safe",
         "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 3
+        "duration_secs": 5
     },
     {
         "email": "alyssa.nicely@wsp.com",
@@ -2286,7 +2292,7 @@
         "is_reachable": "risky",
         "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 1
+        "duration_secs": 3
     },
     {
         "email": "jonna.hensley@keysight.com",
@@ -2294,7 +2300,7 @@
         "is_reachable": "risky",
         "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 2
+        "duration_secs": 3
     },
     {
         "email": "adarsh.warrier@vicara.co",
@@ -2310,7 +2316,7 @@
         "is_reachable": "safe",
         "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 2
+        "duration_secs": 4
     },
     {
         "email": "heather.schultz@andritz.com",
@@ -2318,7 +2324,7 @@
         "is_reachable": "risky",
         "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 2
+        "duration_secs": 3
     },
     {
         "email": "galeanntenedero@rrccompanies.com",
@@ -2326,7 +2332,7 @@
         "is_reachable": "safe",
         "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 3
+        "duration_secs": 5
     },
     {
         "email": "loughl@stifel.com",
@@ -2334,7 +2340,7 @@
         "is_reachable": "safe",
         "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 3
+        "duration_secs": 4
     },
     {
         "email": "peter.rackoff@andritz.com",
@@ -2342,7 +2348,7 @@
         "is_reachable": "risky",
         "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 1
+        "duration_secs": 3
     },
     {
         "email": "nikki.dent@qualityconveyorsolutions.com",
@@ -2350,7 +2356,7 @@
         "is_reachable": "risky",
         "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 2
+        "duration_secs": 4
     },
     {
         "email": "sforrest@stulz-ats.com",
@@ -2358,7 +2364,7 @@
         "is_reachable": "safe",
         "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 2
+        "duration_secs": 4
     },
     {
         "email": "madcole@sc.edu",
@@ -2366,7 +2372,7 @@
         "is_reachable": "safe",
         "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 2
+        "duration_secs": 5
     },
     {
         "email": "vbrown@conteches.com",
@@ -2374,7 +2380,7 @@
         "is_reachable": "safe",
         "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 2
+        "duration_secs": 4
     },
     {
         "email": "nitin.rakesh@mphasis.com",
@@ -2382,7 +2388,7 @@
         "is_reachable": "risky",
         "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 2
+        "duration_secs": 6
     },
     {
         "email": "jeremy.henry@y12nsc.doe.gov",
@@ -2395,7 +2401,7 @@
         "is_reachable": "safe",
         "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 2
+        "duration_secs": 4
     },
     {
         "email": "cfoster@proenergyservices.com",
@@ -2419,7 +2425,7 @@
         "is_reachable": "safe",
         "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 5
+        "duration_secs": 4
     },
     {
         "email": "m.milano@terumoaortic.com",
@@ -2435,7 +2441,7 @@
         "is_reachable": "safe",
         "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 6
+        "duration_secs": 5
     },
     {
         "email": "jade.rodriguez@wilsonelser.com",
@@ -2443,7 +2449,7 @@
         "is_reachable": "risky",
         "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 5
+        "duration_secs": 4
     },
     {
         "email": "grismores@zentech.com",
@@ -2451,7 +2457,7 @@
         "is_reachable": "safe",
         "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 5
+        "duration_secs": 4
     },
     {
         "email": "iandean@fhg-inc.com",
@@ -2459,7 +2465,7 @@
         "is_reachable": "safe",
         "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 5
+        "duration_secs": 4
     },
     {
         "email": "onkar.singh@42gears.com",
@@ -2467,7 +2473,7 @@
         "is_reachable": "safe",
         "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 2
+        "duration_secs": 4
     },
     {
         "email": "dcabral@highgate.com",
@@ -2475,7 +2481,7 @@
         "is_reachable": "safe",
         "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 2
+        "duration_secs": 10
     },
     {
         "email": "clarbi@aurorium.com",
@@ -2483,7 +2489,7 @@
         "is_reachable": "safe",
         "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 4
+        "duration_secs": 5
     },
     {
         "email": "julianne.mcnally@teradyne.com",
@@ -2491,7 +2497,7 @@
         "is_reachable": "risky",
         "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 2
+        "duration_secs": 4
     },
     {
         "email": "michael.anderson@q-tech.com",
@@ -2499,7 +2505,7 @@
         "is_reachable": "safe",
         "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 3
+        "duration_secs": 5
     },
     {
         "email": "romina.szmuch@univarsolutions.com",
@@ -2507,7 +2513,7 @@
         "is_reachable": "safe",
         "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 2
+        "duration_secs": 5
     },
     {
         "email": "samenson@oceaneering.com",
@@ -2515,7 +2521,7 @@
         "is_reachable": "safe",
         "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 3
+        "duration_secs": 5
     },
     {
         "email": "caitie.binnie@mccain.com",
@@ -2523,7 +2529,7 @@
         "is_reachable": "safe",
         "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 2
+        "duration_secs": 5
     },
     {
         "email": "rachit@stackby.com",
@@ -2531,7 +2537,7 @@
         "is_reachable": "safe",
         "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 2
+        "duration_secs": 4
     },
     {
         "email": "paul@newyorklife.com",
@@ -2539,7 +2545,7 @@
         "is_reachable": "risky",
         "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 2
+        "duration_secs": 4
     },
     {
         "email": "george.baxter@ipexna.com",
@@ -2547,7 +2553,7 @@
         "is_reachable": "safe",
         "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 2
+        "duration_secs": 4
     },
     {
         "email": "wheelert@stifel.com",
@@ -2555,7 +2561,7 @@
         "is_reachable": "safe",
         "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 2
+        "duration_secs": 4
     },
     {
         "email": "kvaswani@farmfetch.com",
@@ -2563,7 +2569,7 @@
         "is_reachable": "risky",
         "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 3
+        "duration_secs": 4
     },
     {
         "email": "koo@hlcompany.com",
@@ -2571,7 +2577,7 @@
         "is_reachable": "risky",
         "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 3
+        "duration_secs": 5
     },
     {
         "email": "cswanson@winter-construction.com",
@@ -2579,7 +2585,7 @@
         "is_reachable": "safe",
         "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 2
+        "duration_secs": 5
     },
     {
         "email": "blake@monster.com",
@@ -2587,7 +2593,7 @@
         "is_reachable": "risky",
         "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 3
+        "duration_secs": 4
     },
     {
         "email": "dama.gineris@acuityinc.com",
@@ -2595,7 +2601,7 @@
         "is_reachable": "risky",
         "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 2
+        "duration_secs": 4
     },
     {
         "email": "mleano@tesla.com",
@@ -2603,7 +2609,7 @@
         "is_reachable": "safe",
         "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 2
+        "duration_secs": 5
     },
     {
         "email": "rahul@heady.io",
@@ -2611,7 +2617,7 @@
         "is_reachable": "safe",
         "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 3
+        "duration_secs": 5
     },
     {
         "email": "diana.conrad@wsp.com",
@@ -2619,7 +2625,7 @@
         "is_reachable": "risky",
         "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 2
+        "duration_secs": 4
     },
     {
         "email": "alison.bernard@dechert.com",
@@ -2627,7 +2633,7 @@
         "is_reachable": "safe",
         "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 4
+        "duration_secs": 5
     },
     {
         "email": "terry.corcoran@heraeus.com",
@@ -2635,7 +2641,7 @@
         "is_reachable": "safe",
         "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 2
+        "duration_secs": 4
     },
     {
         "email": "cluna@txtav.com",
@@ -2643,7 +2649,7 @@
         "is_reachable": "safe",
         "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 2
+        "duration_secs": 4
     },
     {
         "email": "kotlerk@stifel.com",
@@ -2651,7 +2657,7 @@
         "is_reachable": "safe",
         "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 2
+        "duration_secs": 5
     },
     {
         "email": "da@corning.com",
@@ -2659,7 +2665,7 @@
         "is_reachable": "safe",
         "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 2
+        "duration_secs": 5
     },
     {
         "email": "labadin@stratusteam.com",
@@ -2667,7 +2673,7 @@
         "is_reachable": "safe",
         "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 3
+        "duration_secs": 5
     },
     {
         "email": "allison.feeney@simplot.com",
@@ -2675,7 +2681,7 @@
         "is_reachable": "risky",
         "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 2
+        "duration_secs": 4
     },
     {
         "email": "kirkpatrick@nouryon.com",
@@ -2683,7 +2689,7 @@
         "is_reachable": "risky",
         "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 2
+        "duration_secs": 3
     },
     {
         "email": "krenzi@sager.com",
@@ -2691,7 +2697,7 @@
         "is_reachable": "safe",
         "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 3
+        "duration_secs": 5
     },
     {
         "email": "rlongwill@bwxt.com",
@@ -2699,7 +2705,7 @@
         "is_reachable": "safe",
         "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 3
+        "duration_secs": 4
     },
     {
         "email": "buse.koroglu@tiffany.com",
@@ -2707,7 +2713,7 @@
         "is_reachable": "risky",
         "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 2
+        "duration_secs": 4
     },
     {
         "email": "sherri.perry@lubrizol.com",
@@ -2715,15 +2721,15 @@
         "is_reachable": "safe",
         "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 3
+        "duration_secs": 5
     },
     {
         "email": "dpitman@mwdh2o.com",
         "status": "success",
-        "is_reachable": "unknown",
-        "is_deliverable": null,
+        "is_reachable": "safe",
+        "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 6
+        "duration_secs": 5
     },
     {
         "email": "chris@keysight.com",
@@ -2731,7 +2737,7 @@
         "is_reachable": "risky",
         "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 2
+        "duration_secs": 4
     },
     {
         "email": "kseguin@stratusteam.com",
@@ -2739,7 +2745,7 @@
         "is_reachable": "safe",
         "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 3
+        "duration_secs": 5
     },
     {
         "email": "jaideep@getambee.com",
@@ -2747,7 +2753,7 @@
         "is_reachable": "safe",
         "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 2
+        "duration_secs": 4
     },
     {
         "email": "malexander@visiontechnologies.com",
@@ -2755,7 +2761,7 @@
         "is_reachable": "safe",
         "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 3
+        "duration_secs": 5
     },
     {
         "email": "kathleen@newyorklife.com",
@@ -2763,7 +2769,7 @@
         "is_reachable": "risky",
         "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 2
+        "duration_secs": 4
     },
     {
         "email": "msmiley@spilmanlaw.com",
@@ -2771,7 +2777,7 @@
         "is_reachable": "unknown",
         "is_deliverable": null,
         "proxy_used": "default",
-        "duration_secs": 4
+        "duration_secs": 5
     },
     {
         "email": "aexposito@kpattorney.com",
@@ -2779,7 +2785,7 @@
         "is_reachable": "safe",
         "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 3
+        "duration_secs": 4
     },
     {
         "email": "mharris@winter-construction.com",
@@ -2787,7 +2793,7 @@
         "is_reachable": "safe",
         "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 2
+        "duration_secs": 5
     },
     {
         "email": "sheila@lilly.com",
@@ -2795,7 +2801,7 @@
         "is_reachable": "risky",
         "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 3
+        "duration_secs": 4
     },
     {
         "email": "courtney.goard@lubrizol.com",
@@ -2803,7 +2809,7 @@
         "is_reachable": "safe",
         "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 2
+        "duration_secs": 4
     },
     {
         "email": "rebecca.boser@y12.doe.gov",
@@ -2811,7 +2817,7 @@
         "is_reachable": "risky",
         "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 3
+        "duration_secs": 5
     },
     {
         "email": "jessica.immel@dominos.com",
@@ -2819,7 +2825,7 @@
         "is_reachable": "risky",
         "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 2
+        "duration_secs": 4
     },
     {
         "email": "llacrosse@wje.com",
@@ -2827,7 +2833,7 @@
         "is_reachable": "safe",
         "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 4
+        "duration_secs": 6
     },
     {
         "email": "gretchen.reising@wilsonelser.com",
@@ -2835,7 +2841,7 @@
         "is_reachable": "risky",
         "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 2
+        "duration_secs": 4
     },
     {
         "email": "kyle@packlinetech.com",
@@ -2843,7 +2849,7 @@
         "is_reachable": "risky",
         "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 2
+        "duration_secs": 4
     },
     {
         "email": "shridhar.garapaty@altiux.com",
@@ -2851,7 +2857,7 @@
         "is_reachable": "safe",
         "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 3
+        "duration_secs": 6
     },
     {
         "email": "anup.sahoo@ideapoke.com",
@@ -2859,7 +2865,7 @@
         "is_reachable": "safe",
         "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 3
+        "duration_secs": 6
     },
     {
         "email": "la25@mailbox.sc.edu",
@@ -2867,7 +2873,7 @@
         "is_reachable": "safe",
         "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 3
+        "duration_secs": 5
     },
     {
         "email": "bburton@oescgroup.com",
@@ -2875,7 +2881,7 @@
         "is_reachable": "safe",
         "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 2
+        "duration_secs": 5
     },
     {
         "email": "ebicking@schnabel-eng.com",
@@ -2883,13 +2889,13 @@
         "is_reachable": "safe",
         "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 2
+        "duration_secs": 5
     },
     {
         "email": "austin@aosmith.com",
         "status": "success",
-        "is_reachable": "risky",
-        "is_deliverable": true,
+        "is_reachable": "unknown",
+        "is_deliverable": null,
         "proxy_used": "default",
         "duration_secs": 2
     },
@@ -2899,7 +2905,7 @@
         "is_reachable": "risky",
         "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 2
+        "duration_secs": 4
     },
     {
         "email": "phand@tesla.com",
@@ -2907,7 +2913,7 @@
         "is_reachable": "safe",
         "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 2
+        "duration_secs": 5
     },
     {
         "email": "kaizad.hansotia@goswirl.ai",
@@ -2915,7 +2921,7 @@
         "is_reachable": "invalid",
         "is_deliverable": false,
         "proxy_used": "default",
-        "duration_secs": 1
+        "duration_secs": 4
     },
     {
         "email": "stiebeld@thyssenkrupp.com",
@@ -2923,7 +2929,7 @@
         "is_reachable": "risky",
         "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 1
+        "duration_secs": 3
     },
     {
         "email": "mike@coaction.org",
@@ -2931,7 +2937,7 @@
         "is_reachable": "safe",
         "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 1
+        "duration_secs": 4
     },
     {
         "email": "julie.hurley@univarsolutions.com",
@@ -2939,7 +2945,7 @@
         "is_reachable": "safe",
         "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 2
+        "duration_secs": 5
     },
     {
         "email": "stephane.prince@forvia.com",
@@ -2947,7 +2953,7 @@
         "is_reachable": "safe",
         "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 2
+        "duration_secs": 4
     },
     {
         "email": "lulu.gluk@kodiakgas.com",
@@ -2955,7 +2961,7 @@
         "is_reachable": "safe",
         "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 3
+        "duration_secs": 5
     },
     {
         "email": "jporter@stirlingultracold.com",
@@ -2963,7 +2969,7 @@
         "is_reachable": "safe",
         "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 5
+        "duration_secs": 8
     },
     {
         "email": "ann.garrett@milliken.com",
@@ -2971,7 +2977,7 @@
         "is_reachable": "safe",
         "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 3
+        "duration_secs": 5
     },
     {
         "email": "tara.skalski@gevernova.com",
@@ -2979,7 +2985,7 @@
         "is_reachable": "safe",
         "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 2
+        "duration_secs": 4
     },
     {
         "email": "sami@chups.com",
@@ -2987,7 +2993,7 @@
         "is_reachable": "safe",
         "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 2
+        "duration_secs": 4
     },
     {
         "email": "chuck.thomas@acuityinc.com",
@@ -2995,7 +3001,7 @@
         "is_reachable": "risky",
         "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 2
+        "duration_secs": 4
     },
     {
         "email": "david.deroussel@lennox.com",
@@ -3003,7 +3009,7 @@
         "is_reachable": "risky",
         "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 3
+        "duration_secs": 4
     },
     {
         "email": "rishi@faclon.com",
@@ -3011,7 +3017,7 @@
         "is_reachable": "risky",
         "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 2
+        "duration_secs": 3
     },
     {
         "email": "nihal.onat@ipexna.com",
@@ -3019,7 +3025,7 @@
         "is_reachable": "safe",
         "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 1
+        "duration_secs": 4
     },
     {
         "email": "selena@monster.com",
@@ -3027,7 +3033,7 @@
         "is_reachable": "risky",
         "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 2
+        "duration_secs": 4
     },
     {
         "email": "akhilesh.tripathi@digitate.com",
@@ -3035,7 +3041,7 @@
         "is_reachable": "risky",
         "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 3
+        "duration_secs": 6
     },
     {
         "email": "aubreea@mailbox.sc.edu",
@@ -3043,7 +3049,7 @@
         "is_reachable": "safe",
         "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 2
+        "duration_secs": 4
     },
     {
         "email": "gail.ksobiech@revgroup.com",
@@ -3051,7 +3057,7 @@
         "is_reachable": "safe",
         "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 2
+        "duration_secs": 4
     },
     {
         "email": "j.dumbreck@terumoaortic.com",
@@ -3059,7 +3065,7 @@
         "is_reachable": "safe",
         "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 1
+        "duration_secs": 5
     },
     {
         "email": "jstead@ihsmarkit.com",
@@ -3067,7 +3073,7 @@
         "is_reachable": "risky",
         "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 2
+        "duration_secs": 4
     },
     {
         "email": "abby.haynes@gevernova.com",
@@ -3075,7 +3081,7 @@
         "is_reachable": "safe",
         "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 2
+        "duration_secs": 4
     },
     {
         "email": "chris.miller@pacificoffice.com",
@@ -3083,7 +3089,7 @@
         "is_reachable": "safe",
         "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 3
+        "duration_secs": 5
     },
     {
         "email": "alex@hubblenetwork.com",
@@ -3091,7 +3097,7 @@
         "is_reachable": "safe",
         "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 1
+        "duration_secs": 4
     },
     {
         "email": "mbrower@mwdh2o.com",
@@ -3099,7 +3105,7 @@
         "is_reachable": "safe",
         "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 2
+        "duration_secs": 5
     },
     {
         "email": "epickering@scsengineers.com",
@@ -3107,7 +3113,7 @@
         "is_reachable": "safe",
         "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 2
+        "duration_secs": 4
     },
     {
         "email": "brody.tejkl@hallmark.com",
@@ -3115,7 +3121,7 @@
         "is_reachable": "risky",
         "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 2
+        "duration_secs": 4
     },
     {
         "email": "jforeman@allendistribution.com",
@@ -3123,7 +3129,7 @@
         "is_reachable": "safe",
         "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 5
+        "duration_secs": 4
     },
     {
         "email": "manish.kedia@cloudmoyo.com",
@@ -3131,7 +3137,7 @@
         "is_reachable": "safe",
         "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 5
+        "duration_secs": 4
     },
     {
         "email": "raj@zopsmart.com",
@@ -3139,7 +3145,7 @@
         "is_reachable": "risky",
         "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 1
+        "duration_secs": 3
     },
     {
         "email": "dharder@oescgroup.com",
@@ -3155,7 +3161,7 @@
         "is_reachable": "risky",
         "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 4
+        "duration_secs": 3
     },
     {
         "email": "tvalenza@rkk.com",
@@ -3163,7 +3169,7 @@
         "is_reachable": "risky",
         "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 5
+        "duration_secs": 3
     },
     {
         "email": "kwooldridge@olsson.com",
@@ -3171,7 +3177,7 @@
         "is_reachable": "risky",
         "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 4
+        "duration_secs": 3
     },
     {
         "email": "aaron.parker@hillmangroup.com",
@@ -3179,7 +3185,7 @@
         "is_reachable": "safe",
         "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 5
+        "duration_secs": 4
     },
     {
         "email": "ncherra@tesla.com",
@@ -3195,7 +3201,7 @@
         "is_reachable": "risky",
         "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 5
+        "duration_secs": 3
     },
     {
         "email": "ce@shermco.com",
@@ -3203,7 +3209,7 @@
         "is_reachable": "risky",
         "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 4
+        "duration_secs": 3
     },
     {
         "email": "marquis.gantt@pcg.com",
@@ -3211,7 +3217,7 @@
         "is_reachable": "risky",
         "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 2
+        "duration_secs": 4
     },
     {
         "email": "nicole.correa@simplot.com",
@@ -3219,7 +3225,7 @@
         "is_reachable": "risky",
         "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 2
+        "duration_secs": 3
     },
     {
         "email": "erica.roig@prysmian.com",
@@ -3227,7 +3233,7 @@
         "is_reachable": "risky",
         "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 1
+        "duration_secs": 6
     },
     {
         "email": "geri.morgan@accelevationllc.com",
@@ -3235,7 +3241,7 @@
         "is_reachable": "safe",
         "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 3
+        "duration_secs": 5
     },
     {
         "email": "nom.isaac@se.com",
@@ -3243,7 +3249,7 @@
         "is_reachable": "safe",
         "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 2
+        "duration_secs": 3
     },
     {
         "email": "jnadzam@rti-inc.com",
@@ -3251,15 +3257,15 @@
         "is_reachable": "safe",
         "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 3
+        "duration_secs": 4
     },
     {
         "email": "eric.johnson@celanese.com",
         "status": "success",
-        "is_reachable": "unknown",
-        "is_deliverable": null,
+        "is_reachable": "risky",
+        "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 1
+        "duration_secs": 4
     },
     {
         "email": "ale@belonghome.com",
@@ -3267,7 +3273,7 @@
         "is_reachable": "safe",
         "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 2
+        "duration_secs": 4
     },
     {
         "email": "geraldine.premkumar@se.com",
@@ -3275,7 +3281,7 @@
         "is_reachable": "safe",
         "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 2
+        "duration_secs": 7
     },
     {
         "email": "hhenderson@wallacemontgomery.com",
@@ -3283,7 +3289,7 @@
         "is_reachable": "risky",
         "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 2
+        "duration_secs": 4
     },
     {
         "email": "mohan.manju@ionixxtech.com",
@@ -3291,7 +3297,7 @@
         "is_reachable": "risky",
         "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 3
+        "duration_secs": 4
     },
     {
         "email": "shelby.lemler@mxrimaging.com",
@@ -3299,7 +3305,7 @@
         "is_reachable": "risky",
         "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 2
+        "duration_secs": 3
     },
     {
         "email": "bchiang@scsengineers.com",
@@ -3307,7 +3313,7 @@
         "is_reachable": "safe",
         "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 2
+        "duration_secs": 3
     },
     {
         "email": "jrosario@siemensgamesa.com",
@@ -3315,7 +3321,7 @@
         "is_reachable": "risky",
         "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 1
+        "duration_secs": 2
     },
     {
         "email": "rmuskin@wjcs.com",
@@ -3331,7 +3337,7 @@
         "is_reachable": "risky",
         "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 2
+        "duration_secs": 3
     },
     {
         "email": "meghan.oconnor@hillmangroup.com",
@@ -3339,7 +3345,7 @@
         "is_reachable": "safe",
         "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 2
+        "duration_secs": 3
     },
     {
         "email": "christian.castro@forvia.com",
@@ -3347,7 +3353,7 @@
         "is_reachable": "safe",
         "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 2
+        "duration_secs": 3
     },
     {
         "email": "ankit@callhippo.com",
@@ -3363,7 +3369,7 @@
         "is_reachable": "safe",
         "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 2
+        "duration_secs": 4
     },
     {
         "email": "melissa.mclane@heraeus.com",
@@ -3371,7 +3377,7 @@
         "is_reachable": "safe",
         "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 2
+        "duration_secs": 3
     },
     {
         "email": "ricky.motley@dominos.com",
@@ -3379,7 +3385,7 @@
         "is_reachable": "risky",
         "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 2
+        "duration_secs": 3
     },
     {
         "email": "powell@newyorklife.com",
@@ -3387,7 +3393,7 @@
         "is_reachable": "risky",
         "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 3
+        "duration_secs": 4
     },
     {
         "email": "melissa.popovich@utsouthwestern.edu",
@@ -3395,7 +3401,7 @@
         "is_reachable": "safe",
         "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 2
+        "duration_secs": 3
     },
     {
         "email": "amears@aurorium.com",
@@ -3403,7 +3409,7 @@
         "is_reachable": "safe",
         "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 3
+        "duration_secs": 4
     },
     {
         "email": "kel@tesla.com",
@@ -3411,7 +3417,7 @@
         "is_reachable": "safe",
         "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 2
+        "duration_secs": 3
     },
     {
         "email": "anuj.garg@inscripts.com",
@@ -3427,7 +3433,7 @@
         "is_reachable": "safe",
         "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 2
+        "duration_secs": 3
     },
     {
         "email": "stepheniem@bollingershipyards.com",
@@ -3435,7 +3441,7 @@
         "is_reachable": "safe",
         "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 4
+        "duration_secs": 3
     },
     {
         "email": "mcole@sager.com",
@@ -3451,7 +3457,7 @@
         "is_reachable": "risky",
         "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 2
+        "duration_secs": 4
     },
     {
         "email": "coleman@monster.com",
@@ -3459,7 +3465,7 @@
         "is_reachable": "risky",
         "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 2
+        "duration_secs": 4
     },
     {
         "email": "kcarr@spilmanlaw.com",
@@ -3491,7 +3497,7 @@
         "is_reachable": "risky",
         "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 2
+        "duration_secs": 3
     },
     {
         "email": "joconnor@itt.com",
@@ -3507,7 +3513,7 @@
         "is_reachable": "safe",
         "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 2
+        "duration_secs": 3
     },
     {
         "email": "ewu@pactiv.com",
@@ -3515,7 +3521,7 @@
         "is_reachable": "invalid",
         "is_deliverable": false,
         "proxy_used": "default",
-        "duration_secs": 2
+        "duration_secs": 3
     },
     {
         "email": "koscielski.mie@rti-inc.com",
@@ -3523,15 +3529,15 @@
         "is_reachable": "safe",
         "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 2
+        "duration_secs": 3
     },
     {
         "email": "theresa.white@teradyne.com",
         "status": "success",
-        "is_reachable": "unknown",
-        "is_deliverable": null,
+        "is_reachable": "risky",
+        "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 1
+        "duration_secs": 4
     },
     {
         "email": "mhinton@ikosconsulting.com",
@@ -3539,7 +3545,7 @@
         "is_reachable": "safe",
         "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 2
+        "duration_secs": 3
     },
     {
         "email": "lcolby@lordabbett.com",
@@ -3547,7 +3553,7 @@
         "is_reachable": "risky",
         "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 2
+        "duration_secs": 3
     },
     {
         "email": "dlipman@kpattorney.com",
@@ -3555,7 +3561,7 @@
         "is_reachable": "safe",
         "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 2
+        "duration_secs": 3
     },
     {
         "email": "preetam@quillaudits.com",
@@ -3579,7 +3585,7 @@
         "is_reachable": "risky",
         "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 2
+        "duration_secs": 3
     },
     {
         "email": "rpsingh@seasiainfotech.com",
@@ -3619,7 +3625,7 @@
         "is_reachable": "safe",
         "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 2
+        "duration_secs": 3
     },
     {
         "email": "mhonovich@techno-eng.com",
@@ -3627,7 +3633,7 @@
         "is_reachable": "safe",
         "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 3
+        "duration_secs": 4
     },
     {
         "email": "mjenner@controlcase.com",
@@ -3635,12 +3641,15 @@
         "is_reachable": "safe",
         "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 3
+        "duration_secs": 4
     },
     {
         "email": "raj@jhu.edu",
-        "status": "exception",
-        "error": "HTTPConnectionPool(host='localhost', port=8080): Read timed out. (read timeout=15)"
+        "status": "success",
+        "is_reachable": "safe",
+        "is_deliverable": true,
+        "proxy_used": "default",
+        "duration_secs": 3
     },
     {
         "email": "rlowe@solventum.com",
@@ -3648,15 +3657,15 @@
         "is_reachable": "safe",
         "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 2
+        "duration_secs": 3
     },
     {
         "email": "jennifer@freewill.com",
         "status": "success",
-        "is_reachable": "safe",
-        "is_deliverable": true,
+        "is_reachable": "unknown",
+        "is_deliverable": null,
         "proxy_used": "default",
-        "duration_secs": 2
+        "duration_secs": 1
     },
     {
         "email": "rajesh.khazanchi@colortokens.com",
@@ -3672,7 +3681,7 @@
         "is_reachable": "safe",
         "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 2
+        "duration_secs": 3
     },
     {
         "email": "kp@email.chop.edu",
@@ -3680,7 +3689,7 @@
         "is_reachable": "risky",
         "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 2
+        "duration_secs": 3
     },
     {
         "email": "michael.ballacchino@nov.com",
@@ -3704,7 +3713,7 @@
         "is_reachable": "risky",
         "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 2
+        "duration_secs": 3
     },
     {
         "email": "lynda.shaw@stratusteam.com",
@@ -3725,10 +3734,10 @@
     {
         "email": "holly.jordan@celanese.com",
         "status": "success",
-        "is_reachable": "risky",
-        "is_deliverable": true,
+        "is_reachable": "unknown",
+        "is_deliverable": null,
         "proxy_used": "default",
-        "duration_secs": 2
+        "duration_secs": 1
     },
     {
         "email": "mdulaney@oescgroup.com",
@@ -3736,7 +3745,7 @@
         "is_reachable": "safe",
         "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 2
+        "duration_secs": 3
     },
     {
         "email": "sid@kagen.ai",
@@ -3744,15 +3753,15 @@
         "is_reachable": "risky",
         "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 3
+        "duration_secs": 2
     },
     {
         "email": "rahul@isometrik.ai",
         "status": "success",
-        "is_reachable": "unknown",
-        "is_deliverable": null,
+        "is_reachable": "safe",
+        "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 2
+        "duration_secs": 3
     },
     {
         "email": "kristen.nollman@prysmian.com",
@@ -3760,7 +3769,7 @@
         "is_reachable": "risky",
         "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 1
+        "duration_secs": 2
     },
     {
         "email": "jsavage@goodwinmotorgroup.com",
@@ -3784,7 +3793,7 @@
         "is_reachable": "invalid",
         "is_deliverable": false,
         "proxy_used": "default",
-        "duration_secs": 4
+        "duration_secs": 5
     },
     {
         "email": "jason_sesholtz@conair.com",
@@ -3792,7 +3801,7 @@
         "is_reachable": "risky",
         "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 2
+        "duration_secs": 3
     },
     {
         "email": "antionette.foster@milliken.com",
@@ -3800,7 +3809,7 @@
         "is_reachable": "safe",
         "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 3
+        "duration_secs": 4
     },
     {
         "email": "masher@a-zcorp.com",
@@ -3808,7 +3817,7 @@
         "is_reachable": "safe",
         "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 3
+        "duration_secs": 4
     },
     {
         "email": "desheria.holliday@dominos.com",
@@ -3816,7 +3825,7 @@
         "is_reachable": "risky",
         "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 2
+        "duration_secs": 3
     },
     {
         "email": "mirandan@zentech.com",
@@ -3824,7 +3833,7 @@
         "is_reachable": "safe",
         "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 2
+        "duration_secs": 3
     },
     {
         "email": "melissa.hicks@siemens-energy.com",
@@ -3840,7 +3849,7 @@
         "is_reachable": "risky",
         "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 2
+        "duration_secs": 3
     },
     {
         "email": "disantoj@whiteandwilliams.com",
@@ -3848,6 +3857,6 @@
         "is_reachable": "safe",
         "is_deliverable": true,
         "proxy_used": "default",
-        "duration_secs": 3
+        "duration_secs": 4
     }
 ]
