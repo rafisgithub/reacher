@@ -23,7 +23,11 @@ def check_email(email):
     """
     Sends a payload to the reacher service.
     """
-    payload = {"to_email": email}
+    payload = {
+        "to_email": email,
+        "hello_name": "proxy4smtp.com",
+        "from_email": "postmaster@proxy4smtp.com"
+    }
     try:
         # Reacher can take a few seconds per email, adding a timeout
         response = requests.post(API_URL, json=payload, timeout=15)

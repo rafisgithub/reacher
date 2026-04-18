@@ -46,7 +46,11 @@ def check_email(email):
     """
     Sends a payload to the reacher service.
     """
-    payload = {"to_email": email}
+    payload = {
+        "to_email": email,
+        "hello_name": "proxy4smtp.com",
+        "from_email": "postmaster@proxy4smtp.com"
+    }
     try:
         response = requests.post(API_URL, json=payload, timeout=20)
         if response.status_code == 200:
