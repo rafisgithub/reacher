@@ -31,7 +31,7 @@ from concurrent.futures import ThreadPoolExecutor
 import requests
 
 DEFAULT_URL = "http://localhost:8081/v1/check_email"
-DEFAULT_INPUT = "extracted_emails.txt"
+DEFAULT_INPUT = "extracted_emails-02.txt"
 DEFAULT_OUTPUT = "results_direct.json"
 
 # Deliberately unset by default. On a direct connection the HELO hostname
@@ -73,6 +73,23 @@ def find_proxy_used(debug):
         elif isinstance(node, list):
             stack.extend(node)
     return None
+
+
+def format_error_message(message):
+    """Render smtp.error.message as one printable line.
+
+    It is not always a string: Reacher serialises some variants as a nested
+    object -- Timeout as {"secs", "nanos"}, HeadlessError as {"Cmd": "..."} --
+    and slicing one of those to truncate it raises KeyError.
+    """
+    if message is None:
+        return "(no message)"
+    if isinstance(message, dict):
+        if len(message) == 1:
+            key, value = next(iter(message.items()))
+            return f"{key}: {format_error_message(value)}"
+        return ", ".join(f"{k}={v}" for k, v in message.items())
+    return str(message)
 
 
 def check_email(email, url, timeout, secret):
@@ -205,7 +222,7 @@ def main():
             example = next(
                 r["error_message"] for r in results if r.get("error_type") == etype
             )
-            print(f"  {etype:<14} {count:>4}  e.g. {example[:110]}")
+            print(f"  {etype:<14} {count:>4}  e.g. {format_error_message(example)[:110]}")
 
     if leaked:
         print(
