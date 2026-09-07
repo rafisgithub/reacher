@@ -1,2 +1,5 @@
 .env
 venv
+# Verification output from the test scripts -- contains real lead data
+results_socks5.json
+results_direct.json

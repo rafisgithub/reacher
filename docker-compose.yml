@@ -1,4 +1,6 @@
 services:
+  # Proxied instance -- all SMTP verifications leave via the SOCKS5 proxy.
+  # Target of test_reacher_socks5.py.
   reacher:
     image: reacherhq/backend:latest
     container_name: reacher_local
@@ -10,3 +12,22 @@ services:
       RCH__PROXY__PORT: ${MAIL_FLEET_PROXY_PORT}
       RCH__PROXY__USERNAME: ${MAIL_FLEET_PROXY_USERNAME}
       RCH__PROXY__PASSWORD: ${MAIL_FLEET_PROXY_PASSWORD}
+      # Without this, an SMTP connection waits indefinitely.
+      RCH__SMTP_TIMEOUT: 45
+      # This version IGNORES hello_name/from_email sent in the request body --
+      # it fell back to "localhost", which real mail servers reject. They only
+      # take effect here. Both must be a domain owned by the proxy: confirm the
+      # exact values with proxy4smtp.
+      RCH__HELLO_NAME: proxy4smtp.com
+      RCH__FROM_EMAIL: postmaster@proxy4smtp.com
+
+  # Unproxied baseline -- SMTP verifications leave from this host's own IP.
+  # Target of test_reacher_direct.py. Deliberately has no RCH__PROXY__* vars.
+  reacher_direct:
+    image: reacherhq/backend:latest
+    container_name: reacher_direct
+    restart: always
+    ports:
+      - "8081:8080"
+    environment:
+      RCH__SMTP_TIMEOUT: 45
