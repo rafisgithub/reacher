@@ -1,0 +1,501 @@
+replied_at,to_email,source,cache_verify,cache_verify_risky,llc_email_status,reply_status,campaign_id
+2026-09-08T08:17:37.686894+00:00,vinayak@marwariventures.com,pipeline,,,valid,Interested,8703
+2026-09-08T07:57:56.288610+00:00,rakshita@legodesk.com,pipeline,,,valid,Not interested,8703
+2026-09-08T07:04:06.015673+00:00,jurgita.usinskiene@nvc.santa.lt,ai_agent,,valid,valid,Interested,10566
+2026-09-08T07:02:22.078202+00:00,vishap.kaushik@leapsys.net,pipeline,,valid,valid,Not interested,8703
+2026-09-08T07:01:34.816932+00:00,shrirang.joshi@galaxysurfactants.com,rocket_reach,risky,valid,valid,Interested,11169
+2026-09-08T06:57:36.851028+00:00,sankalp@kily.ai,pipeline,valid,,valid,Not interested,10337
+2026-09-08T06:42:13.534089+00:00,pankaj.kaushik@vridhivault.com,pipeline,valid,valid,valid,Interested,10275
+2026-09-08T06:38:35.142135+00:00,jgreen@flyairlink.com,company_email_pattern,,,valid,Out of office,10900
+2026-09-08T06:12:13.957307+00:00,shakeel@jdl.in,company_email_pattern,,,valid,Out of office,8138
+2026-09-08T06:07:39.775341+00:00,roshan@firstcutdesignstudio.com,findymail_name,,,valid,Interested,8703
+2026-09-08T05:46:51.084319+00:00,amit.pandey@laxmi.com,imported,valid,,valid,Wrong person,11424
+2026-09-08T04:03:33.378748+00:00,md@debakiwater.com,ai_agent,,,valid,Interested,8138
+2026-09-08T03:20:14.023563+00:00,shreyas@nucleusconsulting.co.in,pipeline,,,valid,Meeting booked,10275
+2026-09-08T02:09:50.842521+00:00,rita.hsieh@yfyjupiter.com,company_email_pattern,valid,,valid,Interested,11386
+2026-09-07T23:31:53.147286+00:00,juli.reynolds@elliottdavis.com,company_email_pattern,,,valid,Out of office,11243
+2026-09-07T23:31:26.261501+00:00,kristen.layman@elliottdavis.com,company_email_pattern,,,valid,Out of office,11243
+2026-09-07T23:25:00.963375+00:00,ashley.mitchell@elliottdavis.com,company_email_pattern,,,valid,Out of office,11243
+2026-09-07T23:24:24.537860+00:00,anita.brown@elliottdavis.com,original_lead,,,invalid,Out of office,11243
+2026-09-07T20:43:48.660270+00:00,serena.tooker@steptoe-johnson.com,company_email_pattern,,,valid,Wrong person,11208
+2026-09-07T19:48:48.074193+00:00,michael.philpott@qcells.com,original_lead,valid,,valid,Interested,11375
+2026-09-07T19:16:30.647467+00:00,debi.barr@tridentland.com,ai_agent,,,valid,Out of office,11318
+2026-09-07T18:58:23.189055+00:00,mpratt@keteres.com,findymail_name,valid,,valid,Wrong person,11468
+2026-09-07T18:42:10.864342+00:00,michael.lucey@personalis.com,imported,valid,valid,valid,Not interested,11375
+2026-09-07T18:33:20.160040+00:00,scarletts@aretedi.com,company_email_pattern,,valid,valid,Not interested,11318
+2026-09-07T15:44:49.037257+00:00,philip.jones@parker.com,imported,,,,Wrong person,11268
+2026-09-07T15:34:31.999834+00:00,bkhan@hlres.com,pipeline,,,valid,Not interested,11318
+2026-09-07T14:48:46.351913+00:00,antongrots@ustsubaki.com,imported,valid,valid,valid,Wrong person,11375
+2026-09-07T13:18:22.752899+00:00,bdiaz@rainbird.com,company_email_pattern,valid,,valid,Interested,11386
+2026-09-07T12:35:25.029131+00:00,joseph.walker@meetoppora.com,imported,,,valid,Interested,10679
+2026-09-07T12:12:44.719892+00:00,alpi.bahl@arcentglobal.com,pipeline,,,valid,Wrong person,10275
+2026-09-07T12:04:27.889023+00:00,chris@locohome.coop,pipeline,,,valid,Not interested,9932
+2026-09-07T11:32:12.984017+00:00,manav.adlakha@campari.com,company_email_pattern,,,valid,Out of office,8138
+2026-09-07T11:31:42.796738+00:00,leenus.telare@happening.design,company_email_pattern,,,valid,Meeting booked,8703
+2026-09-07T11:26:47.273731+00:00,luke@totalrenewablesolutions.com,company_email_pattern,,,valid,Not interested,9932
+2026-09-07T10:30:16.512447+00:00,hola@jiratek.com,imported,,,,Not interested,11346
+2026-09-07T10:29:40.210064+00:00,rjohnson@bakerdonelson.com,imported,,,,Wrong person,11177
+2026-09-07T10:11:52.748737+00:00,sapna@adentech.in,pipeline,,,valid,Not interested,8703
+2026-09-07T10:09:49.746878+00:00,sscoggin@taftlaw.com,imported,,,,Wrong person,11177
+2026-09-07T10:07:39.922079+00:00,skapur@orrick.com,imported,,,,Not interested,11306
+2026-09-07T09:30:49.305749+00:00,jkinning@taftlaw.com,imported,,,,Wrong person,11177
+2026-09-07T09:23:39.690474+00:00,bthomas@taftlaw.com,imported,,,,Wrong person,11177
+2026-09-07T09:07:30.130356+00:00,aakash.patel@themunim.com,company_email_pattern,,valid,valid,Wrong person,8703
+2026-09-07T08:51:40.458501+00:00,pooja@connectguru.co.in,ai_agent,,,valid,Meeting booked,10275
+2026-09-07T08:51:03.379826+00:00,hnovoa@stearnsweaver.com,pipeline,,,valid,Wrong person,11438
+2026-09-07T08:47:34.716512+00:00,ajanta.anindita@calix.com,pipeline,,valid,valid,Lead,11257
+2026-09-07T08:19:12.524341+00:00,nicole.caron-delion@thisworks.com,imported,,,NEW,Out of office,11049
+2026-09-07T08:09:59.765975+00:00,vaibhavi@hirenova.co.in,pipeline,valid,valid,valid,Interested,10275
+2026-09-07T07:41:45.056901+00:00,jbuckley@orrick.com,imported,,,,Wrong person,11306
+2026-09-07T07:14:53.001025+00:00,nidhi@careermakeover.in,pipeline,,,valid,Meeting booked,10275
+2026-09-07T07:13:25.069057+00:00,sanjna@cookdtv.com,pipeline,,,valid,Not interested,8703
+2026-09-07T07:09:31.870448+00:00,priyesh@surbhi.com,imported,,,valid,Not interested,11224
+2026-09-07T06:51:46.969091+00:00,kalaivani.adhavan@hunet.in,ai_agent,valid,,valid,Interested,10275
+2026-09-07T06:47:30.923517+00:00,maneshv@mmielr.com,company_email_pattern,,,valid,Interested,10683
+2026-09-07T06:10:43.481120+00:00,biswajit@rpsg.in,imported,,valid,valid,Not interested,11133
+2026-09-07T06:07:22.886000+00:00,vishal.sharma@qualitynz.com,pipeline,valid,valid,valid,Wrong person,8703
+2026-09-07T05:52:20.524197+00:00,sudip.dutta@square-jobs.com,other_lead,,,valid,Interested,7801
+2026-09-07T05:39:58.780135+00:00,ivo.ivaskis@vca.lv,pipeline,,,valid,Not interested,10566
+2026-09-07T05:32:26.217212+00:00,sudip.dutta@square-jobs.com,other_lead,,,valid,Interested,10275
+2026-09-07T04:45:42.857141+00:00,thirumurugan.r@kccl.co.in,pipeline,,valid,valid,Interested,11223
+2026-09-07T03:27:10.273355+00:00,anubhutiagarwal@sierracloud.com.au,company_email_pattern,,,valid,Interested,8703
+2026-09-07T03:11:26.210433+00:00,shweta@giftworks.io,pipeline,valid,valid,valid,Interested,11405
+2026-09-06T22:12:02.866834+00:00,stephan.kordt@rjc.ca,pipeline,valid,,valid,Moderate,11353
+2026-09-06T21:31:47.109869+00:00,tlarosa@aam15.com,company_email_pattern,,,valid,Not interested,11178
+2026-09-06T20:23:10.785253+00:00,ymeyer@nv2agroup.com,imported,,,yes,Not interested,11125
+2026-09-06T20:09:13.496283+00:00,alang@thebellcompany.com,company_email_pattern,valid,,valid,Out of office,11353
+2026-09-06T17:50:33.663520+00:00,jmeant@lacoste.com,ai_agent,,valid,valid,Out of office,11101
+2026-09-06T17:43:39.558539+00:00,swhitman@geiger.com,company_email_pattern,,,valid,Out of office,11101
+2026-09-06T17:00:03.367359+00:00,ssmith@youngliving.com,company_email_pattern,,,valid,Out of office,11101
+2026-09-06T13:41:36.628044+00:00,bcorbin@catholiccharitiesusa.org,ai_agent,valid,,valid,Wrong person,11438
+2026-09-06T10:43:43.436368+00:00,kacosta@camp.com,company_email_pattern,valid,,valid,Wrong person,11401
+2026-09-06T10:18:51.267148+00:00,a.kiawen@nlada.org,original_lead,valid,,valid,Wrong person,11438
+2026-09-06T10:13:04.773687+00:00,ed@wonder.com,company_email_pattern,valid,valid,valid,Wrong person,11400
+2026-09-06T08:26:54.647208+00:00,jbelton@munckwilson.com,company_email_pattern,valid,valid,valid,Wrong person,11438
+2026-09-06T07:15:15.721497+00:00,bbranch@lifelineconnections.org,pipeline,valid,,valid,Wrong person,11400
+2026-09-06T07:09:26.745255+00:00,warren.orr@purple.us,ai_agent,valid,,valid,Wrong person,11401
+2026-09-06T06:48:54.033166+00:00,laura.michael@mto.com,company_email_pattern,valid,,valid,Wrong person,11438
+2026-09-06T06:48:22.271905+00:00,karen.more@mto.com,original_lead,valid,,valid,Wrong person,11438
+2026-09-06T05:31:24.428541+00:00,joshc@summitsealants.com,imported,,,,Out of office,11091
+2026-09-05T22:46:44.857693+00:00,dhruv@thecaliperlab.com,pipeline,valid,valid,valid,Interested,8703
+2026-09-05T18:48:54.946460+00:00,jack.bennett@bluebixusa.com,imported,,valid,valid,Interested,11305
+2026-09-05T18:24:17.251912+00:00,clin@giorgioarmani.com,company_email_pattern,,valid,valid,Out of office,11101
+2026-09-05T17:36:01.389833+00:00,steven.david@puma.com,company_email_pattern,,,valid,Out of office,11101
+2026-09-05T16:46:29.583690+00:00,patrick.muiruri@strathmore.edu,company_email_pattern,,,valid,Not interested,9966
+2026-09-05T16:26:08.352072+00:00,tmackey@fordmodels.com,company_email_pattern,,valid,valid,Out of office,11101
+2026-09-05T15:31:41.944328+00:00,johnsonl@catlin.edu,pipeline,valid,,valid,Wrong person,11401
+2026-09-05T15:05:28.556701+00:00,ashlee.moore@johnstonesupply.com,company_email_pattern,,,valid,Wrong person,11088
+2026-09-05T13:02:16.385393+00:00,sahib@suppletek.in,,,,valid,Interested,8138
+2026-09-05T12:42:02.268857+00:00,strivedi@coca-cola.in,company_email_pattern,,,valid,Wrong person,8138
+2026-09-05T12:34:53.012234+00:00,sarandha.parmar@shoppersstop.com,imported,,,valid,Wrong person,11224
+2026-09-05T10:42:24.780039+00:00,ramprakash@mahaanmilkfoods.com,company_email_pattern,,,valid,Wrong person,8138
+2026-09-05T10:01:28.629585+00:00,vevaik.mahajan@uedc.in,original_lead,valid,valid,valid,Interested,8703
+2026-09-05T09:59:36.137961+00:00,sandra.reid@davey.com,ai_agent,valid,,valid,Out of office,11414
+2026-09-05T09:59:33.003245+00:00,ritesh.upadhyay@lenskart.in,imported,risky,valid,valid,Not interested,11425
+2026-09-05T09:57:56.371390+00:00,condy.dixon@rjwgroup.com,company_email_pattern,valid,,valid,Wrong person,11402
+2026-09-05T09:45:56.143499+00:00,tskjeveland@merchantgould.com,company_email_pattern,,,valid,Not interested,11150
+2026-09-05T09:33:35.175708+00:00,iselin.skogli@strathberry.com,company_email_pattern,,,valid,Out of office,11049
+2026-09-05T08:49:30.908523+00:00,ginny.gray@firsttechfed.com,company_email_pattern,valid,,valid,Out of office,11414
+2026-09-05T08:40:24.438993+00:00,dj@alphafmc.com,pipeline,,,valid,Wrong person,11361
+2026-09-05T08:32:11.254494+00:00,jbuschbacher@phoenixchamber.com,pipeline,valid,,valid,Wrong person,11407
+2026-09-05T08:12:31.782041+00:00,akash@zofffoods.com,company_email_pattern,,,valid,Interested,8138
+2026-09-05T07:51:42.651294+00:00,adai@drinkbubz.com,ai_agent,valid,valid,valid,Lead,8703
+2026-09-05T06:48:02.026799+00:00,shivam.bardhan@omlogistics.co.in,imported,,,valid,Moderate,11065
+2026-09-05T06:43:15.099752+00:00,kvandenberg@mcdonaldcarano.com,pipeline,,,valid,Wrong person,11180
+2026-09-05T06:28:11.478754+00:00,jhardin@reedsmith.com,ai_agent,,,valid,Interested,11150
+2026-09-05T06:27:32.646099+00:00,ngonzalez@bannerwitcoff.com,company_email_pattern,,,valid,Wrong person,11180
+2026-09-05T06:22:04.268169+00:00,nilesh.bhandare@jungheinrich.in,imported,,,valid,Out of office,11065
+2026-09-05T06:02:12.599511+00:00,bhagyashree@neodove.com,company_email_pattern,valid,,valid,Interested,8703
+2026-09-05T05:42:29.546741+00:00,aditya@citybakery.in,pipeline,,,valid,Not interested,8138
+2026-09-05T05:37:27.301864+00:00,poonam@itvedant.com,pipeline,valid,valid,valid,Interested,8703
+2026-09-05T05:34:39.027294+00:00,raju.r@tataelectronics.co.in,imported,,valid,valid,Out of office,11098
+2026-09-05T05:09:21.988044+00:00,suvarna.mishra@pluxeegroup.com,original_lead,valid,,valid,Out of office,8703
+2026-09-05T05:02:39.534424+00:00,kturner@mnsengineers.com,imported,,,,Wrong person,11429
+2026-09-05T04:45:52.884153+00:00,rishika.jakhanwal@loreal.com,imported,valid,,valid,Out of office,11425
+2026-09-04T20:08:09.865253+00:00,cdavid@inwmfg.com,pipeline,,valid,valid,Moderate,11335
+2026-09-04T20:06:55.199586+00:00,russ@titan911.com,pipeline,,,valid,Not interested,11263
+2026-09-04T20:00:20.208796+00:00,jhumphreys@shikunusa.com,rocket_reach,valid,valid,valid,Wrong person,11406
+2026-09-04T19:25:33.712140+00:00,cholt@veridianservicepartners.com,company_email_pattern,valid,,valid,Wrong person,11406
+2026-09-04T19:22:15.292108+00:00,sschulz@kcnsc.doe.gov,company_email_pattern,valid,valid,valid,Out of office,11406
+2026-09-04T19:20:10.966990+00:00,kbudde@veridianservicepartners.com,company_email_pattern,valid,,valid,Out of office,11406
+2026-09-04T19:17:38.020342+00:00,thais.mourao@cgschmidt.com,pipeline,valid,,valid,Out of office,11351
+2026-09-04T19:06:46.857945+00:00,zamaryl@greatlakescheese.com,company_email_pattern,,valid,valid,Out of office,11111
+2026-09-04T18:58:35.136081+00:00,rachael.peterson@ersg-global.com,imported,valid,,valid,Out of office,11406
+2026-09-04T18:48:07.742203+00:00,collinsa@betacom.com,imported,valid,valid,valid,Out of office,11431
+2026-09-04T18:45:57.503998+00:00,mfuentes@carmelpartners.com,company_email_pattern,valid,,valid,Out of office,11406
+2026-09-04T18:36:18.559331+00:00,lsmitherman@jostinconstruction.com,other_lead,valid,valid,valid,Out of office,11406
+2026-09-04T18:25:05.630564+00:00,jrubottom@knapheide.com,company_email_pattern,valid,,valid,Out of office,11406
+2026-09-04T18:09:33.642796+00:00,hdiaz@rrmdesign.com,imported,,,,Out of office,11091
+2026-09-04T18:08:27.228416+00:00,megan.foster@biorce.com,company_email_pattern,valid,valid,valid,Out of office,11406
+2026-09-04T18:06:06.626870+00:00,esprous@phillipsih.com,company_email_pattern,,,valid,Not interested,11406
+2026-09-04T17:57:47.078617+00:00,karen.dyck@standardaero.com,company_email_pattern,,,valid,Out of office,11137
+2026-09-04T17:33:15.671402+00:00,sarah@fprestoration.com,imported,valid,valid,valid,Out of office,11431
+2026-09-04T17:32:55.874810+00:00,jprovins@centuri.com,other_lead,,,valid,Wrong person,11139
+2026-09-04T17:18:16.577057+00:00,orlandocastelblanco@ntsafety.com,imported,,,valid,Wrong person,11231
+2026-09-04T17:08:06.458874+00:00,ken@realcosolutions.com,imported,,,valid,Interested,11231
+2026-09-04T17:05:52.226636+00:00,rvernon@lathanassociates.com,company_email_pattern,valid,,valid,Out of office,11406
+2026-09-04T16:47:44.861218+00:00,jjensen@magrann.com,company_email_pattern,,,valid,Wrong person,10098
+2026-09-04T16:44:22.117111+00:00,kimberly.adams@expfederal.com,company_email_pattern,valid,valid,valid,Wrong person,11406
+2026-09-04T16:34:08.632499+00:00,kevin@ceikc.com,pipeline,,valid,valid,Wrong person,11272
+2026-09-04T16:33:53.356044+00:00,rbhoj@coastsouthwest.com,pipeline,,valid,valid,Moderate,11118
+2026-09-04T16:27:25.020038+00:00,cmedeiros@swelectricinc.com,pipeline,valid,,valid,Out of office,11431
+2026-09-04T16:25:48.683855+00:00,heather.wheeler@greatlakescheese.com,company_email_pattern,,valid,valid,Out of office,11111
+2026-09-04T16:24:29.685385+00:00,heather@creteunited.com,imported,,,Not Checked,Not interested,11127
+2026-09-04T16:11:54.488480+00:00,natalie.aguilar@aecom.com,imported,,,valid,Not interested,11330
+2026-09-04T16:10:01.935421+00:00,abrown@vccusa.com,imported,,valid,valid,Interested,11225
+2026-09-04T15:57:37.345235+00:00,becky@kilkearysautobody.com,pipeline,,,valid,Out of office,11272
+2026-09-04T15:29:15.897688+00:00,connie.taggart@wright-pierce.com,original_lead,valid,,valid,Out of office,11406
+2026-09-04T15:13:26.838937+00:00,david.given@faegredrinker.com,company_email_pattern,,,valid,Not interested,11150
+2026-09-04T14:59:58.732613+00:00,kneuhauser@buildingevo.com,company_email_pattern,,valid,valid,Interested,11318
+2026-09-04T14:59:19.539226+00:00,evelyn.bendik@garda.com,company_email_pattern,valid,valid,valid,Out of office,11406
+2026-09-04T14:53:35.991186+00:00,aoconnor@hhcorp.org,company_email_pattern,valid,valid,valid,Out of office,11406
+2026-09-04T14:51:23.088515+00:00,ltaylor@hhcorp.org,company_email_pattern,valid,valid,valid,Out of office,11406
+2026-09-04T14:45:06.977611+00:00,gwilliams@bowaconstruction.com,company_email_pattern,valid,,valid,Wrong person,11406
+2026-09-04T14:27:41.441415+00:00,heather.fossand@optum.com,company_email_pattern,,,valid,Out of office,10720
+2026-09-04T14:17:47.213808+00:00,bwillis@kentri.org,ai_agent,valid,,valid,Out of office,11376
+2026-09-04T14:12:54.071813+00:00,keerthivasan@sanskriti.live,pipeline,valid,,valid,Lead,11419
+2026-09-04T14:12:34.769161+00:00,sboone@fisherphillips.com,company_email_pattern,,,valid,Wrong person,11180
+2026-09-04T14:05:21.911878+00:00,kcoble@advancedtech.com,company_email_pattern,valid,valid,valid,Out of office,11376
+2026-09-04T14:01:27.704075+00:00,jashton@oneilprint.com,imported,,,valid,Interested,11263
+2026-09-04T13:57:52.942682+00:00,rachell@designwithma.com,company_email_pattern,valid,,valid,Out of office,11406
+2026-09-04T13:55:34.406746+00:00,yorka.faldraga@jhsmiami.org,company_email_pattern,valid,,valid,Out of office,10720
+2026-09-04T13:46:57.539301+00:00,tlipps@bhdp.com,company_email_pattern,valid,,valid,Out of office,11406
+2026-09-04T13:44:34.406582+00:00,szzamin@sbec.com,ai_agent,valid,valid,valid,Out of office,11406
+2026-09-04T13:44:26.961893+00:00,hbrown@frontlineconsultingllc.com,company_email_pattern,valid,,valid,Wrong person,11420
+2026-09-04T13:37:25.061489+00:00,mary.kelley@tonixpharma.com,company_email_pattern,valid,,valid,Out of office,11376
+2026-09-04T13:33:21.712357+00:00,deborah.elson@tonixpharma.com,company_email_pattern,valid,,valid,Out of office,11376
+2026-09-04T12:50:42.406197+00:00,shawn.claybaugh@reece.com,imported,,,valid,Not interested,11263
+2026-09-04T12:45:58.679069+00:00,jeff@gsi.us,company_email_pattern,valid,,valid,Wrong person,11406
+2026-09-04T12:25:45.949466+00:00,zmayer@thehermitagehotel.com,company_email_pattern,valid,,valid,Interested,11401
+2026-09-04T11:47:35.469267+00:00,tanya@ev-wales.co.uk,pipeline,,,valid,Wrong person,9932
+2026-09-04T11:46:51.797705+00:00,dennis@istikbalkenya.com,pipeline,,,valid,Not interested,9775
+2026-09-04T11:39:59.099726+00:00,jmaddox@wrallp.com,imported,,,,Not interested,11396
+2026-09-04T10:53:50.329215+00:00,melissa@givemecosmetics.com,imported,,,Verified,Out of office,11049
+2026-09-04T10:42:08.120089+00:00,mollie.roe@givemecosmetics.com,imported,,,Verified,Wrong person,11049
+2026-09-04T10:36:31.700685+00:00,janet@delilahcosmetics.com,imported,,,Verified,Interested,11049
+2026-09-04T10:06:20.503668+00:00,chin.kwok@cbre.com,company_email_pattern,valid,valid,valid,Out of office,11395
+2026-09-04T09:59:43.846598+00:00,info@twiceconsulting.com,imported,,,,Interested,11147
+2026-09-04T09:26:48.639867+00:00,contacto@consultoriacomercioexterior.es,imported,,,,Lead,11347
+2026-09-04T09:11:48.700148+00:00,revathi@equitechlabs.com,pipeline,,valid,valid,Interested,8703
+2026-09-04T09:08:12.934460+00:00,ellen@sonomalandtrust.org,ai_agent,valid,valid,valid,Wrong person,11407
+2026-09-04T08:54:04.915594+00:00,sparlato@ctbk.com,company_email_pattern,,,valid,Out of office,11152
+2026-09-04T08:52:42.533425+00:00,amanda.schilling@ogletree.com,other_lead,,,valid,Out of office,11152
+2026-09-04T08:50:32.969452+00:00,durgesh@gubbworld.com,imported,,,risky,Not interested,11004
+2026-09-04T08:26:33.248460+00:00,colin.nicholls@flyus.aero,pipeline,,valid,valid,Out of office,10913
+2026-09-04T07:51:47.103310+00:00,jhenry@prosek.com,company_email_pattern,,,valid,Wrong person,11180
+2026-09-04T07:40:11.558508+00:00,jyoti@thesearchhouse.com,ai_agent,,,valid,Interested,10275
+2026-09-04T07:39:27.764400+00:00,rohits@redtapeindia.com,pipeline,unknown,valid,valid,Interested,11393
+2026-09-04T07:34:46.018663+00:00,ahmed@frenchhomefurniture.com,imported,,,valid,Meeting booked,11100
+2026-09-04T07:17:55.109139+00:00,contacto@gruporb.es,imported,,,,Moderate,11348
+2026-09-04T06:51:07.965681+00:00,sandeep.kalra@pride-health.com,company_email_pattern,,,valid,Out of office,10988
+2026-09-04T06:43:46.946987+00:00,kgross@calgaryflames.com,company_email_pattern,,,valid,Out of office,10870
+2026-09-04T06:20:56.446709+00:00,ajit.singh@idemia.com,company_email_pattern,valid,valid,valid,Lead,8703
+2026-09-04T06:16:34.933114+00:00,kabi.commander.malatsi@dsv.com,ai_agent,,valid,valid,Out of office,10900
+2026-09-04T05:44:58.140408+00:00,ankur.tailang@cvent.com,company_email_pattern,,,valid,Out of office,11216
+2026-09-04T05:33:06.866591+00:00,ahead@lightingenvironments.com,other_lead,valid,,valid,Wrong person,11404
+2026-09-04T05:16:33.769271+00:00,sruthi.sam@jetstar.com,company_email_pattern,,valid,valid,Out of office,10918
+2026-09-04T05:05:13.672912+00:00,rflanders@cleaverbrooks.com,original_lead,valid,valid,valid,Out of office,11414
+2026-09-04T04:29:55.587159+00:00,sachin.varak@ceat.com,imported,,,,Not interested,10944
+2026-09-04T04:22:58.045905+00:00,kartik.krishnamurti@aparajitacs.com,original_lead,,,valid,Interested,10988
+2026-09-04T01:17:35.862694+00:00,lisa.benson@rlmunderground.com,company_email_pattern,valid,valid,valid,Wrong person,11410
+2026-09-03T23:05:34.919755+00:00,jpayton@rlmunderground.com,pipeline,valid,valid,valid,Wrong person,11410
+2026-09-03T20:17:36.518200+00:00,rendres@kniesels.com,company_email_pattern,,valid,valid,Not interested,11245
+2026-09-03T20:08:45.038035+00:00,domielis.bonacore@heatherwood.com,imported,valid,,valid,Wrong person,11382
+2026-09-03T19:43:57.138159+00:00,allen.gonzalez@sabrosurafoods.com,pipeline,valid,valid,valid,Wrong person,11410
+2026-09-03T19:37:59.250630+00:00,kimberly.kelley@cambrex.com,imported,,valid,valid,Not interested,11330
+2026-09-03T18:45:39.136067+00:00,ycarey@homelifeservices.org,pipeline,,valid,valid,Out of office,11372
+2026-09-03T18:42:16.120252+00:00,cceccarelli@lajollagroup.com,pipeline,,valid,valid,Out of office,11101
+2026-09-03T18:19:41.603265+00:00,scott.novak@ecemn.com,imported,valid,,valid,Wrong person,11382
+2026-09-03T17:56:52.375578+00:00,beachm@millerjohnson.com,imported,valid,,valid,Not interested,11375
+2026-09-03T17:56:12.657871+00:00,deraadk@millerjohnson.com,company_email_pattern,,,valid,Not interested,11375
+2026-09-03T17:39:27.714140+00:00,tim@fatboyelectric.com,company_email_pattern,,,valid,Out of office,11318
+2026-09-03T17:35:50.704299+00:00,jhamilton@parkertrutec.com,imported,valid,valid,valid,Not interested,11375
+2026-09-03T17:35:23.470855+00:00,mzimmerman@mainstreampineproducts.com,company_email_pattern,,valid,valid,Interested,11119
+2026-09-03T17:31:01.413186+00:00,kterando@pentaflex.com,imported,,,,Not interested,10608
+2026-09-03T17:28:59.392604+00:00,chris.smith@comfortsystemsusa.com,company_email_pattern,,,valid,Wrong person,11318
+2026-09-03T17:28:07.616540+00:00,christopher.britt@caplugs.com,original_lead,valid,,invalid,Wrong person,11386
+2026-09-03T17:21:22.453073+00:00,cskinner@alliancemv.com,pipeline,,,valid,Interested,11335
+2026-09-03T17:18:31.025583+00:00,lguth@prairieengineers.com,imported,valid,,valid,Not interested,11373
+2026-09-03T17:18:13.535862+00:00,alyson.magliozzi@converse.com,original_lead,,,valid,Out of office,11101
+2026-09-03T17:07:16.007716+00:00,kaubuchon@carhartt.com,company_email_pattern,,valid,valid,Out of office,11101
+2026-09-03T16:42:51.643986+00:00,gvivas-rodriguez@gdkfoods.com,dropcontact,,,valid,Not interested,11303
+2026-09-03T16:36:51.131501+00:00,apainter@christianacare.org,company_email_pattern,valid,,valid,Out of office,11355
+2026-09-03T16:19:03.437165+00:00,rafael.daigle@prolific-machines.com,imported,valid,,valid,Interested,11373
+2026-09-03T15:58:46.398079+00:00,mmiles@avantus.com,company_email_pattern,,valid,valid,Out of office,11335
+2026-09-03T15:57:32.028567+00:00,jennifer.oneill@uvm.edu,ai_agent,,,valid,Not interested,11355
+2026-09-03T15:56:44.985333+00:00,jim.legacy@centor.com,pipeline,valid,,valid,Wrong person,11386
+2026-09-03T15:33:13.137430+00:00,l.obernesser@gwyneddmfg.com,ai_agent,,,valid,Not interested,11366
+2026-09-03T15:03:35.175055+00:00,stephanycelaya@shearers.com,company_email_pattern,,,valid,Out of office,11264
+2026-09-03T15:00:25.068651+00:00,rohit.lohia@ondc.org,imported,,,Delhi,Interested,10768
+2026-09-03T14:57:24.768195+00:00,allenp@prescotthonda.com,pipeline,,valid,valid,Not interested,11087
+2026-09-03T14:51:18.742543+00:00,ggassman@cozen.com,imported,,,,Wrong person,11177
+2026-09-03T14:41:30.416020+00:00,mfuller@howardbuilding.com,imported,,,valid,Interested,11370
+2026-09-03T14:40:32.504364+00:00,richard.sternin@aardvark.tax,company_email_pattern,,,valid,Moderate,11304
+2026-09-03T14:34:30.773100+00:00,mcormier@iecis.com,company_email_pattern,valid,valid,valid,Wrong person,11386
+2026-09-03T14:33:29.793063+00:00,jfitzpatrick@stonesriverelectric.com,imported,,,valid,Out of office,10682
+2026-09-03T14:24:10.129917+00:00,shiree.tomlinson@christianacare.org,company_email_pattern,valid,,valid,Out of office,11355
+2026-09-03T14:16:36.972936+00:00,gbroady@kingsiii.com,imported,valid,,valid,Lead,11373
+2026-09-03T14:10:30.380168+00:00,anuno@mccompanies.com,imported,valid,,valid,Wrong person,11382
+2026-09-03T14:07:33.704857+00:00,jprice@optum.com,company_email_pattern,,,valid,Out of office,10720
+2026-09-03T14:00:14.766564+00:00,kim.ryder@thrivere.com,pipeline,,valid,valid,Out of office,11314
+2026-09-03T13:58:28.926573+00:00,sburton@brightwell.com,company_email_pattern,,,valid,Out of office,11220
+2026-09-03T13:53:12.896380+00:00,capodilupo@whoop.com,imported,valid,,valid,Wrong person,11375
+2026-09-03T13:43:54.464945+00:00,susanne.poole@leaplegalsoftware.com,company_email_pattern,valid,,valid,Not interested,11367
+2026-09-03T13:34:24.820603+00:00,gurdeep@dudhvyapar.com,pipeline,valid,,valid,Interested,8138
+2026-09-03T13:26:53.784077+00:00,pankeym@nibco.com,imported,valid,valid,valid,Not interested,11366
+2026-09-03T13:25:08.939522+00:00,lorrie.valerio@thinkom.com,imported,valid,,valid,Not interested,11378
+2026-09-03T13:14:06.748935+00:00,kmalhotra@brewerscience.com,imported,,valid,yes,Out of office,11125
+2026-09-03T13:02:31.986333+00:00,cgeist@ttmtech.com,company_email_pattern,valid,,valid,Not interested,11366
+2026-09-03T12:34:11.301972+00:00,stephann@cottonco.com,pipeline,,valid,valid,Not interested,10721
+2026-09-03T12:04:48.598176+00:00,mikek@cwmatthews.com,imported,,,valid,Not interested,11370
+2026-09-03T11:56:26.917492+00:00,mwaibel@thruwayinc.com,company_email_pattern,,,valid,Out of office,11125
+2026-09-03T11:11:21.094940+00:00,info@tssciberseguridad.com,imported,,,,Not interested,11346
+2026-09-03T11:03:20.169504+00:00,himanshu.chavla@nextdigitalrecruitment.com,pipeline,valid,valid,valid,Not interested,10275
+2026-09-03T10:54:10.231639+00:00,mschlimgen@novohealthservices.com,other_lead,,valid,valid,Wrong person,11087
+2026-09-03T10:24:25.041065+00:00,natalia@braingain.fit,imported,,,Verified,Out of office,11049
+2026-09-03T10:12:22.825442+00:00,naveen@search2select.in,pipeline,,,valid,Interested,10275
+2026-09-03T09:59:29.700740+00:00,anthony.sakrouge@russell-cooke.co.uk,company_email_pattern,,,valid,Not interested,11153
+2026-09-03T09:29:48.744030+00:00,rebecca@balanceme.com,imported,,,Verified,Out of office,11049
+2026-09-03T09:26:43.356101+00:00,samwel.ogalo@ambulexsolutions.org,company_email_pattern,,,valid,Not interested,9531
+2026-09-03T09:25:44.960654+00:00,christian.lamprecht@hochland.com,ai_agent,,,valid,Out of office,10555
+2026-09-03T08:55:54.971116+00:00,cor_houkes@cargill.com,company_email_pattern,,valid,valid,Out of office,10555
+2026-09-03T08:54:25.633474+00:00,contacto@adelantta.es,imported,,,,Lead,11348
+2026-09-03T08:36:59.292212+00:00,alun.williams@hillendeng.com,company_email_pattern,,valid,valid,Out of office,10913
+2026-09-03T08:12:56.781723+00:00,sgammage@fisherphillips.com,company_email_pattern,,,valid,Wrong person,11153
+2026-09-03T07:33:13.247511+00:00,anandhi@avglobaladvisory.com,pipeline,,,valid,Interested,10275
+2026-09-03T07:31:00.000708+00:00,shreya@primumtalent.com,pipeline,,,valid,Not interested,8703
+2026-09-03T07:13:03.852083+00:00,saurabh.bajaj@sisglobalworkforce.com,pipeline,valid,,valid,Meeting booked,10275
+2026-09-03T07:13:02.830943+00:00,megha.shitole@truehito.com,pipeline,,,valid,Meeting booked,10275
+2026-09-03T07:13:02.764606+00:00,joseph@indubservices.com,company_email_pattern,,,valid,Not interested,10275
+2026-09-03T07:12:12.661929+00:00,biju@baseone.in,pipeline,valid,valid,valid,Interested,8703
+2026-09-03T07:08:30.636546+00:00,sandeep@costerindia.com,imported,,,valid,Moderate,11095
+2026-09-03T06:55:20.470687+00:00,dbolt@associated.cc,company_email_pattern,,,valid,Out of office,11343
+2026-09-03T06:41:48.405413+00:00,anusha@eternalrobotics.com,pipeline,,,valid,Moderate,8703
+2026-09-03T06:41:41.691845+00:00,geetika@univisory.org,pipeline,valid,valid,valid,Interested,8703
+2026-09-03T06:34:22.797521+00:00,sumit.premi@razorpay.com,company_email_pattern,,,valid,Not interested,11216
+2026-09-03T06:23:18.277110+00:00,ijozsa@arquitectonica.com,pipeline,,,valid,Wrong person,11149
+2026-09-03T05:53:15.000191+00:00,suvidha.shinde@electromech-infra.com,pipeline,valid,valid,valid,Interested,8703
+2026-09-03T05:32:04.856040+00:00,cp.shukla@sarlogisolutions.com,pipeline,valid,,valid,Interested,8703
+2026-09-03T05:29:06.323094+00:00,logistics@amrutenergy.com,imported,,,unknown,Interested,11095
+2026-09-03T05:26:50.811651+00:00,lindsayevans@qantas.com.au,original_lead,,valid,valid,Out of office,10918
+2026-09-03T04:07:37.149704+00:00,ajay.goel@kddl.com,imported,,,valid,Not interested,11098
+2026-09-03T03:06:20.796400+00:00,srivaths.varadharajan@refex.co.in,imported,,,,Meeting booked,11009
+2026-09-02T22:40:04.106864+00:00,armeen@purelyworks.com,company_email_pattern,,valid,valid,Interested,11314
+2026-09-02T22:24:43.112412+00:00,tim.amlung@levata.com,company_email_pattern,,,valid,Not interested,11343
+2026-09-02T21:13:28.631591+00:00,sachin.yadav@hirescoreai.com,pipeline,valid,valid,valid,Interested,10275
+2026-09-02T20:13:18.884614+00:00,hcoltrain@harbordredge.com,company_email_pattern,valid,,valid,Not interested,11351
+2026-09-02T19:49:57.553215+00:00,swheeler@fadingwest.com,company_email_pattern,,,valid,Wrong person,11318
+2026-09-02T19:48:57.130474+00:00,lmcdonald@swirecc.com,company_email_pattern,,valid,valid,Out of office,11335
+2026-09-02T19:47:45.442496+00:00,b.fox@dymaxiondevelopment.com,pipeline,,valid,valid,Out of office,11318
+2026-09-02T19:21:05.083285+00:00,vtarasiewicz@lereta.com,company_email_pattern,,,valid,Out of office,10740
+2026-09-02T18:56:21.077543+00:00,chad@mccannls.com,pipeline,,,valid,Not interested,11318
+2026-09-02T18:53:58.453729+00:00,swalker@plicards.com,pipeline,,valid,valid,Out of office,11137
+2026-09-02T18:53:47.822001+00:00,mmaldonado@usaindustries.com,imported,,,valid,Wrong person,11332
+2026-09-02T18:34:18.512351+00:00,kimberly.kezima@gmr.net,findymail_name,,,valid,Out of office,11008
+2026-09-02T18:23:32.620135+00:00,ashley@aretedi.com,pipeline,,valid,valid,Out of office,11318
+2026-09-02T18:15:57.656963+00:00,ssutton@us.moomoo.com,company_email_pattern,,,valid,Interested,10246
+2026-09-02T18:10:55.995480+00:00,terri.lewis@standardaero.com,original_lead,,,valid,Out of office,11137
+2026-09-02T17:11:23.790441+00:00,mj@mjgrandtravel.com,ai_agent,,,valid,Not interested,11078
+2026-09-02T17:06:25.751418+00:00,sstock@bucharthorn.com,pipeline,valid,valid,valid,Out of office,11328
+2026-09-02T17:01:25.957047+00:00,dstoddard@rodanandfields.com,company_email_pattern,,valid,valid,Out of office,11101
+2026-09-02T16:56:47.711417+00:00,pcramer@bydesignland.com,imported,,,valid,Out of office,11318
+2026-09-02T16:46:54.215058+00:00,smcalpine@shivelybros.com,imported,,,valid,Not interested,11332
+2026-09-02T16:46:38.003087+00:00,info@auditecnic.es,,,,,Not interested,11147
+2026-09-02T16:41:29.129854+00:00,smontero@horizonservices.com,company_email_pattern,,,valid,Not interested,11328
+2026-09-02T16:29:15.831445+00:00,brian.phelan@superiorfarms.com,imported,,valid,valid,Not interested,11340
+2026-09-02T16:28:48.663913+00:00,rdevito@alliedfireprotection.com,other_lead,valid,valid,valid,Out of office,11328
+2026-09-02T16:27:22.065844+00:00,jaron.lancaster@bridge33capital.com,other_lead,,valid,valid,Not interested,11077
+2026-09-02T16:15:43.006937+00:00,mchura@christa.com,imported,,,valid,Interested,11141
+2026-09-02T16:01:00.794867+00:00,ngarcia@seyfarth.com,imported,,,,Not interested,11306
+2026-09-02T15:52:28.634292+00:00,brandon.elton@greatstates.com,imported,,,valid,Not interested,11220
+2026-09-02T15:51:58.792885+00:00,dennis.watson@jjill.com,original_lead,,,valid,Wrong person,11331
+2026-09-02T15:46:36.486665+00:00,mnovicio@ciq.com,imported,,,valid,Not interested,11229
+2026-09-02T15:44:38.646883+00:00,susie@abhydroseed.com,company_email_pattern,,valid,valid,Wrong person,11318
+2026-09-02T15:41:52.186339+00:00,brittany.carlin@cuMedicine.us,original_lead,,valid,valid,Out of office,11139
+2026-09-02T15:38:30.482524+00:00,maggie@unitedelectricwi.com,ai_agent,valid,,valid,Not interested,11328
+2026-09-02T15:38:00.288157+00:00,mhamann@enerfab.com,ai_agent,,,valid,Out of office,11318
+2026-09-02T15:33:36.244041+00:00,smcdonough@jenkinsrestorations.com,company_email_pattern,,,valid,Wrong person,11078
+2026-09-02T15:30:37.097513+00:00,nvalenzuela@rosendin.com,other_lead,valid,valid,valid,Out of office,11328
+2026-09-02T15:18:11.155707+00:00,kelly.maturi@whitestonebranding.com,company_email_pattern,,,valid,Out of office,11318
+2026-09-02T15:10:42.274928+00:00,michael.stead@curriebrown.com,company_email_pattern,,,valid,Interested,11318
+2026-09-02T14:55:40.640479+00:00,brandon@bayoucityind.com,company_email_pattern,,,valid,Out of office,11318
+2026-09-02T14:50:30.184998+00:00,syoung@wilsonbauhaus.com,imported,,,,Out of office,11091
+2026-09-02T14:45:41.314493+00:00,spowers@flexngate.com,imported,,,,Wrong person,11268
+2026-09-02T14:44:06.582549+00:00,reid.glatter@gopaschal.com,company_email_pattern,,,valid,Not interested,11028
+2026-09-02T14:41:12.404032+00:00,mmohr@cjdrilling.com,company_email_pattern,,valid,valid,Not interested,11314
+2026-09-02T14:24:42.637455+00:00,patrick.moore@ruralmetrofire.com,company_email_pattern,,,valid,Not interested,10392
+2026-09-02T14:23:35.661142+00:00,btillotson@alliedfireprotection.com,company_email_pattern,valid,valid,valid,Wrong person,11328
+2026-09-02T14:12:55.161255+00:00,speelmal@slhs.org,findymail_name,valid,,valid,Not interested,10720
+2026-09-02T13:50:25.857026+00:00,cbowen@gmechanical.com,company_email_pattern,,,valid,Not interested,11318
+2026-09-02T13:47:17.885544+00:00,alex@lisaandleroy.com,company_email_pattern,,valid,valid,Interested,11314
+2026-09-02T13:47:12.881613+00:00,waylon@integrityeng.net,pipeline,,,valid,Out of office,11314
+2026-09-02T13:44:02.786850+00:00,heather.wheeler@greatlakescheese.com,company_email_pattern,,valid,valid,Out of office,11264
+2026-09-02T13:40:24.544347+00:00,ndorado@optosystem.com,company_email_pattern,,valid,valid,Lead,11220
+2026-09-02T13:38:53.259552+00:00,jtrojacek@premiumwaters.com,company_email_pattern,,valid,valid,Out of office,11303
+2026-09-02T13:33:43.715183+00:00,jmalkemes@gtweed.com,company_email_pattern,,,valid,Interested,11303
+2026-09-02T13:28:47.409673+00:00,jeff@planrightsurvey.com,company_email_pattern,,,valid,Out of office,11318
+2026-09-02T13:18:45.184226+00:00,iarcay@hepaco.com,company_email_pattern,,,valid,Interested,11220
+2026-09-02T13:05:26.555324+00:00,colton.kulback@gmppros.com,pipeline,,,valid,Wrong person,11316
+2026-09-02T13:01:37.254548+00:00,diana.ard@sargentlundy.com,imported,,,valid,Out of office,11255
+2026-09-02T12:36:37.403319+00:00,mmuro@nes-grouparchitects.com,findymail_name,,valid,valid,Interested,11033
+2026-09-02T12:34:48.494811+00:00,jegan@datacorp.tech,company_email_pattern,,,valid,Moderate,11257
+2026-09-02T12:20:31.636753+00:00,dennis.scott@onehourheatandair.com,imported,,,,Wrong person,11268
+2026-09-02T12:06:42.697205+00:00,wiseman@mgmlaw.com,imported,,,,Wrong person,11268
+2026-09-02T12:02:59.216207+00:00,jvogel@wesconstructioncorp.com,company_email_pattern,,valid,valid,Wrong person,11318
+2026-09-02T12:02:05.421906+00:00,adube@wesconstructioncorp.com,company_email_pattern,,valid,valid,Out of office,11318
+2026-09-02T11:02:55.150139+00:00,erin.hansert@imerys.com,company_email_pattern,,,valid,Not interested,11303
+2026-09-02T10:37:26.792710+00:00,queries@pictureperfecthome.co.uk,ai_agent,,,valid,Moderate,11252
+2026-09-02T10:14:54.626052+00:00,paul@lakedentalclinic.co.ke,pipeline,,,valid,Wrong person,9531
+2026-09-02T09:41:57.911154+00:00,jbowen@mec-gc.com,original_lead,,,valid,Out of office,11304
+2026-09-02T09:37:41.629613+00:00,afreiman@mfcounsel.com,pipeline,,valid,valid,Wrong person,11306
+2026-09-02T09:21:37.792512+00:00,kultar.s@printo.in,findymail_name,,valid,valid,Moderate,8703
+2026-09-02T09:17:05.554402+00:00,christine.rosch@qxo.com,company_email_pattern,,valid,valid,Not interested,11185
+2026-09-02T09:15:40.650098+00:00,maugustine@beechwoodhomes.com,company_email_pattern,,valid,valid,Out of office,11304
+2026-09-02T08:52:03.432658+00:00,nick@minardilumber.com,pipeline,,,valid,Wrong person,11088
+2026-09-02T08:47:24.857637+00:00,charlotte.moulson@lecol.cc,company_email_pattern,,,valid,Out of office,11049
+2026-09-02T08:34:05.646165+00:00,syed.qais@rekise.com,imported,,valid,valid,Not interested,11266
+2026-09-02T08:23:19.801345+00:00,sujay@mohanimpex.com,,,,valid,Interested,8138
+2026-09-02T08:22:16.737922+00:00,rajendran.k@srmap.edu.in,ai_agent,,,valid,Interested,8703
+2026-09-02T08:20:11.355487+00:00,antony@biosorra.com,company_email_pattern,,,valid,Not interested,9752
+2026-09-02T07:31:11.168119+00:00,laura.hiatt@glenroy.com,imported,,,,Wrong person,10608
+2026-09-02T07:06:06.165491+00:00,cbarberena@ceritypartners.com,company_email_pattern,,,valid,Wrong person,11304
+2026-09-02T07:05:28.452896+00:00,vmanrique@ceritypartners.com,pdl,,,valid,Out of office,11304
+2026-09-02T06:46:10.768507+00:00,joel.todd@franklintempleton.com,company_email_pattern,,,valid,Wrong person,11304
+2026-09-02T06:35:48.327346+00:00,humbulani.masala@dsv.com,ai_agent,,valid,valid,Wrong person,10900
+2026-09-02T06:17:07.695347+00:00,dave.koontz@vestis.com,company_email_pattern,,,valid,Wrong person,11208
+2026-09-02T05:33:57.342680+00:00,jagadish.k@manasadairy.com,pipeline,,,valid,Interested,8138
+2026-09-02T05:31:54.758099+00:00,juthika.c@immuneel.com,pipeline,,valid,valid,Out of office,8703
+2026-09-02T05:31:49.879382+00:00,kannanr@sigmaavit.com,company_email_pattern,,valid,valid,Not interested,10988
+2026-09-02T05:29:18.455150+00:00,anjali.satti@hack2skill.com,pipeline,,,valid,Interested,8703
+2026-09-02T05:24:23.288032+00:00,azam.shah@dfpcl.com,company_email_pattern,,,valid,Lead,11238
+2026-09-02T03:45:15.498257+00:00,gwilliams@bowaconstruction.com,company_email_pattern,valid,,valid,Wrong person,11304
+2026-09-02T00:33:26.125201+00:00,pgibson@terracontracting.com,imported,,,,Wrong person,11091
+2026-09-02T00:27:34.276484+00:00,zhong.chen@mutonggroup.com.cn,pipeline,,,valid,Not interested,11105
+2026-09-01T23:46:52.465167+00:00,darrin.bell@cherokeetulsa.com,pipeline,,,valid,Meeting booked,10939
+2026-09-01T23:05:49.900580+00:00,gopala.jasti@adaniwilmar.in,ai_agent,,,valid,Wrong person,8138
+2026-09-01T23:05:29.945293+00:00,lisa.dickenson@carlsbadbytheseacc.org,pipeline,,,valid,Lead,9749
+2026-09-01T22:57:38.650209+00:00,kruti.patel@sargentlundy.com,dropcontact,,,valid,Out of office,11182
+2026-09-01T22:05:39.763082+00:00,laura.vondettum@ambius.com,imported,,valid,valid,Interested,11229
+2026-09-01T22:04:27.890050+00:00,rcarroll@prologis.com,company_email_pattern,,,valid,Out of office,10744
+2026-09-01T22:04:20.888107+00:00,jack@greyhavenwest.com,pipeline,,,valid,Not interested,11143
+2026-09-01T21:27:59.977929+00:00,jtassin@group-industries.com,imported,,,,Interested,11171
+2026-09-01T21:09:44.557007+00:00,rprakash@cutera.com,company_email_pattern,,,valid,Out of office,11143
+2026-09-01T21:05:09.742607+00:00,phil@jpnguides.com,pipeline,,valid,valid,Not interested,11078
+2026-09-01T21:05:04.213865+00:00,lydia.carrico@ermco-eci.com,company_email_pattern,,,valid,Wrong person,11303
+2026-09-01T20:23:45.317037+00:00,mspencer@asbury.com,ai_agent,,valid,valid,Not interested,11105
+2026-09-01T19:40:34.637080+00:00,jpaterson@tbkbank.com,imported,,,valid,Interested,11231
+2026-09-01T19:37:45.312187+00:00,bburden@hecla.com,imported,,,,Wrong person,11171
+2026-09-01T19:37:01.369533+00:00,angelica.goldman@coffman.com,other_lead,,,valid,Not interested,10614
+2026-09-01T19:25:31.666515+00:00,cindy.richardson@modpizza.com,pdl,,,valid,Wrong person,11280
+2026-09-01T19:23:18.495368+00:00,martinvalenzuela@amesco.com,imported,,,,Interested,11171
+2026-09-01T19:17:40.752161+00:00,dbello@hitt-gc.com,company_email_pattern,,valid,valid,Wrong person,11243
+2026-09-01T19:17:36.774752+00:00,czazzali@hitt-gc.com,company_email_pattern,,valid,valid,Interested,11243
+2026-09-01T19:16:42.673122+00:00,kshackley@graywc.com,ai_agent,,,valid,Interested,11243
+2026-09-01T19:08:30.000441+00:00,dcondon@barrettwoodyard.com,imported,,,,Out of office,11171
+2026-09-01T19:04:09.869537+00:00,rob.bilson@bkf.com,imported,,,,Out of office,11171
+2026-09-01T18:31:37.710109+00:00,khang@mytra.ai,company_email_pattern,,,valid,Wrong person,11185
+2026-09-01T18:20:50.118969+00:00,media@rapidimagery.com,imported,,,valid,Interested,9660
+2026-09-01T16:58:27.147986+00:00,cneal@mec-gc.com,company_email_pattern,,,valid,Out of office,11171
+2026-09-01T16:34:24.020632+00:00,shelton.kirchner@hpalloys.com,company_email_pattern,,valid,valid,Wrong person,11265
+2026-09-01T16:23:19.568506+00:00,djackson@lakeviewfarms.com,company_email_pattern,,,valid,Out of office,11111
+2026-09-01T16:21:40.673310+00:00,dan.mcmahon@hpalloys.com,pipeline,,valid,valid,Wrong person,11265
+2026-09-01T16:14:22.974839+00:00,paul.fashingbauer@gerbercollision.com,imported,,valid,valid,Out of office,11272
+2026-09-01T15:48:53.431444+00:00,dcavins@somateng.com,imported,,,valid,Interested,11263
+2026-09-01T15:45:28.970897+00:00,johnna.sucha@cardinalhealth.com,company_email_pattern,,valid,valid,Out of office,11111
+2026-09-01T15:16:11.938748+00:00,canderson@applied.com,company_email_pattern,,,valid,Wrong person,11185
+2026-09-01T14:58:12.579822+00:00,azelaya@powerxco.com,company_email_pattern,,valid,valid,Not interested,11143
+2026-09-01T14:15:57.613143+00:00,mdeal@sbhcutah.org,pipeline,,valid,valid,Lead,11118
+2026-09-01T14:15:28.006553+00:00,adam.urban@ensto.com,company_email_pattern,,valid,valid,Not interested,11220
+2026-09-01T13:12:38.311805+00:00,karl.persson@cushwake.com,company_email_pattern,,,valid,Wrong person,11178
+2026-09-01T11:56:14.081234+00:00,jalal.mazhar@almorshedymall.com,imported,,,valid,Not interested,11100
+2026-09-01T11:54:10.183568+00:00,tanzeel.ansari@infylearn.net,imported,,,,Meeting booked,11215
+2026-09-01T11:37:47.954660+00:00,kdarling@dellinolaw.com,imported,,,,Wrong person,11177
+2026-09-01T10:37:17.575307+00:00,ambika.negi@bombaysoftwares.com,pipeline,,,valid,Interested,8703
+2026-09-01T10:35:04.326552+00:00,suraj.narwal@bharatgroup.co.in,company_email_pattern,,valid,valid,Lead,11238
+2026-09-01T10:13:17.796709+00:00,jlofink@ycst.com,imported,,,,Wrong person,11177
+2026-09-01T10:07:25.639703+00:00,sales@aavishkarit.com,,,,Not Checked,Lead,5717
+2026-09-01T09:59:52.060717+00:00,rajesh@invizcon.com,company_email_pattern,,valid,valid,Meeting booked,10275
+2026-09-01T09:47:19.470908+00:00,bobz@tri-waymold.com,imported,,,,Not interested,9223
+2026-09-01T09:39:56.085855+00:00,deep@blisswebsolution.com,pipeline,,,valid,Not interested,8703
+2026-09-01T09:20:03.343503+00:00,ankur.gupta@ejagfoods.com,pipeline,,,valid,Not interested,8138
+2026-09-01T08:59:08.600311+00:00,omna@opptra.com,company_email_pattern,,,valid,Not interested,8703
+2026-09-01T08:39:30.894043+00:00,sneha.p@techaivv.com,pipeline,,,valid,Interested,8703
+2026-09-01T08:19:01.460834+00:00,betrand@ibeesolutions.com,pipeline,valid,,valid,Interested,8703
+2026-09-01T08:15:33.075747+00:00,prakashmore@shreenm.com,imported,,,valid,Not interested,11064
+2026-09-01T07:41:21.345382+00:00,apoorvdwivedi@support.store.knightscope.com,company_email_pattern,,,valid,Wrong person,11118
+2026-09-01T07:40:20.004230+00:00,rajesh.d@farmley.com,company_email_pattern,,,valid,Wrong person,8138
+2026-09-01T07:39:46.582945+00:00,hemilp@hjpmedia.com,pipeline,,,valid,Not interested,8703
+2026-09-01T07:39:44.356969+00:00,tista@goodluckcapital.com,pipeline,,valid,valid,Interested,8703
+2026-09-01T07:24:19.743062+00:00,anil.kumar@mgenindia.com,ai_agent,,,valid,Not interested,10034
+2026-09-01T06:57:20.711622+00:00,ericrose@support.store.knightscope.com,company_email_pattern,,,valid,Wrong person,11118
+2026-09-01T06:57:01.159414+00:00,bansal-nitin@dlf.in,company_email_pattern,,,valid,Out of office,11059
+2026-09-01T06:20:12.038850+00:00,reevan@dealberg.com,pipeline,,,valid,Wrong person,8703
+2026-09-01T06:16:41.083746+00:00,sonubugalia@ecozensolutions.com,imported,,,api_error,Not interested,11065
+2026-09-01T04:54:55.962242+00:00,rupesh.tribhuwan@chemcrux.com,company_email_pattern,,valid,valid,Lead,11238
+2026-09-01T04:39:45.524587+00:00,mokshita.oberoi@bevisionsure.com,pipeline,,,valid,Interested,8703
+2026-09-01T04:19:56.194067+00:00,umanandan.kakkar@jcb.com,imported,,,valid,Out of office,11169
+2026-09-01T03:56:20.489956+00:00,sarabjit.singh@esmeconsumer.in,imported,,,valid,Wrong person,11224
+2026-08-31T22:39:57.991535+00:00,matthew@quorumarchitects.com,pipeline,,,valid,Wrong person,11149
+2026-08-31T21:08:39.207631+00:00,kelii.opulauoho@hawaiianelectric.com,company_email_pattern,,valid,valid,Moderate,11183
+2026-08-31T21:06:01.708538+00:00,tmeyer@midwayfreightliner.com,pipeline,,valid,valid,Not interested,11078
+2026-08-31T20:52:57.817825+00:00,dhardwick@cwt-farms.com,company_email_pattern,,,valid,Not interested,10984
+2026-08-31T20:47:32.403140+00:00,jfuller@glanbia.com,imported,,,valid,Out of office,10999
+2026-08-31T20:27:51.813972+00:00,jhess@flemingcomplete.com,imported,,,,Interested,11171
+2026-08-31T20:11:07.977964+00:00,jromagoza@mec-gc.com,imported,,,,Out of office,11171
+2026-08-31T19:48:48.343189+00:00,mark@dennettgroup.com,pipeline,,,valid,Not interested,11078
+2026-08-31T19:46:47.313616+00:00,jackie.quinonez@rochestersensors.com,findymail_name,,,valid,Not interested,10822
+2026-08-31T19:23:59.499943+00:00,alevanduski@utsnet.com,company_email_pattern,,,valid,Not interested,11125
+2026-08-31T19:23:35.314011+00:00,melanie.quinto@onsemi.com,company_email_pattern,,valid,valid,Out of office,11137
+2026-08-31T18:52:28.634610+00:00,briane@thekraftgroup.com,imported,,,valid,Wrong person,11231
+2026-08-31T18:45:26.418287+00:00,adamr@hsisolar.com,imported,,valid,,Interested,11171
+2026-08-31T18:44:14.230604+00:00,mneetz@dmimail.com,original_lead,,,valid,Interested,11113
+2026-08-31T18:44:00.751071+00:00,jcronin@arcbldg.com,imported,,,valid,Wrong person,11225
+2026-08-31T18:42:53.154555+00:00,skoenke@lucidbots.com,imported,,,valid,Not interested,11232
+2026-08-31T18:38:26.128945+00:00,miguel@wallycastro.com,company_email_pattern,,,valid,Interested,11185
+2026-08-31T18:33:02.874534+00:00,andrea.peterson@altour.com,imported,,,valid,Wrong person,11225
+2026-08-31T18:28:30.035124+00:00,deangelo@cshl.edu,company_email_pattern,,,valid,Out of office,10794
+2026-08-31T18:08:16.170297+00:00,mike@rdiinc.us,imported,,,valid,Wrong person,11106
+2026-08-31T18:06:54.630595+00:00,alli.bryan@sephora.com,company_email_pattern,,valid,valid,Out of office,11101
+2026-08-31T17:10:57.928329+00:00,wendi.bigelow@mirabito.com,imported,,valid,valid,Wrong person,11229
+2026-08-31T17:02:57.341809+00:00,tshort@groomeindustrial.com,imported,,,valid,Wrong person,11229
+2026-08-31T16:56:22.346051+00:00,bently@allybuildingsolutions.com,imported,,,yes,Not interested,11125
+2026-08-31T16:52:14.991927+00:00,dphillips@fisherphillips.com,original_lead,,,valid,Wrong person,11180
+2026-08-31T16:43:44.967976+00:00,jg@archiveimages.com,findymail_name,,valid,valid,Not interested,11078
+2026-08-31T16:36:24.098068+00:00,oscar.pacas@nca.aero,imported,,,valid,Not interested,11231
+2026-08-31T16:23:57.729181+00:00,arayan@vantrix.co,,,,,Interested,11216
+2026-08-31T16:23:24.354268+00:00,solson@berrydunn.com,company_email_pattern,,valid,valid,Out of office,11109
+2026-08-31T16:00:02.405339+00:00,fedor.talantov@aeluma.com,company_email_pattern,,valid,valid,Not interested,11168
+2026-08-31T15:52:37.167494+00:00,bschindler@geo-solutions.com,company_email_pattern,,,valid,Lost,11239
+2026-08-31T15:43:30.946317+00:00,nelson.carrera@nca.aero,imported,,,valid,Not interested,11231
+2026-08-31T15:38:02.767277+00:00,pcannon@geo-solutions.com,pipeline,,,valid,Wrong person,11239
+2026-08-31T15:08:37.896700+00:00,kmiller@alliedfireprotection.com,company_email_pattern,,,valid,Wrong person,10613
+2026-08-31T15:00:10.995012+00:00,msegundo@mztco.com,company_email_pattern,,valid,valid,Wrong person,11093
+2026-08-31T14:57:48.788498+00:00,quincy.landingham@apartmentiq.io,company_email_pattern,,valid,valid,Wrong person,11113
+2026-08-31T14:56:18.034073+00:00,mvaness@lexcotile.com,ai_agent,,,valid,Not interested,10956
+2026-08-31T14:51:46.982829+00:00,cathy.mundt@psmedicalcenter.org,imported,,valid,valid,Wrong person,11231
+2026-08-31T14:51:25.411733+00:00,russell.streadbeck@aquabellatile.com,imported,,valid,valid,Wrong person,11229
+2026-08-31T14:45:16.742344+00:00,ttrupka@iac-intl.com,imported,,valid,valid,Not interested,11029
+2026-08-31T14:40:58.397187+00:00,dgray@hepaco.com,company_email_pattern,,,valid,Wrong person,11220
+2026-08-31T14:31:52.631995+00:00,satyabrata.sahu@infylearn.net,imported,,,,Interested,11215
+2026-08-31T14:29:21.338379+00:00,allen.ward@ruralmetrofire.com,company_email_pattern,,,valid,Wrong person,10392
+2026-08-31T13:57:00.243814+00:00,richard.nakama@shabuyarestaurant.com,company_email_pattern,,,valid,Lead,11185
+2026-08-31T13:48:41.109305+00:00,ron.eppler@arboravenue.com,pipeline,,,valid,Out of office,11201
+2026-08-31T13:47:41.561586+00:00,niki@formlabs.com,company_email_pattern,,valid,valid,Out of office,11220
+2026-08-31T13:35:01.490417+00:00,acole@lewisrice.com,company_email_pattern,,,valid,Wrong person,11102
+2026-08-31T13:23:05.203646+00:00,lissette.morejon@kubickidraper.com,company_email_pattern,,,valid,Out of office,11102
+2026-08-31T13:20:53.152070+00:00,maria_cross@bidmilton.org,company_email_pattern,,,valid,Out of office,10013
+2026-08-31T12:51:13.916164+00:00,bob.wilkins@rentlgh.com,findymail_name,,,valid,Not interested,10936
+2026-08-31T12:37:15.116101+00:00,denise.gentry@ecmd.com,company_email_pattern,,,valid,Out of office,11066
+2026-08-31T12:26:17.601476+00:00,jay.varner@altour.com,imported,,,valid,Wrong person,11225
+2026-08-31T12:21:01.535546+00:00,stephanie.moorghen@clubllondon.com,company_email_pattern,,,valid,Out of office,11049
+2026-08-31T12:13:26.033113+00:00,charnel.gouws@bodycote.com,company_email_pattern,,,valid,Wrong person,11088
+2026-08-31T12:13:02.703616+00:00,w.bailey@vega.com,original_lead,,,valid,Not interested,11119
+2026-08-31T12:12:11.821946+00:00,aaquib.shaikh@infylearn.net,imported,,,,Moderate,11215
+2026-08-31T12:01:42.154685+00:00,afreiman@mfcounsel.com,pipeline,,valid,valid,Wrong person,10983
+2026-08-31T11:58:39.548132+00:00,ddoukas@yipitdata.com,imported,,valid,yes,Out of office,11125
+2026-08-31T11:55:33.037280+00:00,mimtiaz@freshdelmonte.com,,risky,valid,valid,Interested,10694
+2026-08-31T11:55:33.020218+00:00,cphicustomerservice@informa.com,imported,,,valid,Wrong person,10469
+2026-08-31T11:55:04.587903+00:00,wally@wallycastro.com,company_email_pattern,,,valid,Interested,11185
+2026-08-31T11:34:23.741238+00:00,creativeopshead@kisna.com,imported,,valid,valid,Wrong person,11210
+2026-08-31T10:19:17.626359+00:00,shiv@kapsadvertising.com,pipeline,,,valid,Interested,8703
+2026-08-31T09:33:54.076524+00:00,tarmstrong@edenproject.com,imported,,,Verified,Out of office,11049

@@ -40,7 +40,7 @@ from concurrent.futures import ThreadPoolExecutor
 import requests
 
 DEFAULT_URL = "http://localhost:8080/v1/check_email"
-DEFAULT_INPUT = "extracted_emails-02.txt"
+DEFAULT_INPUT = "extracted_emails-03.txt"
 DEFAULT_OUTPUT = "results_socks5.json"
 
 # Fallbacks used only when the corresponding .env key is absent.
